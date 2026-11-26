@@ -1,4 +1,4 @@
-```yaml
+
 name: Lela Speak Assist Android APK
 
 on:
@@ -38,16 +38,10 @@ jobs:
       - name: Build Angular
         run: npm run build
 
-      - name: Add Android Platform If Missing
-        run: |
-          if [ ! -d android ]; then
-            npx cap add android
-          fi
-
       - name: Sync Capacitor
         run: npx cap sync android
 
-      - name: Build APK
+      - name: Build Android APK
         run: |
           cd android
           chmod +x gradlew
@@ -60,4 +54,3 @@ jobs:
           path: android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
           retention-days: 14
-```
