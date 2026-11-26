@@ -1,0 +1,3206 @@
+[
+ {
+  "id": "para001",
+  "level": "Beginner",
+  "topic": "Daily routine",
+  "sentenceCount": 4,
+  "tamil": "நான் தினமும் காலை ஆறு மணிக்கு எழுந்திருக்கிறேன். பிறகு முகம் கழுவி பல் துலக்குகிறேன். ஏழு மணிக்கு காலை உணவு சாப்பிடுகிறேன். எட்டு மணிக்கு வேலைக்குப் புறப்படுகிறேன்.",
+  "english": "I get up at six o'clock every morning. Then I wash my face and brush my teeth. I eat breakfast at seven o'clock. I leave for work at eight o'clock.",
+  "sentences": [
+   {
+    "tamil": "நான் தினமும் காலை ஆறு மணிக்கு எழுந்திருக்கிறேன்.",
+    "english": "I get up at six o'clock every morning."
+   },
+   {
+    "tamil": "பிறகு முகம் கழுவி பல் துலக்குகிறேன்.",
+    "english": "Then I wash my face and brush my teeth."
+   },
+   {
+    "tamil": "ஏழு மணிக்கு காலை உணவு சாப்பிடுகிறேன்.",
+    "english": "I eat breakfast at seven o'clock."
+   },
+   {
+    "tamil": "எட்டு மணிக்கு வேலைக்குப் புறப்படுகிறேன்.",
+    "english": "I leave for work at eight o'clock."
+   }
+  ]
+ },
+ {
+  "id": "para002",
+  "level": "Beginner",
+  "topic": "Family",
+  "sentenceCount": 3,
+  "tamil": "என் குடும்பத்தில் ஐந்து பேர் இருக்கிறார்கள். என் அப்பா ஒரு ஆசிரியர். என் அம்மா வீட்டில் சமைக்கிறார்.",
+  "english": "There are five people in my family. My father is a teacher. My mother cooks at home.",
+  "sentences": [
+   {
+    "tamil": "என் குடும்பத்தில் ஐந்து பேர் இருக்கிறார்கள்.",
+    "english": "There are five people in my family."
+   },
+   {
+    "tamil": "என் அப்பா ஒரு ஆசிரியர்.",
+    "english": "My father is a teacher."
+   },
+   {
+    "tamil": "என் அம்மா வீட்டில் சமைக்கிறார்.",
+    "english": "My mother cooks at home."
+   }
+  ]
+ },
+ {
+  "id": "para003",
+  "level": "Beginner",
+  "topic": "Friends",
+  "sentenceCount": 4,
+  "tamil": "என் நண்பன் பெயர் ரவி. அவன் என் வகுப்பில் படிக்கிறான். நாங்கள் ஒன்றாகப் பள்ளிக்குச் செல்கிறோம். அவன் எனக்கு எப்போதும் உதவி செய்வான்.",
+  "english": "My friend's name is Ravi. He studies in my class. We go to school together. He always helps me.",
+  "sentences": [
+   {
+    "tamil": "என் நண்பன் பெயர் ரவி.",
+    "english": "My friend's name is Ravi."
+   },
+   {
+    "tamil": "அவன் என் வகுப்பில் படிக்கிறான்.",
+    "english": "He studies in my class."
+   },
+   {
+    "tamil": "நாங்கள் ஒன்றாகப் பள்ளிக்குச் செல்கிறோம்.",
+    "english": "We go to school together."
+   },
+   {
+    "tamil": "அவன் எனக்கு எப்போதும் உதவி செய்வான்.",
+    "english": "He always helps me."
+   }
+  ]
+ },
+ {
+  "id": "para004",
+  "level": "Beginner",
+  "topic": "Home",
+  "sentenceCount": 3,
+  "tamil": "எங்கள் வீடு சிறியது, ஆனால் அழகானது. வீட்டில் மூன்று அறைகள் உள்ளன. வீட்டின் முன்னால் ஒரு சிறிய தோட்டம் இருக்கிறது.",
+  "english": "Our house is small, but it is beautiful. There are three rooms in the house. There is a small garden in front of the house.",
+  "sentences": [
+   {
+    "tamil": "எங்கள் வீடு சிறியது, ஆனால் அழகானது.",
+    "english": "Our house is small, but it is beautiful."
+   },
+   {
+    "tamil": "வீட்டில் மூன்று அறைகள் உள்ளன.",
+    "english": "There are three rooms in the house."
+   },
+   {
+    "tamil": "வீட்டின் முன்னால் ஒரு சிறிய தோட்டம் இருக்கிறது.",
+    "english": "There is a small garden in front of the house."
+   }
+  ]
+ },
+ {
+  "id": "para005",
+  "level": "Beginner",
+  "topic": "Cooking",
+  "sentenceCount": 4,
+  "tamil": "இன்று நான் மதிய உணவுக்கு சாதம் சமைத்தேன். அதனுடன் சாம்பாரும் செய்தேன். என் தங்கை காய்கறிகளை நறுக்கினாள். எல்லோரும் உணவை விரும்பிச் சாப்பிட்டார்கள்.",
+  "english": "Today I cooked rice for lunch. I also made sambar with it. My younger sister chopped the vegetables. Everyone ate the food happily.",
+  "sentences": [
+   {
+    "tamil": "இன்று நான் மதிய உணவுக்கு சாதம் சமைத்தேன்.",
+    "english": "Today I cooked rice for lunch."
+   },
+   {
+    "tamil": "அதனுடன் சாம்பாரும் செய்தேன்.",
+    "english": "I also made sambar with it."
+   },
+   {
+    "tamil": "என் தங்கை காய்கறிகளை நறுக்கினாள்.",
+    "english": "My younger sister chopped the vegetables."
+   },
+   {
+    "tamil": "எல்லோரும் உணவை விரும்பிச் சாப்பிட்டார்கள்.",
+    "english": "Everyone ate the food happily."
+   }
+  ]
+ },
+ {
+  "id": "para006",
+  "level": "Beginner",
+  "topic": "Shopping",
+  "sentenceCount": 3,
+  "tamil": "நேற்று நான் கடைக்குச் சென்றேன். அங்கே பால், முட்டை மற்றும் ரொட்டி வாங்கினேன். கடைக்காரருக்கு நூறு ரூபாய் கொடுத்தேன்.",
+  "english": "Yesterday I went to the shop. I bought milk, eggs and bread there. I gave the shopkeeper one hundred rupees.",
+  "sentences": [
+   {
+    "tamil": "நேற்று நான் கடைக்குச் சென்றேன்.",
+    "english": "Yesterday I went to the shop."
+   },
+   {
+    "tamil": "அங்கே பால், முட்டை மற்றும் ரொட்டி வாங்கினேன்.",
+    "english": "I bought milk, eggs and bread there."
+   },
+   {
+    "tamil": "கடைக்காரருக்கு நூறு ரூபாய் கொடுத்தேன்.",
+    "english": "I gave the shopkeeper one hundred rupees."
+   }
+  ]
+ },
+ {
+  "id": "para007",
+  "level": "Beginner",
+  "topic": "Travel",
+  "sentenceCount": 4,
+  "tamil": "அடுத்த வாரம் நாங்கள் மதுரைக்குப் போகிறோம். அங்கே என் பாட்டி இருக்கிறார். நாங்கள் மீனாட்சி அம்மன் கோவிலைப் பார்ப்போம். அந்தப் பயணத்தை நான் மிகவும் எதிர்பார்க்கிறேன்.",
+  "english": "Next week we are going to Madurai. My grandmother lives there. We will see the Meenakshi Amman temple. I am really looking forward to that trip.",
+  "sentences": [
+   {
+    "tamil": "அடுத்த வாரம் நாங்கள் மதுரைக்குப் போகிறோம்.",
+    "english": "Next week we are going to Madurai."
+   },
+   {
+    "tamil": "அங்கே என் பாட்டி இருக்கிறார்.",
+    "english": "My grandmother lives there."
+   },
+   {
+    "tamil": "நாங்கள் மீனாட்சி அம்மன் கோவிலைப் பார்ப்போம்.",
+    "english": "We will see the Meenakshi Amman temple."
+   },
+   {
+    "tamil": "அந்தப் பயணத்தை நான் மிகவும் எதிர்பார்க்கிறேன்.",
+    "english": "I am really looking forward to that trip."
+   }
+  ]
+ },
+ {
+  "id": "para008",
+  "level": "Beginner",
+  "topic": "Bus journey",
+  "sentenceCount": 3,
+  "tamil": "நான் தினமும் பேருந்தில் அலுவலகம் செல்கிறேன். பேருந்து நிறுத்தம் என் வீட்டுக்கு அருகில் உள்ளது. சில நேரங்களில் பேருந்தில் கூட்டம் அதிகமாக இருக்கும்.",
+  "english": "I go to the office by bus every day. The bus stop is near my house. Sometimes the bus is very crowded.",
+  "sentences": [
+   {
+    "tamil": "நான் தினமும் பேருந்தில் அலுவலகம் செல்கிறேன்.",
+    "english": "I go to the office by bus every day."
+   },
+   {
+    "tamil": "பேருந்து நிறுத்தம் என் வீட்டுக்கு அருகில் உள்ளது.",
+    "english": "The bus stop is near my house."
+   },
+   {
+    "tamil": "சில நேரங்களில் பேருந்தில் கூட்டம் அதிகமாக இருக்கும்.",
+    "english": "Sometimes the bus is very crowded."
+   }
+  ]
+ },
+ {
+  "id": "para009",
+  "level": "Beginner",
+  "topic": "Train journey",
+  "sentenceCount": 3,
+  "tamil": "நாங்கள் ரயிலில் சென்னைக்குப் பயணம் செய்தோம். ரயில் காலை ஆறு மணிக்குப் புறப்பட்டது. ஜன்னல் வழியாக அழகான காட்சிகளைப் பார்த்தேன்.",
+  "english": "We travelled to Chennai by train. The train left at six in the morning. I saw beautiful views through the window.",
+  "sentences": [
+   {
+    "tamil": "நாங்கள் ரயிலில் சென்னைக்குப் பயணம் செய்தோம்.",
+    "english": "We travelled to Chennai by train."
+   },
+   {
+    "tamil": "ரயில் காலை ஆறு மணிக்குப் புறப்பட்டது.",
+    "english": "The train left at six in the morning."
+   },
+   {
+    "tamil": "ஜன்னல் வழியாக அழகான காட்சிகளைப் பார்த்தேன்.",
+    "english": "I saw beautiful views through the window."
+   }
+  ]
+ },
+ {
+  "id": "para010",
+  "level": "Beginner",
+  "topic": "Everyday wellness",
+  "sentenceCount": 3,
+  "tamil": "நான் தினமும் காலையில் நடைப்பயிற்சி செய்கிறேன். தினமும் நிறைய தண்ணீர் குடிக்கிறேன். இரவில் சீக்கிரம் தூங்கச் செல்கிறேன்.",
+  "english": "I go for a walk every morning. I drink a lot of water every day. I go to bed early at night.",
+  "sentences": [
+   {
+    "tamil": "நான் தினமும் காலையில் நடைப்பயிற்சி செய்கிறேன்.",
+    "english": "I go for a walk every morning."
+   },
+   {
+    "tamil": "தினமும் நிறைய தண்ணீர் குடிக்கிறேன்.",
+    "english": "I drink a lot of water every day."
+   },
+   {
+    "tamil": "இரவில் சீக்கிரம் தூங்கச் செல்கிறேன்.",
+    "english": "I go to bed early at night."
+   }
+  ]
+ },
+ {
+  "id": "para011",
+  "level": "Beginner",
+  "topic": "School",
+  "sentenceCount": 3,
+  "tamil": "என் தம்பி ஐந்தாம் வகுப்பில் படிக்கிறான். அவனுக்கு கணக்குப் பாடம் மிகவும் பிடிக்கும். பள்ளியில் அவனுக்கு நிறைய நண்பர்கள் இருக்கிறார்கள்.",
+  "english": "My younger brother studies in the fifth standard. He likes maths very much. He has many friends at school.",
+  "sentences": [
+   {
+    "tamil": "என் தம்பி ஐந்தாம் வகுப்பில் படிக்கிறான்.",
+    "english": "My younger brother studies in the fifth standard."
+   },
+   {
+    "tamil": "அவனுக்கு கணக்குப் பாடம் மிகவும் பிடிக்கும்.",
+    "english": "He likes maths very much."
+   },
+   {
+    "tamil": "பள்ளியில் அவனுக்கு நிறைய நண்பர்கள் இருக்கிறார்கள்.",
+    "english": "He has many friends at school."
+   }
+  ]
+ },
+ {
+  "id": "para012",
+  "level": "Beginner",
+  "topic": "Learning English",
+  "sentenceCount": 4,
+  "tamil": "நான் ஆங்கிலம் கற்றுக்கொண்டிருக்கிறேன். தினமும் பத்து புதிய வார்த்தைகளைப் படிக்கிறேன். என் ஆசிரியர் எனக்கு நன்றாகக் கற்றுக்கொடுக்கிறார். எனக்கு ஆங்கிலத்தில் சரளமாகப் பேச வேண்டும்.",
+  "english": "I am learning English. I study ten new words every day. My teacher teaches me very well. I want to speak English fluently.",
+  "sentences": [
+   {
+    "tamil": "நான் ஆங்கிலம் கற்றுக்கொண்டிருக்கிறேன்.",
+    "english": "I am learning English."
+   },
+   {
+    "tamil": "தினமும் பத்து புதிய வார்த்தைகளைப் படிக்கிறேன்.",
+    "english": "I study ten new words every day."
+   },
+   {
+    "tamil": "என் ஆசிரியர் எனக்கு நன்றாகக் கற்றுக்கொடுக்கிறார்.",
+    "english": "My teacher teaches me very well."
+   },
+   {
+    "tamil": "எனக்கு ஆங்கிலத்தில் சரளமாகப் பேச வேண்டும்.",
+    "english": "I want to speak English fluently."
+   }
+  ]
+ },
+ {
+  "id": "para013",
+  "level": "Beginner",
+  "topic": "Weather",
+  "sentenceCount": 3,
+  "tamil": "இன்று வானிலை மிகவும் நன்றாக இருக்கிறது. வானம் தெளிவாக இருக்கிறது. மாலையில் மழை பெய்யலாம்.",
+  "english": "The weather is very nice today. The sky is clear. It may rain in the evening.",
+  "sentences": [
+   {
+    "tamil": "இன்று வானிலை மிகவும் நன்றாக இருக்கிறது.",
+    "english": "The weather is very nice today."
+   },
+   {
+    "tamil": "வானம் தெளிவாக இருக்கிறது.",
+    "english": "The sky is clear."
+   },
+   {
+    "tamil": "மாலையில் மழை பெய்யலாம்.",
+    "english": "It may rain in the evening."
+   }
+  ]
+ },
+ {
+  "id": "para014",
+  "level": "Beginner",
+  "topic": "Hobbies",
+  "sentenceCount": 3,
+  "tamil": "எனக்கு புத்தகம் படிப்பது பிடிக்கும். ஓய்வு நேரத்தில் நான் பாடல்களும் கேட்கிறேன். வார இறுதியில் என் நண்பர்களுடன் கிரிக்கெட் விளையாடுவேன்.",
+  "english": "I like reading books. I also listen to songs in my free time. On weekends I play cricket with my friends.",
+  "sentences": [
+   {
+    "tamil": "எனக்கு புத்தகம் படிப்பது பிடிக்கும்.",
+    "english": "I like reading books."
+   },
+   {
+    "tamil": "ஓய்வு நேரத்தில் நான் பாடல்களும் கேட்கிறேன்.",
+    "english": "I also listen to songs in my free time."
+   },
+   {
+    "tamil": "வார இறுதியில் என் நண்பர்களுடன் கிரிக்கெட் விளையாடுவேன்.",
+    "english": "On weekends I play cricket with my friends."
+   }
+  ]
+ },
+ {
+  "id": "para015",
+  "level": "Beginner",
+  "topic": "Festivals",
+  "sentenceCount": 4,
+  "tamil": "தீபாவளி எனக்குப் பிடித்த பண்டிகை. அன்று நாங்கள் புதிய ஆடைகள் அணிகிறோம். உறவினர்களுடன் இனிப்புகளைப் பகிர்ந்து கொள்கிறோம். இரவில் பட்டாசு வெடிக்கிறோம்.",
+  "english": "Diwali is my favourite festival. On that day we wear new clothes. We share sweets with our relatives. At night we burst crackers.",
+  "sentences": [
+   {
+    "tamil": "தீபாவளி எனக்குப் பிடித்த பண்டிகை.",
+    "english": "Diwali is my favourite festival."
+   },
+   {
+    "tamil": "அன்று நாங்கள் புதிய ஆடைகள் அணிகிறோம்.",
+    "english": "On that day we wear new clothes."
+   },
+   {
+    "tamil": "உறவினர்களுடன் இனிப்புகளைப் பகிர்ந்து கொள்கிறோம்.",
+    "english": "We share sweets with our relatives."
+   },
+   {
+    "tamil": "இரவில் பட்டாசு வெடிக்கிறோம்.",
+    "english": "At night we burst crackers."
+   }
+  ]
+ },
+ {
+  "id": "para016",
+  "level": "Beginner",
+  "topic": "Money",
+  "sentenceCount": 3,
+  "tamil": "நான் ஒவ்வொரு மாதமும் கொஞ்சம் பணம் சேமிக்கிறேன். அந்தப் பணத்தை வங்கியில் போடுகிறேன். தேவையில்லாத பொருட்களை நான் வாங்குவதில்லை.",
+  "english": "I save a little money every month. I put that money in the bank. I do not buy things I do not need.",
+  "sentences": [
+   {
+    "tamil": "நான் ஒவ்வொரு மாதமும் கொஞ்சம் பணம் சேமிக்கிறேன்.",
+    "english": "I save a little money every month."
+   },
+   {
+    "tamil": "அந்தப் பணத்தை வங்கியில் போடுகிறேன்.",
+    "english": "I put that money in the bank."
+   },
+   {
+    "tamil": "தேவையில்லாத பொருட்களை நான் வாங்குவதில்லை.",
+    "english": "I do not buy things I do not need."
+   }
+  ]
+ },
+ {
+  "id": "para017",
+  "level": "Beginner",
+  "topic": "Helping others",
+  "sentenceCount": 3,
+  "tamil": "நேற்று ஒரு முதியவர் சாலையைக் கடக்க முடியாமல் நின்றார். நான் அவரின் கையைப் பிடித்து உதவினேன். அவர் எனக்கு நன்றி சொன்னார்.",
+  "english": "Yesterday an old man was standing there, unable to cross the road. I held his hand and helped him. He thanked me.",
+  "sentences": [
+   {
+    "tamil": "நேற்று ஒரு முதியவர் சாலையைக் கடக்க முடியாமல் நின்றார்.",
+    "english": "Yesterday an old man was standing there, unable to cross the road."
+   },
+   {
+    "tamil": "நான் அவரின் கையைப் பிடித்து உதவினேன்.",
+    "english": "I held his hand and helped him."
+   },
+   {
+    "tamil": "அவர் எனக்கு நன்றி சொன்னார்.",
+    "english": "He thanked me."
+   }
+  ]
+ },
+ {
+  "id": "para018",
+  "level": "Beginner",
+  "topic": "Morning at home",
+  "sentenceCount": 3,
+  "tamil": "என் அம்மா தினமும் அதிகாலையில் எழுந்து விடுகிறார். அவர் எங்களுக்காக தேநீர் தயாரிக்கிறார். நாங்கள் எல்லோரும் ஒன்றாக அமர்ந்து குடிக்கிறோம்.",
+  "english": "My mother gets up very early every day. She makes tea for us. We all sit together and drink it.",
+  "sentences": [
+   {
+    "tamil": "என் அம்மா தினமும் அதிகாலையில் எழுந்து விடுகிறார்.",
+    "english": "My mother gets up very early every day."
+   },
+   {
+    "tamil": "அவர் எங்களுக்காக தேநீர் தயாரிக்கிறார்.",
+    "english": "She makes tea for us."
+   },
+   {
+    "tamil": "நாங்கள் எல்லோரும் ஒன்றாக அமர்ந்து குடிக்கிறோம்.",
+    "english": "We all sit together and drink it."
+   }
+  ]
+ },
+ {
+  "id": "para019",
+  "level": "Beginner",
+  "topic": "Mobile phones",
+  "sentenceCount": 3,
+  "tamil": "என்னிடம் ஒரு புதிய கைபேசி இருக்கிறது. அதில் நான் என் நண்பர்களுக்கு செய்தி அனுப்புகிறேன். இரவில் நீண்ட நேரம் கைபேசி பார்ப்பது நல்லதல்ல.",
+  "english": "I have a new mobile phone. I send messages to my friends on it. Looking at the phone for a long time at night is not good.",
+  "sentences": [
+   {
+    "tamil": "என்னிடம் ஒரு புதிய கைபேசி இருக்கிறது.",
+    "english": "I have a new mobile phone."
+   },
+   {
+    "tamil": "அதில் நான் என் நண்பர்களுக்கு செய்தி அனுப்புகிறேன்.",
+    "english": "I send messages to my friends on it."
+   },
+   {
+    "tamil": "இரவில் நீண்ட நேரம் கைபேசி பார்ப்பது நல்லதல்ல.",
+    "english": "Looking at the phone for a long time at night is not good."
+   }
+  ]
+ },
+ {
+  "id": "para020",
+  "level": "Beginner",
+  "topic": "Computers",
+  "sentenceCount": 3,
+  "tamil": "என் அலுவலகத்தில் எல்லோரும் கணினியில் வேலை செய்கிறார்கள். நான் தினமும் பல மின்னஞ்சல்களை எழுதுகிறேன். சில நேரங்களில் கணினி மெதுவாக இயங்கும்.",
+  "english": "Everyone in my office works on a computer. I write many emails every day. Sometimes the computer runs slowly.",
+  "sentences": [
+   {
+    "tamil": "என் அலுவலகத்தில் எல்லோரும் கணினியில் வேலை செய்கிறார்கள்.",
+    "english": "Everyone in my office works on a computer."
+   },
+   {
+    "tamil": "நான் தினமும் பல மின்னஞ்சல்களை எழுதுகிறேன்.",
+    "english": "I write many emails every day."
+   },
+   {
+    "tamil": "சில நேரங்களில் கணினி மெதுவாக இயங்கும்.",
+    "english": "Sometimes the computer runs slowly."
+   }
+  ]
+ },
+ {
+  "id": "para021",
+  "level": "Beginner",
+  "topic": "At the market",
+  "sentenceCount": 4,
+  "tamil": "ஞாயிற்றுக்கிழமை நாங்கள் சந்தைக்குச் செல்வோம். அங்கே காய்கறிகள் மிகவும் புதியவை. என் அப்பா பேரம் பேசி வாங்குவார். நான் பைகளைத் தூக்கிக்கொண்டு வருவேன்.",
+  "english": "On Sundays we go to the market. The vegetables there are very fresh. My father bargains before buying. I carry the bags.",
+  "sentences": [
+   {
+    "tamil": "ஞாயிற்றுக்கிழமை நாங்கள் சந்தைக்குச் செல்வோம்.",
+    "english": "On Sundays we go to the market."
+   },
+   {
+    "tamil": "அங்கே காய்கறிகள் மிகவும் புதியவை.",
+    "english": "The vegetables there are very fresh."
+   },
+   {
+    "tamil": "என் அப்பா பேரம் பேசி வாங்குவார்.",
+    "english": "My father bargains before buying."
+   },
+   {
+    "tamil": "நான் பைகளைத் தூக்கிக்கொண்டு வருவேன்.",
+    "english": "I carry the bags."
+   }
+  ]
+ },
+ {
+  "id": "para022",
+  "level": "Beginner",
+  "topic": "Visiting the doctor",
+  "sentenceCount": 3,
+  "tamil": "எனக்கு நேற்று காய்ச்சல் வந்தது. நான் மருத்துவரிடம் சென்றேன். அவர் எனக்கு மருந்து கொடுத்து ஓய்வெடுக்கச் சொன்னார்.",
+  "english": "I had a fever yesterday. I went to the doctor. He gave me medicine and told me to rest.",
+  "sentences": [
+   {
+    "tamil": "எனக்கு நேற்று காய்ச்சல் வந்தது.",
+    "english": "I had a fever yesterday."
+   },
+   {
+    "tamil": "நான் மருத்துவரிடம் சென்றேன்.",
+    "english": "I went to the doctor."
+   },
+   {
+    "tamil": "அவர் எனக்கு மருந்து கொடுத்து ஓய்வெடுக்கச் சொன்னார்.",
+    "english": "He gave me medicine and told me to rest."
+   }
+  ]
+ },
+ {
+  "id": "para023",
+  "level": "Beginner",
+  "topic": "My neighbour",
+  "sentenceCount": 3,
+  "tamil": "எங்கள் பக்கத்து வீட்டில் ஒரு அன்பான குடும்பம் வசிக்கிறது. அவர்கள் எப்போதும் எங்களைப் பார்த்துப் புன்னகைப்பார்கள். பண்டிகை நாட்களில் நாங்கள் உணவைப் பகிர்ந்து கொள்வோம்.",
+  "english": "A kind family lives next door to us. They always smile at us. On festival days we share food.",
+  "sentences": [
+   {
+    "tamil": "எங்கள் பக்கத்து வீட்டில் ஒரு அன்பான குடும்பம் வசிக்கிறது.",
+    "english": "A kind family lives next door to us."
+   },
+   {
+    "tamil": "அவர்கள் எப்போதும் எங்களைப் பார்த்துப் புன்னகைப்பார்கள்.",
+    "english": "They always smile at us."
+   },
+   {
+    "tamil": "பண்டிகை நாட்களில் நாங்கள் உணவைப் பகிர்ந்து கொள்வோம்.",
+    "english": "On festival days we share food."
+   }
+  ]
+ },
+ {
+  "id": "para024",
+  "level": "Beginner",
+  "topic": "A rainy day",
+  "sentenceCount": 4,
+  "tamil": "நேற்று நாள் முழுவதும் மழை பெய்தது. சாலைகளில் தண்ணீர் தேங்கியிருந்தது. நான் குடை எடுத்துச் செல்ல மறந்துவிட்டேன். அதனால் முழுவதும் நனைந்து விட்டேன்.",
+  "english": "It rained all day yesterday. There was water standing on the roads. I forgot to take an umbrella. So I got completely wet.",
+  "sentences": [
+   {
+    "tamil": "நேற்று நாள் முழுவதும் மழை பெய்தது.",
+    "english": "It rained all day yesterday."
+   },
+   {
+    "tamil": "சாலைகளில் தண்ணீர் தேங்கியிருந்தது.",
+    "english": "There was water standing on the roads."
+   },
+   {
+    "tamil": "நான் குடை எடுத்துச் செல்ல மறந்துவிட்டேன்.",
+    "english": "I forgot to take an umbrella."
+   },
+   {
+    "tamil": "அதனால் முழுவதும் நனைந்து விட்டேன்.",
+    "english": "So I got completely wet."
+   }
+  ]
+ },
+ {
+  "id": "para025",
+  "level": "Beginner",
+  "topic": "My pet",
+  "sentenceCount": 3,
+  "tamil": "எங்கள் வீட்டில் ஒரு நாய் இருக்கிறது. அதன் பெயர் டாமி. நான் தினமும் மாலையில் அதை வெளியே அழைத்துச் செல்கிறேன்.",
+  "english": "We have a dog at home. His name is Tommy. I take him outside every evening.",
+  "sentences": [
+   {
+    "tamil": "எங்கள் வீட்டில் ஒரு நாய் இருக்கிறது.",
+    "english": "We have a dog at home."
+   },
+   {
+    "tamil": "அதன் பெயர் டாமி.",
+    "english": "His name is Tommy."
+   },
+   {
+    "tamil": "நான் தினமும் மாலையில் அதை வெளியே அழைத்துச் செல்கிறேன்.",
+    "english": "I take him outside every evening."
+   }
+  ]
+ },
+ {
+  "id": "para026",
+  "level": "Beginner",
+  "topic": "Birthday",
+  "sentenceCount": 3,
+  "tamil": "நாளை என் தங்கையின் பிறந்தநாள். நாங்கள் அவளுக்கு ஒரு கேக் வாங்கியிருக்கிறோம். எல்லோரும் அவளுக்கு வாழ்த்துச் சொல்வோம்.",
+  "english": "Tomorrow is my younger sister's birthday. We have bought a cake for her. We will all wish her a happy birthday.",
+  "sentences": [
+   {
+    "tamil": "நாளை என் தங்கையின் பிறந்தநாள்.",
+    "english": "Tomorrow is my younger sister's birthday."
+   },
+   {
+    "tamil": "நாங்கள் அவளுக்கு ஒரு கேக் வாங்கியிருக்கிறோம்.",
+    "english": "We have bought a cake for her."
+   },
+   {
+    "tamil": "எல்லோரும் அவளுக்கு வாழ்த்துச் சொல்வோம்.",
+    "english": "We will all wish her a happy birthday."
+   }
+  ]
+ },
+ {
+  "id": "para027",
+  "level": "Beginner",
+  "topic": "At the bank",
+  "sentenceCount": 3,
+  "tamil": "நான் இன்று வங்கிக்குச் சென்றேன். அங்கே நிறைய கூட்டம் இருந்தது. நான் வரிசையில் காத்திருந்து என் பணத்தை எடுத்தேன்.",
+  "english": "I went to the bank today. There was a big crowd there. I waited in the line and took out my money.",
+  "sentences": [
+   {
+    "tamil": "நான் இன்று வங்கிக்குச் சென்றேன்.",
+    "english": "I went to the bank today."
+   },
+   {
+    "tamil": "அங்கே நிறைய கூட்டம் இருந்தது.",
+    "english": "There was a big crowd there."
+   },
+   {
+    "tamil": "நான் வரிசையில் காத்திருந்து என் பணத்தை எடுத்தேன்.",
+    "english": "I waited in the line and took out my money."
+   }
+  ]
+ },
+ {
+  "id": "para028",
+  "level": "Beginner",
+  "topic": "Playing in the park",
+  "sentenceCount": 3,
+  "tamil": "மாலை நேரத்தில் குழந்தைகள் பூங்காவில் விளையாடுகிறார்கள். சிலர் ஊஞ்சலில் ஆடுகிறார்கள். பெரியவர்கள் பெஞ்சுகளில் அமர்ந்து பேசுகிறார்கள்.",
+  "english": "In the evening the children play in the park. Some of them swing on the swings. The elders sit on the benches and talk.",
+  "sentences": [
+   {
+    "tamil": "மாலை நேரத்தில் குழந்தைகள் பூங்காவில் விளையாடுகிறார்கள்.",
+    "english": "In the evening the children play in the park."
+   },
+   {
+    "tamil": "சிலர் ஊஞ்சலில் ஆடுகிறார்கள்.",
+    "english": "Some of them swing on the swings."
+   },
+   {
+    "tamil": "பெரியவர்கள் பெஞ்சுகளில் அமர்ந்து பேசுகிறார்கள்.",
+    "english": "The elders sit on the benches and talk."
+   }
+  ]
+ },
+ {
+  "id": "para029",
+  "level": "Beginner",
+  "topic": "A new job",
+  "sentenceCount": 3,
+  "tamil": "என் அண்ணனுக்கு புதிய வேலை கிடைத்திருக்கிறது. அவர் அடுத்த திங்கட்கிழமை வேலையில் சேர்கிறார். நாங்கள் எல்லோரும் அவரை நினைத்துப் பெருமைப்படுகிறோம்.",
+  "english": "My elder brother has got a new job. He is joining work next Monday. We are all proud of him.",
+  "sentences": [
+   {
+    "tamil": "என் அண்ணனுக்கு புதிய வேலை கிடைத்திருக்கிறது.",
+    "english": "My elder brother has got a new job."
+   },
+   {
+    "tamil": "அவர் அடுத்த திங்கட்கிழமை வேலையில் சேர்கிறார்.",
+    "english": "He is joining work next Monday."
+   },
+   {
+    "tamil": "நாங்கள் எல்லோரும் அவரை நினைத்துப் பெருமைப்படுகிறோம்.",
+    "english": "We are all proud of him."
+   }
+  ]
+ },
+ {
+  "id": "para030",
+  "level": "Beginner",
+  "topic": "Cleaning the house",
+  "sentenceCount": 4,
+  "tamil": "ஞாயிற்றுக்கிழமை நாங்கள் வீட்டைச் சுத்தம் செய்கிறோம். நான் தரையைத் துடைக்கிறேன். என் தங்கை பாத்திரங்களைக் கழுவுகிறாள். வேலை முடிந்த பிறகு வீடு மிகவும் அழகாக இருக்கும்.",
+  "english": "On Sundays we clean the house. I mop the floor. My younger sister washes the dishes. After the work is done, the house looks very beautiful.",
+  "sentences": [
+   {
+    "tamil": "ஞாயிற்றுக்கிழமை நாங்கள் வீட்டைச் சுத்தம் செய்கிறோம்.",
+    "english": "On Sundays we clean the house."
+   },
+   {
+    "tamil": "நான் தரையைத் துடைக்கிறேன்.",
+    "english": "I mop the floor."
+   },
+   {
+    "tamil": "என் தங்கை பாத்திரங்களைக் கழுவுகிறாள்.",
+    "english": "My younger sister washes the dishes."
+   },
+   {
+    "tamil": "வேலை முடிந்த பிறகு வீடு மிகவும் அழகாக இருக்கும்.",
+    "english": "After the work is done, the house looks very beautiful."
+   }
+  ]
+ },
+ {
+  "id": "para031",
+  "level": "Intermediate",
+  "topic": "Daily routine",
+  "sentenceCount": 6,
+  "tamil": "நான் வாரநாட்களில் காலை ஐந்தரை மணிக்கு எழுந்துவிடுவேன். முதலில் சிறிது நேரம் உடற்பயிற்சி செய்வேன். பிறகு குளித்துவிட்டு அலுவலகத்துக்குத் தயாராவேன். காலை உணவை அவசரமாகச் சாப்பிட்டு எட்டு மணிக்குப் புறப்படுவேன். மாலையில் வீடு திரும்பியதும் குடும்பத்துடன் நேரம் செலவிடுவேன். இரவு பத்து மணிக்குள் தூங்கிவிடுவேன்.",
+  "english": "On weekdays I wake up at half past five. First I exercise for a short time. Then I take a bath and get ready for the office. I eat breakfast in a hurry and leave at eight. When I get back home in the evening, I spend time with my family. I go to sleep before ten at night.",
+  "sentences": [
+   {
+    "tamil": "நான் வாரநாட்களில் காலை ஐந்தரை மணிக்கு எழுந்துவிடுவேன்.",
+    "english": "On weekdays I wake up at half past five."
+   },
+   {
+    "tamil": "முதலில் சிறிது நேரம் உடற்பயிற்சி செய்வேன்.",
+    "english": "First I exercise for a short time."
+   },
+   {
+    "tamil": "பிறகு குளித்துவிட்டு அலுவலகத்துக்குத் தயாராவேன்.",
+    "english": "Then I take a bath and get ready for the office."
+   },
+   {
+    "tamil": "காலை உணவை அவசரமாகச் சாப்பிட்டு எட்டு மணிக்குப் புறப்படுவேன்.",
+    "english": "I eat breakfast in a hurry and leave at eight."
+   },
+   {
+    "tamil": "மாலையில் வீடு திரும்பியதும் குடும்பத்துடன் நேரம் செலவிடுவேன்.",
+    "english": "When I get back home in the evening, I spend time with my family."
+   },
+   {
+    "tamil": "இரவு பத்து மணிக்குள் தூங்கிவிடுவேன்.",
+    "english": "I go to sleep before ten at night."
+   }
+  ]
+ },
+ {
+  "id": "para032",
+  "level": "Intermediate",
+  "topic": "Family gathering",
+  "sentenceCount": 6,
+  "tamil": "கடந்த ஞாயிற்றுக்கிழமை எங்கள் உறவினர்கள் எங்கள் வீட்டுக்கு வந்தார்கள். என் அம்மா காலையிலிருந்தே சமையல் செய்துகொண்டிருந்தார். நாங்கள் எல்லோரும் ஒன்றாக அமர்ந்து மதிய உணவு சாப்பிட்டோம். குழந்தைகள் முற்றத்தில் விளையாடிக்கொண்டிருந்தார்கள். மாலையில் எல்லோரும் தேநீர் குடித்துவிட்டு புறப்பட்டார்கள். அவர்கள் போன பிறகு வீடு அமைதியாகத் தோன்றியது.",
+  "english": "Last Sunday our relatives came to our house. My mother had been cooking since the morning. We all sat together and had lunch. The children were playing in the yard. In the evening everyone had tea and left. After they left, the house felt quiet.",
+  "sentences": [
+   {
+    "tamil": "கடந்த ஞாயிற்றுக்கிழமை எங்கள் உறவினர்கள் எங்கள் வீட்டுக்கு வந்தார்கள்.",
+    "english": "Last Sunday our relatives came to our house."
+   },
+   {
+    "tamil": "என் அம்மா காலையிலிருந்தே சமையல் செய்துகொண்டிருந்தார்.",
+    "english": "My mother had been cooking since the morning."
+   },
+   {
+    "tamil": "நாங்கள் எல்லோரும் ஒன்றாக அமர்ந்து மதிய உணவு சாப்பிட்டோம்.",
+    "english": "We all sat together and had lunch."
+   },
+   {
+    "tamil": "குழந்தைகள் முற்றத்தில் விளையாடிக்கொண்டிருந்தார்கள்.",
+    "english": "The children were playing in the yard."
+   },
+   {
+    "tamil": "மாலையில் எல்லோரும் தேநீர் குடித்துவிட்டு புறப்பட்டார்கள்.",
+    "english": "In the evening everyone had tea and left."
+   },
+   {
+    "tamil": "அவர்கள் போன பிறகு வீடு அமைதியாகத் தோன்றியது.",
+    "english": "After they left, the house felt quiet."
+   }
+  ]
+ },
+ {
+  "id": "para033",
+  "level": "Intermediate",
+  "topic": "Friendship",
+  "sentenceCount": 5,
+  "tamil": "நானும் என் நண்பனும் பத்து ஆண்டுகளாக ஒன்றாகப் படித்தோம். பள்ளி முடிந்த பிறகு அவன் வேறு ஊருக்குச் சென்றுவிட்டான். இப்போது நாங்கள் அடிக்கடி சந்திக்க முடிவதில்லை. ஆனால் வாரத்துக்கு ஒருமுறை தொலைபேசியில் பேசுகிறோம். உண்மையான நட்பு தூரத்தால் மாறுவதில்லை என்று நான் நம்புகிறேன்.",
+  "english": "My friend and I studied together for ten years. After school ended, he moved to another town. Now we cannot meet often. But we talk on the phone once a week. I believe that true friendship does not change because of distance.",
+  "sentences": [
+   {
+    "tamil": "நானும் என் நண்பனும் பத்து ஆண்டுகளாக ஒன்றாகப் படித்தோம்.",
+    "english": "My friend and I studied together for ten years."
+   },
+   {
+    "tamil": "பள்ளி முடிந்த பிறகு அவன் வேறு ஊருக்குச் சென்றுவிட்டான்.",
+    "english": "After school ended, he moved to another town."
+   },
+   {
+    "tamil": "இப்போது நாங்கள் அடிக்கடி சந்திக்க முடிவதில்லை.",
+    "english": "Now we cannot meet often."
+   },
+   {
+    "tamil": "ஆனால் வாரத்துக்கு ஒருமுறை தொலைபேசியில் பேசுகிறோம்.",
+    "english": "But we talk on the phone once a week."
+   },
+   {
+    "tamil": "உண்மையான நட்பு தூரத்தால் மாறுவதில்லை என்று நான் நம்புகிறேன்.",
+    "english": "I believe that true friendship does not change because of distance."
+   }
+  ]
+ },
+ {
+  "id": "para034",
+  "level": "Intermediate",
+  "topic": "Our new home",
+  "sentenceCount": 5,
+  "tamil": "கடந்த மாதம் நாங்கள் ஒரு புதிய வீட்டுக்குக் குடிபெயர்ந்தோம். இந்த வீடு பழைய வீட்டை விடப் பெரியது. எல்லா அறைகளிலும் நல்ல வெளிச்சமும் காற்றும் வருகிறது. அருகிலேயே பள்ளியும் மருத்துவமனையும் இருக்கின்றன. இந்த இடத்தை நாங்கள் எல்லோரும் மிகவும் விரும்புகிறோம்.",
+  "english": "Last month we moved into a new house. This house is bigger than the old one. Every room gets good light and fresh air. There is a school and a hospital nearby. All of us like this place very much.",
+  "sentences": [
+   {
+    "tamil": "கடந்த மாதம் நாங்கள் ஒரு புதிய வீட்டுக்குக் குடிபெயர்ந்தோம்.",
+    "english": "Last month we moved into a new house."
+   },
+   {
+    "tamil": "இந்த வீடு பழைய வீட்டை விடப் பெரியது.",
+    "english": "This house is bigger than the old one."
+   },
+   {
+    "tamil": "எல்லா அறைகளிலும் நல்ல வெளிச்சமும் காற்றும் வருகிறது.",
+    "english": "Every room gets good light and fresh air."
+   },
+   {
+    "tamil": "அருகிலேயே பள்ளியும் மருத்துவமனையும் இருக்கின்றன.",
+    "english": "There is a school and a hospital nearby."
+   },
+   {
+    "tamil": "இந்த இடத்தை நாங்கள் எல்லோரும் மிகவும் விரும்புகிறோம்.",
+    "english": "All of us like this place very much."
+   }
+  ]
+ },
+ {
+  "id": "para035",
+  "level": "Intermediate",
+  "topic": "Cooking a special meal",
+  "sentenceCount": 6,
+  "tamil": "இன்று என் அப்பாவின் பிறந்தநாள் என்பதால் நான் சிறப்பு உணவு சமைக்க முடிவு செய்தேன். முதலில் சந்தைக்குச் சென்று தேவையான பொருட்களை வாங்கினேன். பிறகு பிரியாணிக்கான அரிசியையும் இறைச்சியையும் தயார் செய்தேன். சமையல் முடிய இரண்டு மணி நேரம் ஆனது. என் அப்பா சாப்பிட்டுவிட்டு மிகவும் மகிழ்ச்சியடைந்தார். அந்த மகிழ்ச்சியைப் பார்த்தபோது என் சோர்வு மறைந்தது.",
+  "english": "Since it is my father's birthday today, I decided to cook a special meal. First I went to the market and bought the things I needed. Then I prepared the rice and meat for the biryani. It took two hours to finish the cooking. My father ate it and was very happy. When I saw his happiness, my tiredness disappeared.",
+  "sentences": [
+   {
+    "tamil": "இன்று என் அப்பாவின் பிறந்தநாள் என்பதால் நான் சிறப்பு உணவு சமைக்க முடிவு செய்தேன்.",
+    "english": "Since it is my father's birthday today, I decided to cook a special meal."
+   },
+   {
+    "tamil": "முதலில் சந்தைக்குச் சென்று தேவையான பொருட்களை வாங்கினேன்.",
+    "english": "First I went to the market and bought the things I needed."
+   },
+   {
+    "tamil": "பிறகு பிரியாணிக்கான அரிசியையும் இறைச்சியையும் தயார் செய்தேன்.",
+    "english": "Then I prepared the rice and meat for the biryani."
+   },
+   {
+    "tamil": "சமையல் முடிய இரண்டு மணி நேரம் ஆனது.",
+    "english": "It took two hours to finish the cooking."
+   },
+   {
+    "tamil": "என் அப்பா சாப்பிட்டுவிட்டு மிகவும் மகிழ்ச்சியடைந்தார்.",
+    "english": "My father ate it and was very happy."
+   },
+   {
+    "tamil": "அந்த மகிழ்ச்சியைப் பார்த்தபோது என் சோர்வு மறைந்தது.",
+    "english": "When I saw his happiness, my tiredness disappeared."
+   }
+  ]
+ },
+ {
+  "id": "para036",
+  "level": "Intermediate",
+  "topic": "Shopping for a festival",
+  "sentenceCount": 5,
+  "tamil": "பண்டிகை நெருங்கி வருவதால் கடைகளில் கூட்டம் அதிகமாக இருக்கிறது. நாங்கள் குடும்பத்தோடு புதிய ஆடைகள் வாங்கச் சென்றோம். சில கடைகளில் தள்ளுபடி கொடுத்திருந்தார்கள். என் தங்கைக்கு பிடித்த நிறத்தில் ஒரு சேலை வாங்கினோம். எல்லாம் வாங்கி முடிக்க மாலை ஆகிவிட்டது.",
+  "english": "As the festival is approaching, the shops are very crowded. We went with the whole family to buy new clothes. Some shops were offering discounts. We bought a saree in my sister's favourite colour. By the time we finished buying everything, it was evening.",
+  "sentences": [
+   {
+    "tamil": "பண்டிகை நெருங்கி வருவதால் கடைகளில் கூட்டம் அதிகமாக இருக்கிறது.",
+    "english": "As the festival is approaching, the shops are very crowded."
+   },
+   {
+    "tamil": "நாங்கள் குடும்பத்தோடு புதிய ஆடைகள் வாங்கச் சென்றோம்.",
+    "english": "We went with the whole family to buy new clothes."
+   },
+   {
+    "tamil": "சில கடைகளில் தள்ளுபடி கொடுத்திருந்தார்கள்.",
+    "english": "Some shops were offering discounts."
+   },
+   {
+    "tamil": "என் தங்கைக்கு பிடித்த நிறத்தில் ஒரு சேலை வாங்கினோம்.",
+    "english": "We bought a saree in my sister's favourite colour."
+   },
+   {
+    "tamil": "எல்லாம் வாங்கி முடிக்க மாலை ஆகிவிட்டது.",
+    "english": "By the time we finished buying everything, it was evening."
+   }
+  ]
+ },
+ {
+  "id": "para037",
+  "level": "Intermediate",
+  "topic": "A trip to the hills",
+  "sentenceCount": 6,
+  "tamil": "கடந்த கோடை விடுமுறையில் நாங்கள் ஊட்டிக்குச் சென்றோம். அங்கே வானிலை மிகவும் குளிராக இருந்தது. நாங்கள் தேயிலைத் தோட்டங்களைப் பார்த்து புகைப்படங்கள் எடுத்தோம். மாலையில் படகுச் சவாரி செய்தோம். திரும்பி வர மனமில்லை, ஆனால் வேலை எங்களை அழைத்தது. அந்தப் பயணத்தை நாங்கள் எப்போதும் மறக்க மாட்டோம்.",
+  "english": "During last summer holidays we went to Ooty. The weather there was very cold. We saw the tea gardens and took photographs. In the evening we went boating. We did not want to come back, but work was calling us. We will never forget that trip.",
+  "sentences": [
+   {
+    "tamil": "கடந்த கோடை விடுமுறையில் நாங்கள் ஊட்டிக்குச் சென்றோம்.",
+    "english": "During last summer holidays we went to Ooty."
+   },
+   {
+    "tamil": "அங்கே வானிலை மிகவும் குளிராக இருந்தது.",
+    "english": "The weather there was very cold."
+   },
+   {
+    "tamil": "நாங்கள் தேயிலைத் தோட்டங்களைப் பார்த்து புகைப்படங்கள் எடுத்தோம்.",
+    "english": "We saw the tea gardens and took photographs."
+   },
+   {
+    "tamil": "மாலையில் படகுச் சவாரி செய்தோம்.",
+    "english": "In the evening we went boating."
+   },
+   {
+    "tamil": "திரும்பி வர மனமில்லை, ஆனால் வேலை எங்களை அழைத்தது.",
+    "english": "We did not want to come back, but work was calling us."
+   },
+   {
+    "tamil": "அந்தப் பயணத்தை நாங்கள் எப்போதும் மறக்க மாட்டோம்.",
+    "english": "We will never forget that trip."
+   }
+  ]
+ },
+ {
+  "id": "para038",
+  "level": "Intermediate",
+  "topic": "Travelling by bus",
+  "sentenceCount": 5,
+  "tamil": "நான் அலுவலகத்துக்குச் செல்ல ஒவ்வொரு நாளும் இரண்டு பேருந்துகள் மாற வேண்டும். முதல் பேருந்து எப்போதும் சரியான நேரத்தில் வந்துவிடும். ஆனால் இரண்டாவது பேருந்துக்காக சில நேரம் அரை மணி நேரம் காத்திருக்க வேண்டியிருக்கும். அந்த நேரத்தில் நான் புத்தகம் படிப்பேன். இதனால் எனக்கு நேரம் வீணாவதில்லை.",
+  "english": "To go to the office, I have to change two buses every day. The first bus always comes on time. But sometimes I have to wait half an hour for the second bus. During that time I read a book. So I do not waste my time.",
+  "sentences": [
+   {
+    "tamil": "நான் அலுவலகத்துக்குச் செல்ல ஒவ்வொரு நாளும் இரண்டு பேருந்துகள் மாற வேண்டும்.",
+    "english": "To go to the office, I have to change two buses every day."
+   },
+   {
+    "tamil": "முதல் பேருந்து எப்போதும் சரியான நேரத்தில் வந்துவிடும்.",
+    "english": "The first bus always comes on time."
+   },
+   {
+    "tamil": "ஆனால் இரண்டாவது பேருந்துக்காக சில நேரம் அரை மணி நேரம் காத்திருக்க வேண்டியிருக்கும்.",
+    "english": "But sometimes I have to wait half an hour for the second bus."
+   },
+   {
+    "tamil": "அந்த நேரத்தில் நான் புத்தகம் படிப்பேன்.",
+    "english": "During that time I read a book."
+   },
+   {
+    "tamil": "இதனால் எனக்கு நேரம் வீணாவதில்லை.",
+    "english": "So I do not waste my time."
+   }
+  ]
+ },
+ {
+  "id": "para039",
+  "level": "Intermediate",
+  "topic": "A long train journey",
+  "sentenceCount": 5,
+  "tamil": "எங்கள் ரயில் இரவு பத்து மணிக்கு நிலையத்திலிருந்து புறப்பட்டது. நாங்கள் முன்பே படுக்கை வசதிக்கான பயணச்சீட்டுகளை முன்பதிவு செய்திருந்தோம். பயணம் முழுவதும் என் தங்கை ஜன்னல் வழியாக வெளியே பார்த்துக்கொண்டிருந்தாள். காலையில் தேநீர் விற்பவர் வந்து எங்களை எழுப்பினார். நாங்கள் சரியான நேரத்தில் இலக்கை அடைந்தோம்.",
+  "english": "Our train left the station at ten at night. We had already booked berth tickets. Throughout the journey my sister kept looking out of the window. In the morning a tea seller came and woke us up. We reached our destination on time.",
+  "sentences": [
+   {
+    "tamil": "எங்கள் ரயில் இரவு பத்து மணிக்கு நிலையத்திலிருந்து புறப்பட்டது.",
+    "english": "Our train left the station at ten at night."
+   },
+   {
+    "tamil": "நாங்கள் முன்பே படுக்கை வசதிக்கான பயணச்சீட்டுகளை முன்பதிவு செய்திருந்தோம்.",
+    "english": "We had already booked berth tickets."
+   },
+   {
+    "tamil": "பயணம் முழுவதும் என் தங்கை ஜன்னல் வழியாக வெளியே பார்த்துக்கொண்டிருந்தாள்.",
+    "english": "Throughout the journey my sister kept looking out of the window."
+   },
+   {
+    "tamil": "காலையில் தேநீர் விற்பவர் வந்து எங்களை எழுப்பினார்.",
+    "english": "In the morning a tea seller came and woke us up."
+   },
+   {
+    "tamil": "நாங்கள் சரியான நேரத்தில் இலக்கை அடைந்தோம்.",
+    "english": "We reached our destination on time."
+   }
+  ]
+ },
+ {
+  "id": "para040",
+  "level": "Intermediate",
+  "topic": "Staying healthy",
+  "sentenceCount": 5,
+  "tamil": "ஆரோக்கியமாக இருக்க நான் சில எளிய பழக்கங்களைப் பின்பற்றுகிறேன். தினமும் காலையில் முப்பது நிமிடம் நடக்கிறேன். வெளி உணவைக் குறைத்து வீட்டில் சமைத்த உணவையே சாப்பிடுகிறேன். போதுமான அளவு தூங்குவதும் மிக முக்கியம் என்று நினைக்கிறேன். இந்தப் பழக்கங்களால் நான் முன்பை விட சுறுசுறுப்பாக உணர்கிறேன்.",
+  "english": "To stay healthy, I follow a few simple habits. I walk for thirty minutes every morning. I eat less outside food and mostly eat home-cooked meals. I think getting enough sleep is also very important. Because of these habits, I feel more active than before.",
+  "sentences": [
+   {
+    "tamil": "ஆரோக்கியமாக இருக்க நான் சில எளிய பழக்கங்களைப் பின்பற்றுகிறேன்.",
+    "english": "To stay healthy, I follow a few simple habits."
+   },
+   {
+    "tamil": "தினமும் காலையில் முப்பது நிமிடம் நடக்கிறேன்.",
+    "english": "I walk for thirty minutes every morning."
+   },
+   {
+    "tamil": "வெளி உணவைக் குறைத்து வீட்டில் சமைத்த உணவையே சாப்பிடுகிறேன்.",
+    "english": "I eat less outside food and mostly eat home-cooked meals."
+   },
+   {
+    "tamil": "போதுமான அளவு தூங்குவதும் மிக முக்கியம் என்று நினைக்கிறேன்.",
+    "english": "I think getting enough sleep is also very important."
+   },
+   {
+    "tamil": "இந்தப் பழக்கங்களால் நான் முன்பை விட சுறுசுறுப்பாக உணர்கிறேன்.",
+    "english": "Because of these habits, I feel more active than before."
+   }
+  ]
+ },
+ {
+  "id": "para041",
+  "level": "Intermediate",
+  "topic": "My school days",
+  "sentenceCount": 5,
+  "tamil": "என் பள்ளி நாட்களை நினைத்தால் எனக்கு மகிழ்ச்சியாக இருக்கிறது. நாங்கள் தினமும் நடந்தே பள்ளிக்குச் சென்றோம். இடைவேளையில் நண்பர்களுடன் சேர்ந்து உணவைப் பகிர்ந்து சாப்பிடுவோம். எங்கள் தமிழ் ஆசிரியர் கதைகள் சொல்லிப் பாடம் நடத்துவார். அந்த நாட்கள் மீண்டும் வராது என்பது வருத்தமாக இருக்கிறது.",
+  "english": "I feel happy when I think about my school days. We walked to school every day. During the break we shared our food with friends. Our Tamil teacher used to teach by telling stories. It is sad that those days will never come back.",
+  "sentences": [
+   {
+    "tamil": "என் பள்ளி நாட்களை நினைத்தால் எனக்கு மகிழ்ச்சியாக இருக்கிறது.",
+    "english": "I feel happy when I think about my school days."
+   },
+   {
+    "tamil": "நாங்கள் தினமும் நடந்தே பள்ளிக்குச் சென்றோம்.",
+    "english": "We walked to school every day."
+   },
+   {
+    "tamil": "இடைவேளையில் நண்பர்களுடன் சேர்ந்து உணவைப் பகிர்ந்து சாப்பிடுவோம்.",
+    "english": "During the break we shared our food with friends."
+   },
+   {
+    "tamil": "எங்கள் தமிழ் ஆசிரியர் கதைகள் சொல்லிப் பாடம் நடத்துவார்.",
+    "english": "Our Tamil teacher used to teach by telling stories."
+   },
+   {
+    "tamil": "அந்த நாட்கள் மீண்டும் வராது என்பது வருத்தமாக இருக்கிறது.",
+    "english": "It is sad that those days will never come back."
+   }
+  ]
+ },
+ {
+  "id": "para042",
+  "level": "Intermediate",
+  "topic": "College life",
+  "sentenceCount": 5,
+  "tamil": "நான் இப்போது ஒரு கல்லூரியில் கணினி அறிவியல் படிக்கிறேன். எங்கள் வகுப்புகள் காலை ஒன்பது மணிக்குத் தொடங்கும். மதியத்துக்குப் பிறகு ஆய்வகத்தில் செய்முறைப் பயிற்சி இருக்கும். தேர்வுக்கு முன்பு நண்பர்களுடன் சேர்ந்து படிப்பது எனக்கு உதவுகிறது. பட்டம் பெற்ற பிறகு ஒரு நல்ல நிறுவனத்தில் வேலை செய்ய விரும்புகிறேன்.",
+  "english": "I am now studying computer science at a college. Our classes begin at nine in the morning. In the afternoon we have practical sessions in the lab. Studying with friends before exams helps me. After getting my degree, I want to work in a good company.",
+  "sentences": [
+   {
+    "tamil": "நான் இப்போது ஒரு கல்லூரியில் கணினி அறிவியல் படிக்கிறேன்.",
+    "english": "I am now studying computer science at a college."
+   },
+   {
+    "tamil": "எங்கள் வகுப்புகள் காலை ஒன்பது மணிக்குத் தொடங்கும்.",
+    "english": "Our classes begin at nine in the morning."
+   },
+   {
+    "tamil": "மதியத்துக்குப் பிறகு ஆய்வகத்தில் செய்முறைப் பயிற்சி இருக்கும்.",
+    "english": "In the afternoon we have practical sessions in the lab."
+   },
+   {
+    "tamil": "தேர்வுக்கு முன்பு நண்பர்களுடன் சேர்ந்து படிப்பது எனக்கு உதவுகிறது.",
+    "english": "Studying with friends before exams helps me."
+   },
+   {
+    "tamil": "பட்டம் பெற்ற பிறகு ஒரு நல்ல நிறுவனத்தில் வேலை செய்ய விரும்புகிறேன்.",
+    "english": "After getting my degree, I want to work in a good company."
+   }
+  ]
+ },
+ {
+  "id": "para043",
+  "level": "Intermediate",
+  "topic": "Improving my English",
+  "sentenceCount": 5,
+  "tamil": "ஆங்கிலம் கற்க எனக்கு ஒரு சிறிய திட்டம் இருக்கிறது. தினமும் காலையில் பத்து நிமிடம் ஆங்கிலச் செய்திகளைக் கேட்கிறேன். இரவில் அன்று கற்ற வார்த்தைகளை வைத்து சில வாக்கியங்கள் எழுதுகிறேன். தவறு செய்ய நான் பயப்படுவதில்லை. ஏனெனில் தவறுகளிலிருந்துதான் நாம் அதிகம் கற்றுக்கொள்கிறோம்.",
+  "english": "I have a small plan for learning English. Every morning I listen to English news for ten minutes. At night I write a few sentences using the words I learnt that day. I am not afraid of making mistakes. Because we learn the most from our mistakes.",
+  "sentences": [
+   {
+    "tamil": "ஆங்கிலம் கற்க எனக்கு ஒரு சிறிய திட்டம் இருக்கிறது.",
+    "english": "I have a small plan for learning English."
+   },
+   {
+    "tamil": "தினமும் காலையில் பத்து நிமிடம் ஆங்கிலச் செய்திகளைக் கேட்கிறேன்.",
+    "english": "Every morning I listen to English news for ten minutes."
+   },
+   {
+    "tamil": "இரவில் அன்று கற்ற வார்த்தைகளை வைத்து சில வாக்கியங்கள் எழுதுகிறேன்.",
+    "english": "At night I write a few sentences using the words I learnt that day."
+   },
+   {
+    "tamil": "தவறு செய்ய நான் பயப்படுவதில்லை.",
+    "english": "I am not afraid of making mistakes."
+   },
+   {
+    "tamil": "ஏனெனில் தவறுகளிலிருந்துதான் நாம் அதிகம் கற்றுக்கொள்கிறோம்.",
+    "english": "Because we learn the most from our mistakes."
+   }
+  ]
+ },
+ {
+  "id": "para044",
+  "level": "Intermediate",
+  "topic": "Working in an office",
+  "sentenceCount": 5,
+  "tamil": "நான் ஒரு தனியார் நிறுவனத்தில் கணக்காளராக வேலை செய்கிறேன். காலையில் வந்ததும் முதலில் என் மின்னஞ்சல்களைப் பார்ப்பேன். பதினொரு மணிக்கு எங்கள் குழுவோடு ஒரு சிறிய கூட்டம் நடக்கும். மதிய உணவுக்குப் பிறகு அறிக்கைகள் தயாரிப்பேன். வேலை அதிகமாக இருந்தாலும் என் சக ஊழியர்கள் எனக்கு உதவுவார்கள்.",
+  "english": "I work as an accountant in a private company. As soon as I arrive in the morning, I check my emails first. At eleven we have a short meeting with our team. After lunch I prepare reports. Even when there is a lot of work, my colleagues help me.",
+  "sentences": [
+   {
+    "tamil": "நான் ஒரு தனியார் நிறுவனத்தில் கணக்காளராக வேலை செய்கிறேன்.",
+    "english": "I work as an accountant in a private company."
+   },
+   {
+    "tamil": "காலையில் வந்ததும் முதலில் என் மின்னஞ்சல்களைப் பார்ப்பேன்.",
+    "english": "As soon as I arrive in the morning, I check my emails first."
+   },
+   {
+    "tamil": "பதினொரு மணிக்கு எங்கள் குழுவோடு ஒரு சிறிய கூட்டம் நடக்கும்.",
+    "english": "At eleven we have a short meeting with our team."
+   },
+   {
+    "tamil": "மதிய உணவுக்குப் பிறகு அறிக்கைகள் தயாரிப்பேன்.",
+    "english": "After lunch I prepare reports."
+   },
+   {
+    "tamil": "வேலை அதிகமாக இருந்தாலும் என் சக ஊழியர்கள் எனக்கு உதவுவார்கள்.",
+    "english": "Even when there is a lot of work, my colleagues help me."
+   }
+  ]
+ },
+ {
+  "id": "para045",
+  "level": "Intermediate",
+  "topic": "Technical support call",
+  "sentenceCount": 5,
+  "tamil": "நான் ஒரு தொழில்நுட்ப உதவி மையத்தில் வேலை செய்கிறேன். வாடிக்கையாளர்கள் தங்கள் இணைய இணைப்பு வேலை செய்யவில்லை என்று அழைப்பார்கள். முதலில் நான் அவர்களின் பிரச்சினையை பொறுமையாகக் கேட்பேன். பிறகு படிப்படியாக என்ன செய்ய வேண்டும் என்று விளக்குவேன். பிரச்சினை தீர்ந்ததும் அவர்கள் நன்றி சொல்லும்போது மகிழ்ச்சியாக இருக்கும்.",
+  "english": "I work at a technical support centre. Customers call to say that their internet connection is not working. First I listen to their problem patiently. Then I explain step by step what they should do. It feels good when they thank me after the problem is solved.",
+  "sentences": [
+   {
+    "tamil": "நான் ஒரு தொழில்நுட்ப உதவி மையத்தில் வேலை செய்கிறேன்.",
+    "english": "I work at a technical support centre."
+   },
+   {
+    "tamil": "வாடிக்கையாளர்கள் தங்கள் இணைய இணைப்பு வேலை செய்யவில்லை என்று அழைப்பார்கள்.",
+    "english": "Customers call to say that their internet connection is not working."
+   },
+   {
+    "tamil": "முதலில் நான் அவர்களின் பிரச்சினையை பொறுமையாகக் கேட்பேன்.",
+    "english": "First I listen to their problem patiently."
+   },
+   {
+    "tamil": "பிறகு படிப்படியாக என்ன செய்ய வேண்டும் என்று விளக்குவேன்.",
+    "english": "Then I explain step by step what they should do."
+   },
+   {
+    "tamil": "பிரச்சினை தீர்ந்ததும் அவர்கள் நன்றி சொல்லும்போது மகிழ்ச்சியாக இருக்கும்.",
+    "english": "It feels good when they thank me after the problem is solved."
+   }
+  ]
+ },
+ {
+  "id": "para046",
+  "level": "Intermediate",
+  "topic": "Learning to code",
+  "sentenceCount": 5,
+  "tamil": "நான் ஆறு மாதங்களுக்கு முன்பு நிரலாக்கம் கற்கத் தொடங்கினேன். முதலில் எல்லாம் மிகவும் கடினமாகத் தோன்றியது. ஆனால் தினமும் ஒரு மணி நேரம் பயிற்சி செய்தேன். இப்போது நான் சிறிய இணையதளங்களை உருவாக்க முடியும். வரும் ஆண்டில் ஒரு பெரிய திட்டத்தில் வேலை செய்ய வேண்டும் என்பது என் ஆசை.",
+  "english": "I started learning programming six months ago. At first everything seemed very difficult. But I practised for an hour every day. Now I can build small websites. My wish is to work on a big project next year.",
+  "sentences": [
+   {
+    "tamil": "நான் ஆறு மாதங்களுக்கு முன்பு நிரலாக்கம் கற்கத் தொடங்கினேன்.",
+    "english": "I started learning programming six months ago."
+   },
+   {
+    "tamil": "முதலில் எல்லாம் மிகவும் கடினமாகத் தோன்றியது.",
+    "english": "At first everything seemed very difficult."
+   },
+   {
+    "tamil": "ஆனால் தினமும் ஒரு மணி நேரம் பயிற்சி செய்தேன்.",
+    "english": "But I practised for an hour every day."
+   },
+   {
+    "tamil": "இப்போது நான் சிறிய இணையதளங்களை உருவாக்க முடியும்.",
+    "english": "Now I can build small websites."
+   },
+   {
+    "tamil": "வரும் ஆண்டில் ஒரு பெரிய திட்டத்தில் வேலை செய்ய வேண்டும் என்பது என் ஆசை.",
+    "english": "My wish is to work on a big project next year."
+   }
+  ]
+ },
+ {
+  "id": "para047",
+  "level": "Intermediate",
+  "topic": "Talking to a customer",
+  "sentenceCount": 5,
+  "tamil": "நேற்று ஒரு வாடிக்கையாளர் எங்கள் கடைக்கு வந்து புகார் கூறினார். அவர் வாங்கிய பொருள் சரியாக வேலை செய்யவில்லை. நான் அவரிடம் மன்னிப்புக் கேட்டுவிட்டு பொருளைப் பரிசோதித்தேன். பிறகு அதற்குப் பதிலாக ஒரு புதிய பொருளைக் கொடுத்தேன். அவர் திருப்தியுடன் சிரித்துக்கொண்டே சென்றார்.",
+  "english": "Yesterday a customer came to our shop and made a complaint. The product he had bought was not working properly. I apologised to him and checked the product. Then I gave him a new one in its place. He left smiling, satisfied.",
+  "sentences": [
+   {
+    "tamil": "நேற்று ஒரு வாடிக்கையாளர் எங்கள் கடைக்கு வந்து புகார் கூறினார்.",
+    "english": "Yesterday a customer came to our shop and made a complaint."
+   },
+   {
+    "tamil": "அவர் வாங்கிய பொருள் சரியாக வேலை செய்யவில்லை.",
+    "english": "The product he had bought was not working properly."
+   },
+   {
+    "tamil": "நான் அவரிடம் மன்னிப்புக் கேட்டுவிட்டு பொருளைப் பரிசோதித்தேன்.",
+    "english": "I apologised to him and checked the product."
+   },
+   {
+    "tamil": "பிறகு அதற்குப் பதிலாக ஒரு புதிய பொருளைக் கொடுத்தேன்.",
+    "english": "Then I gave him a new one in its place."
+   },
+   {
+    "tamil": "அவர் திருப்தியுடன் சிரித்துக்கொண்டே சென்றார்.",
+    "english": "He left smiling, satisfied."
+   }
+  ]
+ },
+ {
+  "id": "para048",
+  "level": "Intermediate",
+  "topic": "A problem at work",
+  "sentenceCount": 5,
+  "tamil": "எங்கள் அலுவலகத்தில் நேற்று இணையம் நாள் முழுவதும் வேலை செய்யவில்லை. அதனால் எங்களால் வாடிக்கையாளர்களுக்குப் பதில் அனுப்ப முடியவில்லை. மேலாளர் உடனே தொழில்நுட்பக் குழுவை அழைத்தார். மாலையில் அவர்கள் பிரச்சினையைச் சரி செய்தார்கள். அடுத்த முறை இப்படி நடக்காமல் இருக்க ஒரு மாற்று இணைப்பு வாங்க முடிவு செய்தோம்.",
+  "english": "In our office the internet did not work all day yesterday. Because of that, we could not reply to the customers. The manager immediately called the technical team. In the evening they fixed the problem. To avoid this next time, we decided to get a backup connection.",
+  "sentences": [
+   {
+    "tamil": "எங்கள் அலுவலகத்தில் நேற்று இணையம் நாள் முழுவதும் வேலை செய்யவில்லை.",
+    "english": "In our office the internet did not work all day yesterday."
+   },
+   {
+    "tamil": "அதனால் எங்களால் வாடிக்கையாளர்களுக்குப் பதில் அனுப்ப முடியவில்லை.",
+    "english": "Because of that, we could not reply to the customers."
+   },
+   {
+    "tamil": "மேலாளர் உடனே தொழில்நுட்பக் குழுவை அழைத்தார்.",
+    "english": "The manager immediately called the technical team."
+   },
+   {
+    "tamil": "மாலையில் அவர்கள் பிரச்சினையைச் சரி செய்தார்கள்.",
+    "english": "In the evening they fixed the problem."
+   },
+   {
+    "tamil": "அடுத்த முறை இப்படி நடக்காமல் இருக்க ஒரு மாற்று இணைப்பு வாங்க முடிவு செய்தோம்.",
+    "english": "To avoid this next time, we decided to get a backup connection."
+   }
+  ]
+ },
+ {
+  "id": "para049",
+  "level": "Intermediate",
+  "topic": "Preparing for an interview",
+  "sentenceCount": 5,
+  "tamil": "அடுத்த வாரம் எனக்கு ஒரு வேலை நேர்காணல் இருக்கிறது. அதற்காக நான் என் சுயவிவரத்தைப் புதுப்பித்திருக்கிறேன். தினமும் கண்ணாடி முன் நின்று பதில்களைப் பயிற்சி செய்கிறேன். நேர்காணலுக்கு சரியான நேரத்துக்கு முன்பே செல்ல வேண்டும். நான் பதற்றமாக இருந்தாலும் முழு நம்பிக்கையுடன் பேச முயல்வேன்.",
+  "english": "I have a job interview next week. I have updated my resume for it. Every day I stand in front of the mirror and practise my answers. I must reach the interview a little before time. Even though I am nervous, I will try to speak with full confidence.",
+  "sentences": [
+   {
+    "tamil": "அடுத்த வாரம் எனக்கு ஒரு வேலை நேர்காணல் இருக்கிறது.",
+    "english": "I have a job interview next week."
+   },
+   {
+    "tamil": "அதற்காக நான் என் சுயவிவரத்தைப் புதுப்பித்திருக்கிறேன்.",
+    "english": "I have updated my resume for it."
+   },
+   {
+    "tamil": "தினமும் கண்ணாடி முன் நின்று பதில்களைப் பயிற்சி செய்கிறேன்.",
+    "english": "Every day I stand in front of the mirror and practise my answers."
+   },
+   {
+    "tamil": "நேர்காணலுக்கு சரியான நேரத்துக்கு முன்பே செல்ல வேண்டும்.",
+    "english": "I must reach the interview a little before time."
+   },
+   {
+    "tamil": "நான் பதற்றமாக இருந்தாலும் முழு நம்பிக்கையுடன் பேச முயல்வேன்.",
+    "english": "Even though I am nervous, I will try to speak with full confidence."
+   }
+  ]
+ },
+ {
+  "id": "para050",
+  "level": "Intermediate",
+  "topic": "My future plans",
+  "sentenceCount": 5,
+  "tamil": "எனக்கு எதிர்காலத்தைப் பற்றி சில திட்டங்கள் இருக்கின்றன. அடுத்த ஆண்டுக்குள் நான் ஆங்கிலத்தில் சரளமாகப் பேச விரும்புகிறேன். பிறகு ஒரு பெரிய நிறுவனத்தில் வேலை தேடுவேன். சில ஆண்டுகள் கழித்து சொந்தமாக ஒரு சிறிய தொழில் தொடங்க ஆசை. அதற்கு இப்போதிருந்தே பணம் சேமிக்கத் தொடங்கியிருக்கிறேன்.",
+  "english": "I have some plans for the future. By next year I want to speak English fluently. Then I will look for a job in a big company. After a few years, I wish to start a small business of my own. I have already started saving money for it.",
+  "sentences": [
+   {
+    "tamil": "எனக்கு எதிர்காலத்தைப் பற்றி சில திட்டங்கள் இருக்கின்றன.",
+    "english": "I have some plans for the future."
+   },
+   {
+    "tamil": "அடுத்த ஆண்டுக்குள் நான் ஆங்கிலத்தில் சரளமாகப் பேச விரும்புகிறேன்.",
+    "english": "By next year I want to speak English fluently."
+   },
+   {
+    "tamil": "பிறகு ஒரு பெரிய நிறுவனத்தில் வேலை தேடுவேன்.",
+    "english": "Then I will look for a job in a big company."
+   },
+   {
+    "tamil": "சில ஆண்டுகள் கழித்து சொந்தமாக ஒரு சிறிய தொழில் தொடங்க ஆசை.",
+    "english": "After a few years, I wish to start a small business of my own."
+   },
+   {
+    "tamil": "அதற்கு இப்போதிருந்தே பணம் சேமிக்கத் தொடங்கியிருக்கிறேன்.",
+    "english": "I have already started saving money for it."
+   }
+  ]
+ },
+ {
+  "id": "para051",
+  "level": "Intermediate",
+  "topic": "A hobby: gardening",
+  "sentenceCount": 5,
+  "tamil": "எனக்கு தோட்டம் வளர்ப்பது மிகவும் பிடிக்கும். என் வீட்டுப் பால்கனியில் சில பூச்செடிகள் வைத்திருக்கிறேன். தினமும் காலையில் அவற்றுக்குத் தண்ணீர் ஊற்றுகிறேன். பூக்கள் மலரும்போது மனம் மிகவும் அமைதியாகிறது. இந்தப் பழக்கம் எனக்கு மன அழுத்தத்தைக் குறைக்க உதவுகிறது.",
+  "english": "I like gardening very much. I keep a few flowering plants on my balcony. I water them every morning. When the flowers bloom, my mind becomes very peaceful. This habit helps me reduce stress.",
+  "sentences": [
+   {
+    "tamil": "எனக்கு தோட்டம் வளர்ப்பது மிகவும் பிடிக்கும்.",
+    "english": "I like gardening very much."
+   },
+   {
+    "tamil": "என் வீட்டுப் பால்கனியில் சில பூச்செடிகள் வைத்திருக்கிறேன்.",
+    "english": "I keep a few flowering plants on my balcony."
+   },
+   {
+    "tamil": "தினமும் காலையில் அவற்றுக்குத் தண்ணீர் ஊற்றுகிறேன்.",
+    "english": "I water them every morning."
+   },
+   {
+    "tamil": "பூக்கள் மலரும்போது மனம் மிகவும் அமைதியாகிறது.",
+    "english": "When the flowers bloom, my mind becomes very peaceful."
+   },
+   {
+    "tamil": "இந்தப் பழக்கம் எனக்கு மன அழுத்தத்தைக் குறைக்க உதவுகிறது.",
+    "english": "This habit helps me reduce stress."
+   }
+  ]
+ },
+ {
+  "id": "para052",
+  "level": "Intermediate",
+  "topic": "Pongal festival",
+  "sentenceCount": 5,
+  "tamil": "பொங்கல் தமிழர்களின் முக்கியமான அறுவடைத் திருவிழா. முதல் நாள் நாங்கள் வீட்டை அலங்கரித்துக் கோலம் போடுவோம். இரண்டாம் நாள் புதுப்பானையில் பொங்கல் வைப்போம். பால் பொங்கி வரும்போது எல்லோரும் ‘பொங்கலோ பொங்கல்’ என்று கூவுவோம். மூன்றாம் நாள் மாடுகளுக்கு நன்றி சொல்லிப் பூஜை செய்வோம்.",
+  "english": "Pongal is an important harvest festival of the Tamil people. On the first day we decorate the house and draw kolams. On the second day we cook pongal in a new pot. When the milk boils over, we all shout “Pongalo Pongal”. On the third day we thank the cattle and perform a puja for them.",
+  "sentences": [
+   {
+    "tamil": "பொங்கல் தமிழர்களின் முக்கியமான அறுவடைத் திருவிழா.",
+    "english": "Pongal is an important harvest festival of the Tamil people."
+   },
+   {
+    "tamil": "முதல் நாள் நாங்கள் வீட்டை அலங்கரித்துக் கோலம் போடுவோம்.",
+    "english": "On the first day we decorate the house and draw kolams."
+   },
+   {
+    "tamil": "இரண்டாம் நாள் புதுப்பானையில் பொங்கல் வைப்போம்.",
+    "english": "On the second day we cook pongal in a new pot."
+   },
+   {
+    "tamil": "பால் பொங்கி வரும்போது எல்லோரும் ‘பொங்கலோ பொங்கல்’ என்று கூவுவோம்.",
+    "english": "When the milk boils over, we all shout “Pongalo Pongal”."
+   },
+   {
+    "tamil": "மூன்றாம் நாள் மாடுகளுக்கு நன்றி சொல்லிப் பூஜை செய்வோம்.",
+    "english": "On the third day we thank the cattle and perform a puja for them."
+   }
+  ]
+ },
+ {
+  "id": "para053",
+  "level": "Intermediate",
+  "topic": "A hot summer",
+  "sentenceCount": 5,
+  "tamil": "இந்த ஆண்டு கோடை வெயில் வழக்கத்தை விட அதிகமாக இருக்கிறது. மதிய நேரத்தில் வெளியே செல்வது மிகவும் கடினம். நாங்கள் அதிகமாகத் தண்ணீரும் இளநீரும் குடிக்கிறோம். இரவில் கூட வீட்டில் புழுக்கமாக இருக்கிறது. எல்லோரும் மழை எப்போது வரும் என்று எதிர்பார்க்கிறார்கள்.",
+  "english": "This year the summer heat is greater than usual. It is very difficult to go out in the afternoon. We drink a lot of water and tender coconut water. Even at night it is stuffy at home. Everyone is waiting for the rain to come.",
+  "sentences": [
+   {
+    "tamil": "இந்த ஆண்டு கோடை வெயில் வழக்கத்தை விட அதிகமாக இருக்கிறது.",
+    "english": "This year the summer heat is greater than usual."
+   },
+   {
+    "tamil": "மதிய நேரத்தில் வெளியே செல்வது மிகவும் கடினம்.",
+    "english": "It is very difficult to go out in the afternoon."
+   },
+   {
+    "tamil": "நாங்கள் அதிகமாகத் தண்ணீரும் இளநீரும் குடிக்கிறோம்.",
+    "english": "We drink a lot of water and tender coconut water."
+   },
+   {
+    "tamil": "இரவில் கூட வீட்டில் புழுக்கமாக இருக்கிறது.",
+    "english": "Even at night it is stuffy at home."
+   },
+   {
+    "tamil": "எல்லோரும் மழை எப்போது வரும் என்று எதிர்பார்க்கிறார்கள்.",
+    "english": "Everyone is waiting for the rain to come."
+   }
+  ]
+ },
+ {
+  "id": "para054",
+  "level": "Intermediate",
+  "topic": "Managing money",
+  "sentenceCount": 5,
+  "tamil": "மாத ஆரம்பத்திலேயே நான் ஒரு செலவுப் பட்டியல் தயாரிப்பேன். வாடகை, உணவு, போக்குவரத்து ஆகியவற்றுக்கு முதலில் பணம் ஒதுக்குவேன். மீதமுள்ள பணத்தில் ஒரு பகுதியைச் சேமிப்பில் போடுவேன். தேவையில்லாத ஆடம்பரச் செலவுகளைத் தவிர்க்க முயல்வேன். இதனால் மாத இறுதியில் எனக்குக் கடன் வாங்கும் நிலை வருவதில்லை.",
+  "english": "At the beginning of every month I make a list of expenses. I first set aside money for rent, food and transport. I put a part of the remaining money into savings. I try to avoid unnecessary luxury expenses. Because of this, I do not have to borrow money at the end of the month.",
+  "sentences": [
+   {
+    "tamil": "மாத ஆரம்பத்திலேயே நான் ஒரு செலவுப் பட்டியல் தயாரிப்பேன்.",
+    "english": "At the beginning of every month I make a list of expenses."
+   },
+   {
+    "tamil": "வாடகை, உணவு, போக்குவரத்து ஆகியவற்றுக்கு முதலில் பணம் ஒதுக்குவேன்.",
+    "english": "I first set aside money for rent, food and transport."
+   },
+   {
+    "tamil": "மீதமுள்ள பணத்தில் ஒரு பகுதியைச் சேமிப்பில் போடுவேன்.",
+    "english": "I put a part of the remaining money into savings."
+   },
+   {
+    "tamil": "தேவையில்லாத ஆடம்பரச் செலவுகளைத் தவிர்க்க முயல்வேன்.",
+    "english": "I try to avoid unnecessary luxury expenses."
+   },
+   {
+    "tamil": "இதனால் மாத இறுதியில் எனக்குக் கடன் வாங்கும் நிலை வருவதில்லை.",
+    "english": "Because of this, I do not have to borrow money at the end of the month."
+   }
+  ]
+ },
+ {
+  "id": "para055",
+  "level": "Intermediate",
+  "topic": "Helping a neighbour",
+  "sentenceCount": 5,
+  "tamil": "எங்கள் பக்கத்து வீட்டு முதியவர் தனியாக வசிக்கிறார். கடந்த வாரம் அவருக்கு உடல்நிலை சரியில்லாமல் போனது. நான் உடனே மருத்துவரை அழைத்து வந்தேன். அவர் குணமாகும் வரை தினமும் அவருக்கு உணவு கொண்டு சென்றோம். அவர் எங்களை தம் சொந்தக் குடும்பம் போல நினைக்கிறார்.",
+  "english": "The elderly man next door lives alone. Last week he fell ill. I immediately brought the doctor. Until he recovered, we took food to him every day. He thinks of us as his own family.",
+  "sentences": [
+   {
+    "tamil": "எங்கள் பக்கத்து வீட்டு முதியவர் தனியாக வசிக்கிறார்.",
+    "english": "The elderly man next door lives alone."
+   },
+   {
+    "tamil": "கடந்த வாரம் அவருக்கு உடல்நிலை சரியில்லாமல் போனது.",
+    "english": "Last week he fell ill."
+   },
+   {
+    "tamil": "நான் உடனே மருத்துவரை அழைத்து வந்தேன்.",
+    "english": "I immediately brought the doctor."
+   },
+   {
+    "tamil": "அவர் குணமாகும் வரை தினமும் அவருக்கு உணவு கொண்டு சென்றோம்.",
+    "english": "Until he recovered, we took food to him every day."
+   },
+   {
+    "tamil": "அவர் எங்களை தம் சொந்தக் குடும்பம் போல நினைக்கிறார்.",
+    "english": "He thinks of us as his own family."
+   }
+  ]
+ },
+ {
+  "id": "para056",
+  "level": "Intermediate",
+  "topic": "Waiting at the airport",
+  "sentenceCount": 5,
+  "tamil": "நேற்று நான் என் அக்காவை வரவேற்க விமான நிலையத்துக்குச் சென்றேன். அவளுடைய விமானம் அரை மணி நேரம் தாமதமாக வந்தது. அந்த நேரத்தில் நான் ஒரு கடையில் காபி குடித்தேன். அவள் வெளியே வந்தபோது நான் மகிழ்ச்சியில் ஓடிச் சென்றேன். நாங்கள் இருவரும் பேசிக்கொண்டே வீடு திரும்பினோம்.",
+  "english": "Yesterday I went to the airport to receive my elder sister. Her flight arrived half an hour late. During that time I had coffee at a shop. When she came out, I ran to her happily. We both returned home talking.",
+  "sentences": [
+   {
+    "tamil": "நேற்று நான் என் அக்காவை வரவேற்க விமான நிலையத்துக்குச் சென்றேன்.",
+    "english": "Yesterday I went to the airport to receive my elder sister."
+   },
+   {
+    "tamil": "அவளுடைய விமானம் அரை மணி நேரம் தாமதமாக வந்தது.",
+    "english": "Her flight arrived half an hour late."
+   },
+   {
+    "tamil": "அந்த நேரத்தில் நான் ஒரு கடையில் காபி குடித்தேன்.",
+    "english": "During that time I had coffee at a shop."
+   },
+   {
+    "tamil": "அவள் வெளியே வந்தபோது நான் மகிழ்ச்சியில் ஓடிச் சென்றேன்.",
+    "english": "When she came out, I ran to her happily."
+   },
+   {
+    "tamil": "நாங்கள் இருவரும் பேசிக்கொண்டே வீடு திரும்பினோம்.",
+    "english": "We both returned home talking."
+   }
+  ]
+ },
+ {
+  "id": "para057",
+  "level": "Intermediate",
+  "topic": "Using a smartphone",
+  "sentenceCount": 5,
+  "tamil": "இன்றைக்கு கைபேசி இல்லாமல் வாழ்வது கடினம். நாங்கள் அதில் செய்திகள் படிக்கிறோம், பணம் செலுத்துகிறோம், பாடங்களும் கற்கிறோம். ஆனால் அதிக நேரம் பயன்படுத்தினால் கண்களுக்கும் மனதுக்கும் கெடுதல். அதனால் நான் இரவு ஒன்பது மணிக்கு மேல் கைபேசியைத் தொடுவதில்லை. இந்தப் பழக்கம் எனக்கு நல்ல தூக்கத்தைத் தருகிறது.",
+  "english": "These days it is hard to live without a mobile phone. We read news, make payments and even learn lessons on it. But using it for too long harms our eyes and mind. So I do not touch my phone after nine at night. This habit gives me good sleep.",
+  "sentences": [
+   {
+    "tamil": "இன்றைக்கு கைபேசி இல்லாமல் வாழ்வது கடினம்.",
+    "english": "These days it is hard to live without a mobile phone."
+   },
+   {
+    "tamil": "நாங்கள் அதில் செய்திகள் படிக்கிறோம், பணம் செலுத்துகிறோம், பாடங்களும் கற்கிறோம்.",
+    "english": "We read news, make payments and even learn lessons on it."
+   },
+   {
+    "tamil": "ஆனால் அதிக நேரம் பயன்படுத்தினால் கண்களுக்கும் மனதுக்கும் கெடுதல்.",
+    "english": "But using it for too long harms our eyes and mind."
+   },
+   {
+    "tamil": "அதனால் நான் இரவு ஒன்பது மணிக்கு மேல் கைபேசியைத் தொடுவதில்லை.",
+    "english": "So I do not touch my phone after nine at night."
+   },
+   {
+    "tamil": "இந்தப் பழக்கம் எனக்கு நல்ல தூக்கத்தைத் தருகிறது.",
+    "english": "This habit gives me good sleep."
+   }
+  ]
+ },
+ {
+  "id": "para058",
+  "level": "Intermediate",
+  "topic": "Rainy season travel",
+  "sentenceCount": 5,
+  "tamil": "மழைக்காலத்தில் பயணம் செய்வது சில நேரங்களில் சிரமமாக இருக்கும். சாலைகள் வழுக்கலாக இருப்பதால் வாகனங்கள் மெதுவாகச் செல்கின்றன. சில நேரம் ரயில்களும் தாமதமாக வருகின்றன. எனவே நான் வழக்கத்தை விட முன்னதாகவே வீட்டிலிருந்து புறப்படுவேன். குடையையும் மழைக்கோட்டையும் எப்போதும் கையில் வைத்திருப்பேன்.",
+  "english": "Travelling in the rainy season can sometimes be difficult. Because the roads are slippery, vehicles move slowly. Sometimes trains also arrive late. So I leave home earlier than usual. I always keep an umbrella and a raincoat with me.",
+  "sentences": [
+   {
+    "tamil": "மழைக்காலத்தில் பயணம் செய்வது சில நேரங்களில் சிரமமாக இருக்கும்.",
+    "english": "Travelling in the rainy season can sometimes be difficult."
+   },
+   {
+    "tamil": "சாலைகள் வழுக்கலாக இருப்பதால் வாகனங்கள் மெதுவாகச் செல்கின்றன.",
+    "english": "Because the roads are slippery, vehicles move slowly."
+   },
+   {
+    "tamil": "சில நேரம் ரயில்களும் தாமதமாக வருகின்றன.",
+    "english": "Sometimes trains also arrive late."
+   },
+   {
+    "tamil": "எனவே நான் வழக்கத்தை விட முன்னதாகவே வீட்டிலிருந்து புறப்படுவேன்.",
+    "english": "So I leave home earlier than usual."
+   },
+   {
+    "tamil": "குடையையும் மழைக்கோட்டையும் எப்போதும் கையில் வைத்திருப்பேன்.",
+    "english": "I always keep an umbrella and a raincoat with me."
+   }
+  ]
+ },
+ {
+  "id": "para059",
+  "level": "Intermediate",
+  "topic": "Learning from a teacher",
+  "sentenceCount": 5,
+  "tamil": "என் ஆங்கில ஆசிரியர் மிகவும் பொறுமையானவர். நான் தவறு செய்தாலும் அவர் கோபப்படுவதில்லை. அதற்குப் பதிலாக சரியான வடிவத்தை மெதுவாக விளக்குவார். அவர் கொடுக்கும் வீட்டுப்பாடம் எனக்கு மிகவும் உதவுகிறது. அவரால்தான் எனக்கு ஆங்கிலத்தின் மீது நம்பிக்கை வந்தது.",
+  "english": "My English teacher is very patient. Even when I make a mistake, he does not get angry. Instead, he slowly explains the correct form. The homework he gives helps me a lot. It is because of him that I gained confidence in English.",
+  "sentences": [
+   {
+    "tamil": "என் ஆங்கில ஆசிரியர் மிகவும் பொறுமையானவர்.",
+    "english": "My English teacher is very patient."
+   },
+   {
+    "tamil": "நான் தவறு செய்தாலும் அவர் கோபப்படுவதில்லை.",
+    "english": "Even when I make a mistake, he does not get angry."
+   },
+   {
+    "tamil": "அதற்குப் பதிலாக சரியான வடிவத்தை மெதுவாக விளக்குவார்.",
+    "english": "Instead, he slowly explains the correct form."
+   },
+   {
+    "tamil": "அவர் கொடுக்கும் வீட்டுப்பாடம் எனக்கு மிகவும் உதவுகிறது.",
+    "english": "The homework he gives helps me a lot."
+   },
+   {
+    "tamil": "அவரால்தான் எனக்கு ஆங்கிலத்தின் மீது நம்பிக்கை வந்தது.",
+    "english": "It is because of him that I gained confidence in English."
+   }
+  ]
+ },
+ {
+  "id": "para060",
+  "level": "Intermediate",
+  "topic": "Software development team",
+  "sentenceCount": 5,
+  "tamil": "நான் ஒரு சிறிய மென்பொருள் குழுவில் வேலை செய்கிறேன். ஒவ்வொரு காலையும் நாங்கள் பத்து நிமிடக் கூட்டம் நடத்துகிறோம். அதில் நேற்று என்ன செய்தோம், இன்று என்ன செய்யப் போகிறோம் என்று சொல்வோம். யாருக்காவது சிக்கல் இருந்தால் மற்றவர்கள் உதவுவார்கள். இந்த முறையால் எங்கள் வேலை வேகமாகவும் தெளிவாகவும் நடக்கிறது.",
+  "english": "I work in a small software team. Every morning we hold a ten-minute meeting. In it we say what we did yesterday and what we are going to do today. If anyone has a problem, the others help. Because of this method, our work goes on quickly and clearly.",
+  "sentences": [
+   {
+    "tamil": "நான் ஒரு சிறிய மென்பொருள் குழுவில் வேலை செய்கிறேன்.",
+    "english": "I work in a small software team."
+   },
+   {
+    "tamil": "ஒவ்வொரு காலையும் நாங்கள் பத்து நிமிடக் கூட்டம் நடத்துகிறோம்.",
+    "english": "Every morning we hold a ten-minute meeting."
+   },
+   {
+    "tamil": "அதில் நேற்று என்ன செய்தோம், இன்று என்ன செய்யப் போகிறோம் என்று சொல்வோம்.",
+    "english": "In it we say what we did yesterday and what we are going to do today."
+   },
+   {
+    "tamil": "யாருக்காவது சிக்கல் இருந்தால் மற்றவர்கள் உதவுவார்கள்.",
+    "english": "If anyone has a problem, the others help."
+   },
+   {
+    "tamil": "இந்த முறையால் எங்கள் வேலை வேகமாகவும் தெளிவாகவும் நடக்கிறது.",
+    "english": "Because of this method, our work goes on quickly and clearly."
+   }
+  ]
+ },
+ {
+  "id": "para061",
+  "level": "Advanced",
+  "topic": "Daily routine",
+  "sentenceCount": 9,
+  "tamil": "என் வாழ்க்கையில் ஒரு ஒழுங்கான நாள் அமைப்பு இருப்பது எனக்கு மிகவும் உதவுகிறது. நான் காலையில் ஐந்து மணிக்கு எழுந்து அமைதியாகச் சிறிது நேரம் அமர்ந்திருப்பேன். அதன் பிறகு அன்றைய வேலைகளின் பட்டியலை எழுதுவேன். அவற்றில் முக்கியமானவற்றை முதலில் முடிக்க முயல்வேன். அலுவலகத்தில் எனக்கு எந்தத் தடையும் வராமல் இருக்க என் பணிமேசையை ஒழுங்காக வைத்திருப்பேன். மதிய உணவு நேரத்தில் சிறிது நடந்துவிட்டு வருவது என் மனதைப் புத்துணர்ச்சியாக்கும். மாலையில் வேலை முடிந்ததும் அன்றைய பட்டியலைப் பார்த்து என்ன செய்தோம் என்று சரிபார்ப்பேன். செய்ய முடியாதவற்றை அடுத்த நாளுக்கு மாற்றிவிடுவேன். இந்தப் பழக்கத்தால் நான் அழுத்தமில்லாமல் வேலை செய்ய முடிகிறது.",
+  "english": "Having an orderly daily schedule in my life helps me a lot. I wake up at five in the morning and sit quietly for a while. After that I write a list of the day's tasks. I try to finish the important ones first. To avoid any interruption at the office, I keep my desk tidy. Taking a short walk during lunchtime refreshes my mind. In the evening after work, I look at the list and check what I have done. I move the things I could not do to the next day. Because of this habit, I am able to work without stress.",
+  "sentences": [
+   {
+    "tamil": "என் வாழ்க்கையில் ஒரு ஒழுங்கான நாள் அமைப்பு இருப்பது எனக்கு மிகவும் உதவுகிறது.",
+    "english": "Having an orderly daily schedule in my life helps me a lot."
+   },
+   {
+    "tamil": "நான் காலையில் ஐந்து மணிக்கு எழுந்து அமைதியாகச் சிறிது நேரம் அமர்ந்திருப்பேன்.",
+    "english": "I wake up at five in the morning and sit quietly for a while."
+   },
+   {
+    "tamil": "அதன் பிறகு அன்றைய வேலைகளின் பட்டியலை எழுதுவேன்.",
+    "english": "After that I write a list of the day's tasks."
+   },
+   {
+    "tamil": "அவற்றில் முக்கியமானவற்றை முதலில் முடிக்க முயல்வேன்.",
+    "english": "I try to finish the important ones first."
+   },
+   {
+    "tamil": "அலுவலகத்தில் எனக்கு எந்தத் தடையும் வராமல் இருக்க என் பணிமேசையை ஒழுங்காக வைத்திருப்பேன்.",
+    "english": "To avoid any interruption at the office, I keep my desk tidy."
+   },
+   {
+    "tamil": "மதிய உணவு நேரத்தில் சிறிது நடந்துவிட்டு வருவது என் மனதைப் புத்துணர்ச்சியாக்கும்.",
+    "english": "Taking a short walk during lunchtime refreshes my mind."
+   },
+   {
+    "tamil": "மாலையில் வேலை முடிந்ததும் அன்றைய பட்டியலைப் பார்த்து என்ன செய்தோம் என்று சரிபார்ப்பேன்.",
+    "english": "In the evening after work, I look at the list and check what I have done."
+   },
+   {
+    "tamil": "செய்ய முடியாதவற்றை அடுத்த நாளுக்கு மாற்றிவிடுவேன்.",
+    "english": "I move the things I could not do to the next day."
+   },
+   {
+    "tamil": "இந்தப் பழக்கத்தால் நான் அழுத்தமில்லாமல் வேலை செய்ய முடிகிறது.",
+    "english": "Because of this habit, I am able to work without stress."
+   }
+  ]
+ },
+ {
+  "id": "para062",
+  "level": "Advanced",
+  "topic": "Family values",
+  "sentenceCount": 8,
+  "tamil": "எங்கள் குடும்பத்தில் மூன்று தலைமுறையினர் ஒன்றாக வாழ்கிறோம். என் தாத்தா காலையில் செய்தித்தாள் படிப்பார், பாட்டி பூஜை செய்வார். என் பெற்றோர் இருவரும் வேலைக்குச் செல்வதால் நாங்கள் வீட்டு வேலைகளைப் பகிர்ந்துகொள்கிறோம். குழந்தைகள் பெரியவர்களிடம் மரியாதையாக நடந்து கொள்ள வேண்டும் என்பது எங்கள் வீட்டு விதி. வாரத்தில் ஒருநாள் நாங்கள் எல்லோரும் சேர்ந்து இரவு உணவு சாப்பிடுகிறோம். அன்று யாரும் கைபேசியைப் பயன்படுத்தக் கூடாது. அந்த நேரத்தில் எல்லோரும் தங்கள் வாரத்தைப் பற்றிப் பேசுவோம். இத்தகைய சிறிய பழக்கங்கள்தான் எங்களை ஒன்றாக இணைத்து வைத்திருக்கின்றன.",
+  "english": "Three generations of our family live together. My grandfather reads the newspaper in the morning, and my grandmother performs her puja. Since both my parents go to work, we share the household chores. It is a rule in our house that children must behave respectfully towards elders. Once a week we all eat dinner together. On that day nobody is allowed to use a mobile phone. At that time everyone talks about their week. It is such small habits that keep us together.",
+  "sentences": [
+   {
+    "tamil": "எங்கள் குடும்பத்தில் மூன்று தலைமுறையினர் ஒன்றாக வாழ்கிறோம்.",
+    "english": "Three generations of our family live together."
+   },
+   {
+    "tamil": "என் தாத்தா காலையில் செய்தித்தாள் படிப்பார், பாட்டி பூஜை செய்வார்.",
+    "english": "My grandfather reads the newspaper in the morning, and my grandmother performs her puja."
+   },
+   {
+    "tamil": "என் பெற்றோர் இருவரும் வேலைக்குச் செல்வதால் நாங்கள் வீட்டு வேலைகளைப் பகிர்ந்துகொள்கிறோம்.",
+    "english": "Since both my parents go to work, we share the household chores."
+   },
+   {
+    "tamil": "குழந்தைகள் பெரியவர்களிடம் மரியாதையாக நடந்து கொள்ள வேண்டும் என்பது எங்கள் வீட்டு விதி.",
+    "english": "It is a rule in our house that children must behave respectfully towards elders."
+   },
+   {
+    "tamil": "வாரத்தில் ஒருநாள் நாங்கள் எல்லோரும் சேர்ந்து இரவு உணவு சாப்பிடுகிறோம்.",
+    "english": "Once a week we all eat dinner together."
+   },
+   {
+    "tamil": "அன்று யாரும் கைபேசியைப் பயன்படுத்தக் கூடாது.",
+    "english": "On that day nobody is allowed to use a mobile phone."
+   },
+   {
+    "tamil": "அந்த நேரத்தில் எல்லோரும் தங்கள் வாரத்தைப் பற்றிப் பேசுவோம்.",
+    "english": "At that time everyone talks about their week."
+   },
+   {
+    "tamil": "இத்தகைய சிறிய பழக்கங்கள்தான் எங்களை ஒன்றாக இணைத்து வைத்திருக்கின்றன.",
+    "english": "It is such small habits that keep us together."
+   }
+  ]
+ },
+ {
+  "id": "para063",
+  "level": "Advanced",
+  "topic": "An old friend",
+  "sentenceCount": 8,
+  "tamil": "கடந்த மாதம் எதிர்பாராத விதமாக என் பழைய நண்பனை ஒரு கடையில் சந்தித்தேன். நாங்கள் இருவரும் பதினைந்து ஆண்டுகளாகப் பார்த்துக்கொள்ளவில்லை. முதலில் அவனை என்னால் அடையாளம் கண்டுகொள்ள முடியவில்லை. அவன் என்னை அழைத்தபோதுதான் அது அவன் என்று புரிந்தது. நாங்கள் அருகிலிருந்த ஒரு உணவகத்தில் அமர்ந்து மணிக்கணக்கில் பேசினோம். அவன் இப்போது வெளிநாட்டில் ஒரு பொறியாளராக வேலை செய்கிறான். எங்கள் பள்ளி நாட்களில் நடந்த வேடிக்கையான சம்பவங்களை நினைத்துச் சிரித்தோம். பிரியும்போது இனிமேல் தொடர்பில் இருப்போம் என்று உறுதி எடுத்துக்கொண்டோம்.",
+  "english": "Last month I unexpectedly met my old friend in a shop. We had not seen each other for fifteen years. At first I could not recognise him. Only when he called me did I realise that it was him. We sat in a nearby restaurant and talked for hours. He now works as an engineer abroad. We laughed remembering the funny incidents from our school days. When we parted, we promised each other that we would stay in touch.",
+  "sentences": [
+   {
+    "tamil": "கடந்த மாதம் எதிர்பாராத விதமாக என் பழைய நண்பனை ஒரு கடையில் சந்தித்தேன்.",
+    "english": "Last month I unexpectedly met my old friend in a shop."
+   },
+   {
+    "tamil": "நாங்கள் இருவரும் பதினைந்து ஆண்டுகளாகப் பார்த்துக்கொள்ளவில்லை.",
+    "english": "We had not seen each other for fifteen years."
+   },
+   {
+    "tamil": "முதலில் அவனை என்னால் அடையாளம் கண்டுகொள்ள முடியவில்லை.",
+    "english": "At first I could not recognise him."
+   },
+   {
+    "tamil": "அவன் என்னை அழைத்தபோதுதான் அது அவன் என்று புரிந்தது.",
+    "english": "Only when he called me did I realise that it was him."
+   },
+   {
+    "tamil": "நாங்கள் அருகிலிருந்த ஒரு உணவகத்தில் அமர்ந்து மணிக்கணக்கில் பேசினோம்.",
+    "english": "We sat in a nearby restaurant and talked for hours."
+   },
+   {
+    "tamil": "அவன் இப்போது வெளிநாட்டில் ஒரு பொறியாளராக வேலை செய்கிறான்.",
+    "english": "He now works as an engineer abroad."
+   },
+   {
+    "tamil": "எங்கள் பள்ளி நாட்களில் நடந்த வேடிக்கையான சம்பவங்களை நினைத்துச் சிரித்தோம்.",
+    "english": "We laughed remembering the funny incidents from our school days."
+   },
+   {
+    "tamil": "பிரியும்போது இனிமேல் தொடர்பில் இருப்போம் என்று உறுதி எடுத்துக்கொண்டோம்.",
+    "english": "When we parted, we promised each other that we would stay in touch."
+   }
+  ]
+ },
+ {
+  "id": "para064",
+  "level": "Advanced",
+  "topic": "Building a house",
+  "sentenceCount": 9,
+  "tamil": "என் பெற்றோர் பல ஆண்டுகளாகச் சொந்த வீடு கட்ட வேண்டும் என்று கனவு கண்டார்கள். அதற்காக அவர்கள் ஒவ்வொரு மாதமும் கொஞ்சம் கொஞ்சமாகப் பணம் சேர்த்தார்கள். கடைசியில் ஒரு சிறிய நிலத்தை வாங்கினார்கள். வீடு கட்டும் பணி தொடங்கியபோது நாங்கள் எல்லோரும் மிகவும் உற்சாகமாக இருந்தோம். ஆனால் கட்டுமானப் பொருட்களின் விலை திடீரென உயர்ந்தது. அதனால் சில வேலைகளை நாங்களே செய்ய வேண்டியிருந்தது. எட்டு மாதங்களுக்குப் பிறகு வீடு தயாரானது. புது வீட்டில் பால் காய்ச்சிய நாளை நான் வாழ்நாள் முழுவதும் மறக்க மாட்டேன். என் அம்மாவின் கண்களில் ஆனந்தக் கண்ணீர் இருந்தது.",
+  "english": "For many years my parents dreamed of building a house of their own. For that they saved a little money every month. Finally they bought a small plot of land. When the construction began, all of us were very excited. But the price of construction materials suddenly went up. So we had to do some of the work ourselves. After eight months the house was ready. I will never forget, as long as I live, the day we boiled milk in the new house. There were tears of joy in my mother's eyes.",
+  "sentences": [
+   {
+    "tamil": "என் பெற்றோர் பல ஆண்டுகளாகச் சொந்த வீடு கட்ட வேண்டும் என்று கனவு கண்டார்கள்.",
+    "english": "For many years my parents dreamed of building a house of their own."
+   },
+   {
+    "tamil": "அதற்காக அவர்கள் ஒவ்வொரு மாதமும் கொஞ்சம் கொஞ்சமாகப் பணம் சேர்த்தார்கள்.",
+    "english": "For that they saved a little money every month."
+   },
+   {
+    "tamil": "கடைசியில் ஒரு சிறிய நிலத்தை வாங்கினார்கள்.",
+    "english": "Finally they bought a small plot of land."
+   },
+   {
+    "tamil": "வீடு கட்டும் பணி தொடங்கியபோது நாங்கள் எல்லோரும் மிகவும் உற்சாகமாக இருந்தோம்.",
+    "english": "When the construction began, all of us were very excited."
+   },
+   {
+    "tamil": "ஆனால் கட்டுமானப் பொருட்களின் விலை திடீரென உயர்ந்தது.",
+    "english": "But the price of construction materials suddenly went up."
+   },
+   {
+    "tamil": "அதனால் சில வேலைகளை நாங்களே செய்ய வேண்டியிருந்தது.",
+    "english": "So we had to do some of the work ourselves."
+   },
+   {
+    "tamil": "எட்டு மாதங்களுக்குப் பிறகு வீடு தயாரானது.",
+    "english": "After eight months the house was ready."
+   },
+   {
+    "tamil": "புது வீட்டில் பால் காய்ச்சிய நாளை நான் வாழ்நாள் முழுவதும் மறக்க மாட்டேன்.",
+    "english": "I will never forget, as long as I live, the day we boiled milk in the new house."
+   },
+   {
+    "tamil": "என் அம்மாவின் கண்களில் ஆனந்தக் கண்ணீர் இருந்தது.",
+    "english": "There were tears of joy in my mother's eyes."
+   }
+  ]
+ },
+ {
+  "id": "para065",
+  "level": "Advanced",
+  "topic": "Learning to cook",
+  "sentenceCount": 8,
+  "tamil": "நான் வெளியூரில் தனியாகத் தங்கியபோதுதான் சமையல் கற்கத் தொடங்கினேன். முதல் சில நாட்கள் நான் சமைத்த உணவு சாப்பிட முடியாத அளவுக்கு இருந்தது. எனவே என் அம்மாவிடம் தொலைபேசியில் கேட்டுக் கேட்டுக் கற்றுக்கொண்டேன். உப்பு எவ்வளவு போட வேண்டும் என்பது மிகவும் கடினமான விஷயமாக இருந்தது. சில வாரங்களில் எளிய குழம்புகளும் பொரியல்களும் செய்யக் கற்றுக்கொண்டேன். இப்போது விடுமுறை நாட்களில் என் நண்பர்களுக்காகவும் சமைக்கிறேன். சமையல் என்பது வெறும் உணவு தயாரிப்பது மட்டுமல்ல, அன்பைப் பகிர்வதும் ஆகும் என்று புரிந்துகொண்டேன். அந்த எண்ணம் எனக்கு அந்த வேலையை இன்னும் இனிமையாக்குகிறது.",
+  "english": "I began to learn cooking only when I stayed alone in another town. For the first few days, the food I cooked was almost inedible. So I learnt by asking my mother over the phone again and again. How much salt to add was the most difficult thing. Within a few weeks I learnt to make simple curries and stir-fries. Now on holidays I cook for my friends too. I have understood that cooking is not just preparing food but also sharing love. That thought makes the work even more pleasant for me.",
+  "sentences": [
+   {
+    "tamil": "நான் வெளியூரில் தனியாகத் தங்கியபோதுதான் சமையல் கற்கத் தொடங்கினேன்.",
+    "english": "I began to learn cooking only when I stayed alone in another town."
+   },
+   {
+    "tamil": "முதல் சில நாட்கள் நான் சமைத்த உணவு சாப்பிட முடியாத அளவுக்கு இருந்தது.",
+    "english": "For the first few days, the food I cooked was almost inedible."
+   },
+   {
+    "tamil": "எனவே என் அம்மாவிடம் தொலைபேசியில் கேட்டுக் கேட்டுக் கற்றுக்கொண்டேன்.",
+    "english": "So I learnt by asking my mother over the phone again and again."
+   },
+   {
+    "tamil": "உப்பு எவ்வளவு போட வேண்டும் என்பது மிகவும் கடினமான விஷயமாக இருந்தது.",
+    "english": "How much salt to add was the most difficult thing."
+   },
+   {
+    "tamil": "சில வாரங்களில் எளிய குழம்புகளும் பொரியல்களும் செய்யக் கற்றுக்கொண்டேன்.",
+    "english": "Within a few weeks I learnt to make simple curries and stir-fries."
+   },
+   {
+    "tamil": "இப்போது விடுமுறை நாட்களில் என் நண்பர்களுக்காகவும் சமைக்கிறேன்.",
+    "english": "Now on holidays I cook for my friends too."
+   },
+   {
+    "tamil": "சமையல் என்பது வெறும் உணவு தயாரிப்பது மட்டுமல்ல, அன்பைப் பகிர்வதும் ஆகும் என்று புரிந்துகொண்டேன்.",
+    "english": "I have understood that cooking is not just preparing food but also sharing love."
+   },
+   {
+    "tamil": "அந்த எண்ணம் எனக்கு அந்த வேலையை இன்னும் இனிமையாக்குகிறது.",
+    "english": "That thought makes the work even more pleasant for me."
+   }
+  ]
+ },
+ {
+  "id": "para066",
+  "level": "Advanced",
+  "topic": "Shopping online",
+  "sentenceCount": 8,
+  "tamil": "இன்று பலர் தங்களுக்குத் தேவையான பொருட்களை இணையத்தில் வாங்குகிறார்கள். இது நேரத்தைச் சேமிக்கும் என்பது உண்மைதான். ஆனால் பொருளைக் கையில் எடுத்துப் பார்க்க முடியாததால் சில நேரம் ஏமாற்றம் ஏற்படுகிறது. கடந்த மாதம் நான் ஒரு ஜோடி காலணிகளை ஆர்டர் செய்தேன். அவை வந்தபோது அளவு எனக்குச் சரியாகப் பொருந்தவில்லை. நான் அவற்றைத் திருப்பி அனுப்ப வேண்டியிருந்தது. பணம் திரும்பக் கிடைக்க ஒரு வாரம் ஆனது. இனிமேல் வாங்குவதற்கு முன் மதிப்புரைகளை நன்றாகப் படிக்க வேண்டும் என்று முடிவு செய்தேன்.",
+  "english": "Today many people buy the things they need on the internet. It is true that this saves time. But since we cannot hold and see the product, we are sometimes disappointed. Last month I ordered a pair of shoes. When they arrived, the size did not fit me properly. I had to send them back. It took a week to get my money back. I decided that from now on I should read the reviews carefully before buying.",
+  "sentences": [
+   {
+    "tamil": "இன்று பலர் தங்களுக்குத் தேவையான பொருட்களை இணையத்தில் வாங்குகிறார்கள்.",
+    "english": "Today many people buy the things they need on the internet."
+   },
+   {
+    "tamil": "இது நேரத்தைச் சேமிக்கும் என்பது உண்மைதான்.",
+    "english": "It is true that this saves time."
+   },
+   {
+    "tamil": "ஆனால் பொருளைக் கையில் எடுத்துப் பார்க்க முடியாததால் சில நேரம் ஏமாற்றம் ஏற்படுகிறது.",
+    "english": "But since we cannot hold and see the product, we are sometimes disappointed."
+   },
+   {
+    "tamil": "கடந்த மாதம் நான் ஒரு ஜோடி காலணிகளை ஆர்டர் செய்தேன்.",
+    "english": "Last month I ordered a pair of shoes."
+   },
+   {
+    "tamil": "அவை வந்தபோது அளவு எனக்குச் சரியாகப் பொருந்தவில்லை.",
+    "english": "When they arrived, the size did not fit me properly."
+   },
+   {
+    "tamil": "நான் அவற்றைத் திருப்பி அனுப்ப வேண்டியிருந்தது.",
+    "english": "I had to send them back."
+   },
+   {
+    "tamil": "பணம் திரும்பக் கிடைக்க ஒரு வாரம் ஆனது.",
+    "english": "It took a week to get my money back."
+   },
+   {
+    "tamil": "இனிமேல் வாங்குவதற்கு முன் மதிப்புரைகளை நன்றாகப் படிக்க வேண்டும் என்று முடிவு செய்தேன்.",
+    "english": "I decided that from now on I should read the reviews carefully before buying."
+   }
+  ]
+ },
+ {
+  "id": "para067",
+  "level": "Advanced",
+  "topic": "A journey to Kerala",
+  "sentenceCount": 9,
+  "tamil": "கடந்த டிசம்பரில் நாங்கள் குடும்பத்தோடு கேரளாவுக்குச் சுற்றுலா சென்றோம். முதல் நாள் நாங்கள் கொச்சியில் தங்கி அங்குள்ள பழைய கோட்டையைப் பார்த்தோம். இரண்டாம் நாள் ஆலப்புழையில் படகு வீட்டில் பயணம் செய்தோம். இருபுறமும் பசுமையான தென்னந்தோப்புகள் இருந்தன. படகில் சமைத்த மீன் குழம்பு மிகவும் சுவையாக இருந்தது. மூன்றாம் நாள் மூணாறு மலைப்பகுதிக்குச் சென்றோம். அங்கே பனிமூட்டம் காரணமாக சில நேரம் சாலையே தெரியவில்லை. பயணம் முழுவதும் என் தம்பி புகைப்படங்கள் எடுத்துக்கொண்டே இருந்தான். வீடு திரும்பியபோது உடல் சோர்ந்திருந்தாலும் மனம் நிறைந்திருந்தது.",
+  "english": "Last December we went on a family trip to Kerala. On the first day we stayed in Kochi and saw the old fort there. On the second day we travelled in a houseboat in Alappuzha. There were green coconut groves on both sides. The fish curry cooked on the boat was very tasty. On the third day we went to the Munnar hills. Because of the mist there, we could not see the road at times. Throughout the trip my younger brother kept taking photographs. When we returned home, our bodies were tired, but our hearts were full.",
+  "sentences": [
+   {
+    "tamil": "கடந்த டிசம்பரில் நாங்கள் குடும்பத்தோடு கேரளாவுக்குச் சுற்றுலா சென்றோம்.",
+    "english": "Last December we went on a family trip to Kerala."
+   },
+   {
+    "tamil": "முதல் நாள் நாங்கள் கொச்சியில் தங்கி அங்குள்ள பழைய கோட்டையைப் பார்த்தோம்.",
+    "english": "On the first day we stayed in Kochi and saw the old fort there."
+   },
+   {
+    "tamil": "இரண்டாம் நாள் ஆலப்புழையில் படகு வீட்டில் பயணம் செய்தோம்.",
+    "english": "On the second day we travelled in a houseboat in Alappuzha."
+   },
+   {
+    "tamil": "இருபுறமும் பசுமையான தென்னந்தோப்புகள் இருந்தன.",
+    "english": "There were green coconut groves on both sides."
+   },
+   {
+    "tamil": "படகில் சமைத்த மீன் குழம்பு மிகவும் சுவையாக இருந்தது.",
+    "english": "The fish curry cooked on the boat was very tasty."
+   },
+   {
+    "tamil": "மூன்றாம் நாள் மூணாறு மலைப்பகுதிக்குச் சென்றோம்.",
+    "english": "On the third day we went to the Munnar hills."
+   },
+   {
+    "tamil": "அங்கே பனிமூட்டம் காரணமாக சில நேரம் சாலையே தெரியவில்லை.",
+    "english": "Because of the mist there, we could not see the road at times."
+   },
+   {
+    "tamil": "பயணம் முழுவதும் என் தம்பி புகைப்படங்கள் எடுத்துக்கொண்டே இருந்தான்.",
+    "english": "Throughout the trip my younger brother kept taking photographs."
+   },
+   {
+    "tamil": "வீடு திரும்பியபோது உடல் சோர்ந்திருந்தாலும் மனம் நிறைந்திருந்தது.",
+    "english": "When we returned home, our bodies were tired, but our hearts were full."
+   }
+  ]
+ },
+ {
+  "id": "para068",
+  "level": "Advanced",
+  "topic": "Bus travel problems",
+  "sentenceCount": 8,
+  "tamil": "எங்கள் ஊரில் பேருந்து சேவை இன்னும் முழுமையாக மேம்படவில்லை. பல நேரங்களில் பேருந்துகள் நேரத்துக்கு வருவதில்லை. மாணவர்களும் அலுவலகம் செல்பவர்களும் மணிக்கணக்கில் காத்திருக்க வேண்டியிருக்கிறது. காலை நேரத்தில் கூட்டம் அதிகமாக இருப்பதால் நின்றுகொண்டுதான் பயணம் செய்ய முடிகிறது. முதியவர்களுக்கும் பெண்களுக்கும் இது மிகவும் சிரமமாக இருக்கிறது. அரசு கூடுதல் பேருந்துகளை இயக்கினால் இந்தச் சிக்கல் குறையும் என்று நான் நினைக்கிறேன். அதுவரை மக்கள் சிறிது முன்னதாகவே புறப்படுவது நல்லது. நானும் இப்போது ஒரு மணி நேரம் முன்பே வீட்டிலிருந்து கிளம்புகிறேன்.",
+  "english": "The bus service in our town has not yet improved fully. Many times the buses do not arrive on time. Students and office-goers have to wait for hours. Since it is very crowded in the morning, we can only travel standing. This is very difficult for the elderly and for women. I think this problem will reduce if the government runs more buses. Until then it is better for people to leave a little earlier. I too now leave home an hour earlier.",
+  "sentences": [
+   {
+    "tamil": "எங்கள் ஊரில் பேருந்து சேவை இன்னும் முழுமையாக மேம்படவில்லை.",
+    "english": "The bus service in our town has not yet improved fully."
+   },
+   {
+    "tamil": "பல நேரங்களில் பேருந்துகள் நேரத்துக்கு வருவதில்லை.",
+    "english": "Many times the buses do not arrive on time."
+   },
+   {
+    "tamil": "மாணவர்களும் அலுவலகம் செல்பவர்களும் மணிக்கணக்கில் காத்திருக்க வேண்டியிருக்கிறது.",
+    "english": "Students and office-goers have to wait for hours."
+   },
+   {
+    "tamil": "காலை நேரத்தில் கூட்டம் அதிகமாக இருப்பதால் நின்றுகொண்டுதான் பயணம் செய்ய முடிகிறது.",
+    "english": "Since it is very crowded in the morning, we can only travel standing."
+   },
+   {
+    "tamil": "முதியவர்களுக்கும் பெண்களுக்கும் இது மிகவும் சிரமமாக இருக்கிறது.",
+    "english": "This is very difficult for the elderly and for women."
+   },
+   {
+    "tamil": "அரசு கூடுதல் பேருந்துகளை இயக்கினால் இந்தச் சிக்கல் குறையும் என்று நான் நினைக்கிறேன்.",
+    "english": "I think this problem will reduce if the government runs more buses."
+   },
+   {
+    "tamil": "அதுவரை மக்கள் சிறிது முன்னதாகவே புறப்படுவது நல்லது.",
+    "english": "Until then it is better for people to leave a little earlier."
+   },
+   {
+    "tamil": "நானும் இப்போது ஒரு மணி நேரம் முன்பே வீட்டிலிருந்து கிளம்புகிறேன்.",
+    "english": "I too now leave home an hour earlier."
+   }
+  ]
+ },
+ {
+  "id": "para069",
+  "level": "Advanced",
+  "topic": "Missing a train",
+  "sentenceCount": 8,
+  "tamil": "கடந்த வெள்ளிக்கிழமை நான் ஒரு முக்கியமான கூட்டத்துக்காக ரயிலில் செல்ல வேண்டியிருந்தது. ஆனால் வீட்டிலிருந்து புறப்படுவதற்குள் ஆட்டோ கிடைக்காமல் தாமதமானது. நான் நிலையத்தை அடைந்தபோது ரயில் ஏற்கெனவே புறப்பட்டுவிட்டது. ஒரு நிமிடம் என்ன செய்வதென்றே தெரியவில்லை. பிறகு அடுத்த ரயிலுக்கு டிக்கெட் எடுத்துவிட்டு மேலாளருக்குத் தகவல் தெரிவித்தேன். அவர் அந்தக் கூட்டத்தைச் சிறிது நேரம் பிந்தி வைக்க ஒப்புக்கொண்டார். அந்த நாளிலிருந்து நான் எந்தப் பயணத்துக்கும் முன்கூட்டியே தயாராகிவிடுகிறேன். இந்தப் பாடத்தால் நேரத்தின் மதிப்பை நான் மீண்டும் உணர்ந்தேன்.",
+  "english": "Last Friday I had to go by train for an important meeting. But before I could leave home, I was delayed because I could not find an auto. When I reached the station, the train had already left. For a minute I did not know what to do. Then I took a ticket for the next train and informed my manager. He agreed to postpone the meeting for a short while. Since that day I get ready well in advance for any journey. That lesson made me realise the value of time once again.",
+  "sentences": [
+   {
+    "tamil": "கடந்த வெள்ளிக்கிழமை நான் ஒரு முக்கியமான கூட்டத்துக்காக ரயிலில் செல்ல வேண்டியிருந்தது.",
+    "english": "Last Friday I had to go by train for an important meeting."
+   },
+   {
+    "tamil": "ஆனால் வீட்டிலிருந்து புறப்படுவதற்குள் ஆட்டோ கிடைக்காமல் தாமதமானது.",
+    "english": "But before I could leave home, I was delayed because I could not find an auto."
+   },
+   {
+    "tamil": "நான் நிலையத்தை அடைந்தபோது ரயில் ஏற்கெனவே புறப்பட்டுவிட்டது.",
+    "english": "When I reached the station, the train had already left."
+   },
+   {
+    "tamil": "ஒரு நிமிடம் என்ன செய்வதென்றே தெரியவில்லை.",
+    "english": "For a minute I did not know what to do."
+   },
+   {
+    "tamil": "பிறகு அடுத்த ரயிலுக்கு டிக்கெட் எடுத்துவிட்டு மேலாளருக்குத் தகவல் தெரிவித்தேன்.",
+    "english": "Then I took a ticket for the next train and informed my manager."
+   },
+   {
+    "tamil": "அவர் அந்தக் கூட்டத்தைச் சிறிது நேரம் பிந்தி வைக்க ஒப்புக்கொண்டார்.",
+    "english": "He agreed to postpone the meeting for a short while."
+   },
+   {
+    "tamil": "அந்த நாளிலிருந்து நான் எந்தப் பயணத்துக்கும் முன்கூட்டியே தயாராகிவிடுகிறேன்.",
+    "english": "Since that day I get ready well in advance for any journey."
+   },
+   {
+    "tamil": "இந்தப் பாடத்தால் நேரத்தின் மதிப்பை நான் மீண்டும் உணர்ந்தேன்.",
+    "english": "That lesson made me realise the value of time once again."
+   }
+  ]
+ },
+ {
+  "id": "para070",
+  "level": "Advanced",
+  "topic": "Healthy habits",
+  "sentenceCount": 8,
+  "tamil": "நல்ல ஆரோக்கியம் என்பது ஒரு நாளில் வருவதில்லை, அது தினசரிப் பழக்கங்களின் விளைவு. நான் கடந்த ஒரு வருடமாக உணவில் எண்ணெயையும் இனிப்பையும் குறைத்து வருகிறேன். அதோடு வாரத்தில் ஐந்து நாட்கள் நடைப்பயிற்சி செய்கிறேன். தொடக்கத்தில் இது மிகவும் கடினமாக இருந்தது. நண்பர்கள் வெளியே சாப்பிடச் சென்றபோது நான் தனியாக வீட்டில் இருக்க வேண்டியிருந்தது. ஆனால் மூன்று மாதங்களுக்குப் பிறகு என் உடல் எடை குறைந்தது. முன்பு இருந்த முதுகுவலியும் குறைந்துவிட்டது. இப்போது நான் மற்றவர்களுக்கும் இதையே பரிந்துரைக்கிறேன்.",
+  "english": "Good health does not come in a day; it is the result of daily habits. For the past year I have been reducing oil and sweets in my food. Along with that I walk five days a week. In the beginning this was very difficult. When my friends went out to eat, I had to stay at home alone. But after three months my weight came down. The back pain I used to have also reduced. Now I recommend the same to others too.",
+  "sentences": [
+   {
+    "tamil": "நல்ல ஆரோக்கியம் என்பது ஒரு நாளில் வருவதில்லை, அது தினசரிப் பழக்கங்களின் விளைவு.",
+    "english": "Good health does not come in a day; it is the result of daily habits."
+   },
+   {
+    "tamil": "நான் கடந்த ஒரு வருடமாக உணவில் எண்ணெயையும் இனிப்பையும் குறைத்து வருகிறேன்.",
+    "english": "For the past year I have been reducing oil and sweets in my food."
+   },
+   {
+    "tamil": "அதோடு வாரத்தில் ஐந்து நாட்கள் நடைப்பயிற்சி செய்கிறேன்.",
+    "english": "Along with that I walk five days a week."
+   },
+   {
+    "tamil": "தொடக்கத்தில் இது மிகவும் கடினமாக இருந்தது.",
+    "english": "In the beginning this was very difficult."
+   },
+   {
+    "tamil": "நண்பர்கள் வெளியே சாப்பிடச் சென்றபோது நான் தனியாக வீட்டில் இருக்க வேண்டியிருந்தது.",
+    "english": "When my friends went out to eat, I had to stay at home alone."
+   },
+   {
+    "tamil": "ஆனால் மூன்று மாதங்களுக்குப் பிறகு என் உடல் எடை குறைந்தது.",
+    "english": "But after three months my weight came down."
+   },
+   {
+    "tamil": "முன்பு இருந்த முதுகுவலியும் குறைந்துவிட்டது.",
+    "english": "The back pain I used to have also reduced."
+   },
+   {
+    "tamil": "இப்போது நான் மற்றவர்களுக்கும் இதையே பரிந்துரைக்கிறேன்.",
+    "english": "Now I recommend the same to others too."
+   }
+  ]
+ },
+ {
+  "id": "para071",
+  "level": "Advanced",
+  "topic": "School reunion",
+  "sentenceCount": 9,
+  "tamil": "கடந்த ஞாயிற்றுக்கிழமை எங்கள் பள்ளியில் முன்னாள் மாணவர் சந்திப்பு நடைபெற்றது. இருபது ஆண்டுகளுக்குப் பிறகு நாங்கள் எங்கள் வகுப்பறையில் மீண்டும் அமர்ந்தோம். பெஞ்சுகள் இன்னும் அதே இடத்தில் இருந்தன. எங்கள் பழைய ஆசிரியர்கள் சிலரும் வந்திருந்தனர். அவர்கள் எங்களை இன்னும் பெயர் சொல்லி அழைத்ததைக் கேட்டு நாங்கள் நெகிழ்ந்துபோனோம். பலர் இப்போது மருத்துவர்களாகவும் பொறியாளர்களாகவும் இருக்கிறார்கள். ஆனால் அன்று எல்லோரும் மீண்டும் குழந்தைகளைப் போலச் சிரித்தார்கள். நாங்கள் எங்கள் பள்ளிக்கு ஒரு நூலகம் கட்டிக் கொடுக்க முடிவு செய்தோம். அந்த நாள் என் வாழ்க்கையின் மிக இனிமையான நாட்களில் ஒன்று.",
+  "english": "Last Sunday an alumni meeting was held in our school. After twenty years we sat again in our classroom. The benches were still in the same place. A few of our old teachers had also come. We were touched to hear them still call us by our names. Many are now doctors and engineers. But that day everyone laughed like children again. We decided to build a library for our school. That day was one of the sweetest days of my life.",
+  "sentences": [
+   {
+    "tamil": "கடந்த ஞாயிற்றுக்கிழமை எங்கள் பள்ளியில் முன்னாள் மாணவர் சந்திப்பு நடைபெற்றது.",
+    "english": "Last Sunday an alumni meeting was held in our school."
+   },
+   {
+    "tamil": "இருபது ஆண்டுகளுக்குப் பிறகு நாங்கள் எங்கள் வகுப்பறையில் மீண்டும் அமர்ந்தோம்.",
+    "english": "After twenty years we sat again in our classroom."
+   },
+   {
+    "tamil": "பெஞ்சுகள் இன்னும் அதே இடத்தில் இருந்தன.",
+    "english": "The benches were still in the same place."
+   },
+   {
+    "tamil": "எங்கள் பழைய ஆசிரியர்கள் சிலரும் வந்திருந்தனர்.",
+    "english": "A few of our old teachers had also come."
+   },
+   {
+    "tamil": "அவர்கள் எங்களை இன்னும் பெயர் சொல்லி அழைத்ததைக் கேட்டு நாங்கள் நெகிழ்ந்துபோனோம்.",
+    "english": "We were touched to hear them still call us by our names."
+   },
+   {
+    "tamil": "பலர் இப்போது மருத்துவர்களாகவும் பொறியாளர்களாகவும் இருக்கிறார்கள்.",
+    "english": "Many are now doctors and engineers."
+   },
+   {
+    "tamil": "ஆனால் அன்று எல்லோரும் மீண்டும் குழந்தைகளைப் போலச் சிரித்தார்கள்.",
+    "english": "But that day everyone laughed like children again."
+   },
+   {
+    "tamil": "நாங்கள் எங்கள் பள்ளிக்கு ஒரு நூலகம் கட்டிக் கொடுக்க முடிவு செய்தோம்.",
+    "english": "We decided to build a library for our school."
+   },
+   {
+    "tamil": "அந்த நாள் என் வாழ்க்கையின் மிக இனிமையான நாட்களில் ஒன்று.",
+    "english": "That day was one of the sweetest days of my life."
+   }
+  ]
+ },
+ {
+  "id": "para072",
+  "level": "Advanced",
+  "topic": "Studying abroad dream",
+  "sentenceCount": 8,
+  "tamil": "எனக்கு வெளிநாட்டில் மேற்படிப்பு படிக்க வேண்டும் என்பது நீண்ட நாள் கனவு. அதற்கு நல்ல ஆங்கிலத் திறனும் தேர்வு மதிப்பெண்ணும் தேவை. எனவே கடந்த ஆறு மாதங்களாக நான் தினமும் இரண்டு மணி நேரம் ஆங்கிலம் பயிற்சி செய்து வருகிறேன். ஆரம்பத்தில் நான் பேசும்போது தடுமாறினேன். இப்போது என் நம்பிக்கை அதிகரித்திருக்கிறது. நான் பல பல்கலைக்கழகங்களின் இணையதளங்களைப் பார்த்து விவரங்களைச் சேகரித்து வருகிறேன். கல்விக் கடன் பற்றியும் வங்கியில் விசாரித்தேன். என் முயற்சி வீண் போகாது என்று நம்புகிறேன்.",
+  "english": "Studying abroad for higher education has been my long-time dream. For that I need good English skills and a good exam score. So for the last six months I have been practising English for two hours every day. In the beginning I used to hesitate when speaking. Now my confidence has increased. I have been looking at the websites of many universities and collecting details. I also enquired at the bank about an education loan. I believe my effort will not go in vain.",
+  "sentences": [
+   {
+    "tamil": "எனக்கு வெளிநாட்டில் மேற்படிப்பு படிக்க வேண்டும் என்பது நீண்ட நாள் கனவு.",
+    "english": "Studying abroad for higher education has been my long-time dream."
+   },
+   {
+    "tamil": "அதற்கு நல்ல ஆங்கிலத் திறனும் தேர்வு மதிப்பெண்ணும் தேவை.",
+    "english": "For that I need good English skills and a good exam score."
+   },
+   {
+    "tamil": "எனவே கடந்த ஆறு மாதங்களாக நான் தினமும் இரண்டு மணி நேரம் ஆங்கிலம் பயிற்சி செய்து வருகிறேன்.",
+    "english": "So for the last six months I have been practising English for two hours every day."
+   },
+   {
+    "tamil": "ஆரம்பத்தில் நான் பேசும்போது தடுமாறினேன்.",
+    "english": "In the beginning I used to hesitate when speaking."
+   },
+   {
+    "tamil": "இப்போது என் நம்பிக்கை அதிகரித்திருக்கிறது.",
+    "english": "Now my confidence has increased."
+   },
+   {
+    "tamil": "நான் பல பல்கலைக்கழகங்களின் இணையதளங்களைப் பார்த்து விவரங்களைச் சேகரித்து வருகிறேன்.",
+    "english": "I have been looking at the websites of many universities and collecting details."
+   },
+   {
+    "tamil": "கல்விக் கடன் பற்றியும் வங்கியில் விசாரித்தேன்.",
+    "english": "I also enquired at the bank about an education loan."
+   },
+   {
+    "tamil": "என் முயற்சி வீண் போகாது என்று நம்புகிறேன்.",
+    "english": "I believe my effort will not go in vain."
+   }
+  ]
+ },
+ {
+  "id": "para073",
+  "level": "Advanced",
+  "topic": "Working in IT",
+  "sentenceCount": 8,
+  "tamil": "தகவல் தொழில்நுட்பத் துறையில் வேலை செய்வது சவாலானது, ஆனால் சுவாரஸ்யமானது. ஒவ்வொரு நாளும் புதிய தொழில்நுட்பங்கள் வருகின்றன. அவற்றைத் தொடர்ந்து கற்றுக்கொள்ளாவிட்டால் நாம் பின்தங்கிவிடுவோம். நான் வாரத்துக்கு இரண்டு மணி நேரம் புதிய கருவிகளைக் கற்கும் நேரமாக ஒதுக்கியிருக்கிறேன். சில நேரங்களில் காலக்கெடுவுக்குள் வேலையை முடிக்க இரவு வரை உட்கார வேண்டியிருக்கும். அப்போதும் குழுவினர் ஒருவருக்கொருவர் ஆதரவாக இருப்பார்கள். நாங்கள் எழுதிய நிரல் சரியாக இயங்கும்போது ஏற்படும் மகிழ்ச்சி வார்த்தைகளில் சொல்ல முடியாதது. அதுவே இந்த வேலையில் என்னைத் தொடர வைக்கிறது.",
+  "english": "Working in the information technology field is challenging but interesting. New technologies come out every day. If we do not keep learning them, we will fall behind. I have set aside two hours a week for learning new tools. Sometimes I have to sit up till night to finish work before the deadline. Even then the team members support one another. The joy we feel when the code we wrote runs correctly cannot be described in words. That is what keeps me going in this job.",
+  "sentences": [
+   {
+    "tamil": "தகவல் தொழில்நுட்பத் துறையில் வேலை செய்வது சவாலானது, ஆனால் சுவாரஸ்யமானது.",
+    "english": "Working in the information technology field is challenging but interesting."
+   },
+   {
+    "tamil": "ஒவ்வொரு நாளும் புதிய தொழில்நுட்பங்கள் வருகின்றன.",
+    "english": "New technologies come out every day."
+   },
+   {
+    "tamil": "அவற்றைத் தொடர்ந்து கற்றுக்கொள்ளாவிட்டால் நாம் பின்தங்கிவிடுவோம்.",
+    "english": "If we do not keep learning them, we will fall behind."
+   },
+   {
+    "tamil": "நான் வாரத்துக்கு இரண்டு மணி நேரம் புதிய கருவிகளைக் கற்கும் நேரமாக ஒதுக்கியிருக்கிறேன்.",
+    "english": "I have set aside two hours a week for learning new tools."
+   },
+   {
+    "tamil": "சில நேரங்களில் காலக்கெடுவுக்குள் வேலையை முடிக்க இரவு வரை உட்கார வேண்டியிருக்கும்.",
+    "english": "Sometimes I have to sit up till night to finish work before the deadline."
+   },
+   {
+    "tamil": "அப்போதும் குழுவினர் ஒருவருக்கொருவர் ஆதரவாக இருப்பார்கள்.",
+    "english": "Even then the team members support one another."
+   },
+   {
+    "tamil": "நாங்கள் எழுதிய நிரல் சரியாக இயங்கும்போது ஏற்படும் மகிழ்ச்சி வார்த்தைகளில் சொல்ல முடியாதது.",
+    "english": "The joy we feel when the code we wrote runs correctly cannot be described in words."
+   },
+   {
+    "tamil": "அதுவே இந்த வேலையில் என்னைத் தொடர வைக்கிறது.",
+    "english": "That is what keeps me going in this job."
+   }
+  ]
+ },
+ {
+  "id": "para074",
+  "level": "Advanced",
+  "topic": "A bug in production",
+  "sentenceCount": 8,
+  "tamil": "கடந்த வாரம் எங்கள் செயலியில் ஒரு பெரிய பிழை கண்டுபிடிக்கப்பட்டது. பயனர்கள் பணம் செலுத்த முயன்றபோது பக்கம் உறைந்து போனது. வாடிக்கையாளர் புகார்கள் சில நிமிடங்களிலேயே வரத் தொடங்கின. எங்கள் குழுத்தலைவர் உடனே எல்லோரையும் அவசரக் கூட்டத்துக்கு அழைத்தார். நான் பதிவுக் கோப்புகளைச் சோதித்து எந்த இடத்தில் சிக்கல் என்று தேடினேன். ஒரு தவறான தரவு வடிவமே காரணம் என்று கண்டுபிடித்தோம். இரண்டு மணி நேரத்தில் அதைச் சரிசெய்து புதிய பதிப்பை வெளியிட்டோம். அடுத்த முறை இதுபோல் நடக்காமல் இருக்க கூடுதல் சோதனைகளைச் சேர்த்தோம்.",
+  "english": "Last week a major bug was found in our application. When users tried to make a payment, the page froze. Customer complaints started coming in within minutes. Our team leader immediately called everyone to an urgent meeting. I checked the log files and searched for where the problem was. We found that an incorrect data format was the cause. In two hours we fixed it and released a new version. To prevent this from happening again, we added more tests.",
+  "sentences": [
+   {
+    "tamil": "கடந்த வாரம் எங்கள் செயலியில் ஒரு பெரிய பிழை கண்டுபிடிக்கப்பட்டது.",
+    "english": "Last week a major bug was found in our application."
+   },
+   {
+    "tamil": "பயனர்கள் பணம் செலுத்த முயன்றபோது பக்கம் உறைந்து போனது.",
+    "english": "When users tried to make a payment, the page froze."
+   },
+   {
+    "tamil": "வாடிக்கையாளர் புகார்கள் சில நிமிடங்களிலேயே வரத் தொடங்கின.",
+    "english": "Customer complaints started coming in within minutes."
+   },
+   {
+    "tamil": "எங்கள் குழுத்தலைவர் உடனே எல்லோரையும் அவசரக் கூட்டத்துக்கு அழைத்தார்.",
+    "english": "Our team leader immediately called everyone to an urgent meeting."
+   },
+   {
+    "tamil": "நான் பதிவுக் கோப்புகளைச் சோதித்து எந்த இடத்தில் சிக்கல் என்று தேடினேன்.",
+    "english": "I checked the log files and searched for where the problem was."
+   },
+   {
+    "tamil": "ஒரு தவறான தரவு வடிவமே காரணம் என்று கண்டுபிடித்தோம்.",
+    "english": "We found that an incorrect data format was the cause."
+   },
+   {
+    "tamil": "இரண்டு மணி நேரத்தில் அதைச் சரிசெய்து புதிய பதிப்பை வெளியிட்டோம்.",
+    "english": "In two hours we fixed it and released a new version."
+   },
+   {
+    "tamil": "அடுத்த முறை இதுபோல் நடக்காமல் இருக்க கூடுதல் சோதனைகளைச் சேர்த்தோம்.",
+    "english": "To prevent this from happening again, we added more tests."
+   }
+  ]
+ },
+ {
+  "id": "para075",
+  "level": "Advanced",
+  "topic": "Customer service lessons",
+  "sentenceCount": 8,
+  "tamil": "வாடிக்கையாளர் சேவையில் வேலை செய்யும்போது பொறுமைதான் மிக முக்கியம். சில வாடிக்கையாளர்கள் கோபத்துடன் பேசுவார்கள். அவர்கள் உண்மையில் நம் மீது கோபப்படுவதில்லை, பிரச்சினையால்தான் கோபப்படுகிறார்கள் என்பதை நான் கற்றுக்கொண்டேன். எனவே முதலில் அவர்கள் சொல்வதை இடையூறு செய்யாமல் கேட்பேன். பிறகு அவர்களுடைய சிரமத்துக்கு வருத்தம் தெரிவிப்பேன். தீர்வு உடனே இல்லையென்றால் எவ்வளவு நேரம் ஆகும் என்று உண்மையாகச் சொல்வேன். பொய்யான வாக்குறுதி கொடுப்பதை விட உண்மையைச் சொல்வது நம்பிக்கையை வளர்க்கும். இந்த அணுகுமுறையால் என் வாடிக்கையாளர்கள் பலர் மீண்டும் மீண்டும் வருகிறார்கள்.",
+  "english": "When working in customer service, patience is the most important thing. Some customers speak angrily. I have learnt that they are not really angry with us, but with the problem. So I first listen to what they say without interrupting. Then I express regret for their inconvenience. If there is no immediate solution, I honestly say how long it will take. Telling the truth builds trust more than giving a false promise. Because of this approach, many of my customers return again and again.",
+  "sentences": [
+   {
+    "tamil": "வாடிக்கையாளர் சேவையில் வேலை செய்யும்போது பொறுமைதான் மிக முக்கியம்.",
+    "english": "When working in customer service, patience is the most important thing."
+   },
+   {
+    "tamil": "சில வாடிக்கையாளர்கள் கோபத்துடன் பேசுவார்கள்.",
+    "english": "Some customers speak angrily."
+   },
+   {
+    "tamil": "அவர்கள் உண்மையில் நம் மீது கோபப்படுவதில்லை, பிரச்சினையால்தான் கோபப்படுகிறார்கள் என்பதை நான் கற்றுக்கொண்டேன்.",
+    "english": "I have learnt that they are not really angry with us, but with the problem."
+   },
+   {
+    "tamil": "எனவே முதலில் அவர்கள் சொல்வதை இடையூறு செய்யாமல் கேட்பேன்.",
+    "english": "So I first listen to what they say without interrupting."
+   },
+   {
+    "tamil": "பிறகு அவர்களுடைய சிரமத்துக்கு வருத்தம் தெரிவிப்பேன்.",
+    "english": "Then I express regret for their inconvenience."
+   },
+   {
+    "tamil": "தீர்வு உடனே இல்லையென்றால் எவ்வளவு நேரம் ஆகும் என்று உண்மையாகச் சொல்வேன்.",
+    "english": "If there is no immediate solution, I honestly say how long it will take."
+   },
+   {
+    "tamil": "பொய்யான வாக்குறுதி கொடுப்பதை விட உண்மையைச் சொல்வது நம்பிக்கையை வளர்க்கும்.",
+    "english": "Telling the truth builds trust more than giving a false promise."
+   },
+   {
+    "tamil": "இந்த அணுகுமுறையால் என் வாடிக்கையாளர்கள் பலர் மீண்டும் மீண்டும் வருகிறார்கள்.",
+    "english": "Because of this approach, many of my customers return again and again."
+   }
+  ]
+ },
+ {
+  "id": "para076",
+  "level": "Advanced",
+  "topic": "Disagreement with a colleague",
+  "sentenceCount": 8,
+  "tamil": "கடந்த மாதம் ஒரு திட்டத்தின் முறை பற்றி என் சக ஊழியருக்கும் எனக்கும் கருத்து வேறுபாடு ஏற்பட்டது. அவர் பழைய முறையையே பயன்படுத்த விரும்பினார். நான் ஒரு புதிய முறை வேகமாகவும் எளிதாகவும் இருக்கும் என்று நினைத்தேன். முதலில் எங்கள் உரையாடல் சற்றுச் சூடாக மாறியது. பிறகு நாங்கள் இருவரும் அமைதியாகி, இரண்டு முறைகளின் நன்மை தீமைகளையும் எழுதிப் பார்த்தோம். அதில் ஒரு கலவையான வழி சிறந்தது என்று தெரிந்தது. இறுதியில் மேலாளரும் அதை ஏற்றுக்கொண்டார். பிரச்சினைகளை நேரடியாகப் பேசித் தீர்ப்பதே சிறந்த வழி என்று அன்று புரிந்துகொண்டேன்.",
+  "english": "Last month my colleague and I had a difference of opinion about the method of a project. He wanted to use the old method. I thought a new method would be faster and easier. At first our conversation became a little heated. Then we both calmed down and wrote the advantages and disadvantages of both methods. It showed that a combined approach was best. In the end the manager also accepted it. That day I understood that discussing problems directly is the best way to solve them.",
+  "sentences": [
+   {
+    "tamil": "கடந்த மாதம் ஒரு திட்டத்தின் முறை பற்றி என் சக ஊழியருக்கும் எனக்கும் கருத்து வேறுபாடு ஏற்பட்டது.",
+    "english": "Last month my colleague and I had a difference of opinion about the method of a project."
+   },
+   {
+    "tamil": "அவர் பழைய முறையையே பயன்படுத்த விரும்பினார்.",
+    "english": "He wanted to use the old method."
+   },
+   {
+    "tamil": "நான் ஒரு புதிய முறை வேகமாகவும் எளிதாகவும் இருக்கும் என்று நினைத்தேன்.",
+    "english": "I thought a new method would be faster and easier."
+   },
+   {
+    "tamil": "முதலில் எங்கள் உரையாடல் சற்றுச் சூடாக மாறியது.",
+    "english": "At first our conversation became a little heated."
+   },
+   {
+    "tamil": "பிறகு நாங்கள் இருவரும் அமைதியாகி, இரண்டு முறைகளின் நன்மை தீமைகளையும் எழுதிப் பார்த்தோம்.",
+    "english": "Then we both calmed down and wrote the advantages and disadvantages of both methods."
+   },
+   {
+    "tamil": "அதில் ஒரு கலவையான வழி சிறந்தது என்று தெரிந்தது.",
+    "english": "It showed that a combined approach was best."
+   },
+   {
+    "tamil": "இறுதியில் மேலாளரும் அதை ஏற்றுக்கொண்டார்.",
+    "english": "In the end the manager also accepted it."
+   },
+   {
+    "tamil": "பிரச்சினைகளை நேரடியாகப் பேசித் தீர்ப்பதே சிறந்த வழி என்று அன்று புரிந்துகொண்டேன்.",
+    "english": "That day I understood that discussing problems directly is the best way to solve them."
+   }
+  ]
+ },
+ {
+  "id": "para077",
+  "level": "Advanced",
+  "topic": "Preparing for exams",
+  "sentenceCount": 8,
+  "tamil": "தேர்வு நெருங்கும்போது எல்லா மாணவர்களுக்கும் பயம் வருவது இயல்புதான். நான் இரண்டு மாதங்களுக்கு முன்பே ஒரு கால அட்டவணை தயாரித்தேன். ஒவ்வொரு பாடத்துக்கும் தினமும் குறிப்பிட்ட நேரம் ஒதுக்கினேன். கடினமான பாடங்களை காலையில் படித்தேன், ஏனென்றால் அப்போது மனம் தெளிவாக இருக்கும். வாரக் கடைசியில் முந்தைய வினாத்தாள்களைத் தீர்த்துப் பார்த்தேன். தவறாகச் செய்தவற்றை ஒரு தனி நோட்டில் குறித்துக்கொண்டேன். தேர்வுக்கு முந்தைய இரவு நான் நன்றாகத் தூங்கினேன். அதனால் தேர்வு எழுதும்போது எனக்குப் பதற்றம் இல்லை.",
+  "english": "It is natural for all students to feel afraid when exams approach. I made a timetable two months in advance. I set aside a fixed time every day for each subject. I studied the difficult subjects in the morning because the mind is clear then. At the end of each week I solved previous question papers. I noted down the things I got wrong in a separate notebook. On the night before the exam I slept well. So I was not nervous while writing the exam.",
+  "sentences": [
+   {
+    "tamil": "தேர்வு நெருங்கும்போது எல்லா மாணவர்களுக்கும் பயம் வருவது இயல்புதான்.",
+    "english": "It is natural for all students to feel afraid when exams approach."
+   },
+   {
+    "tamil": "நான் இரண்டு மாதங்களுக்கு முன்பே ஒரு கால அட்டவணை தயாரித்தேன்.",
+    "english": "I made a timetable two months in advance."
+   },
+   {
+    "tamil": "ஒவ்வொரு பாடத்துக்கும் தினமும் குறிப்பிட்ட நேரம் ஒதுக்கினேன்.",
+    "english": "I set aside a fixed time every day for each subject."
+   },
+   {
+    "tamil": "கடினமான பாடங்களை காலையில் படித்தேன், ஏனென்றால் அப்போது மனம் தெளிவாக இருக்கும்.",
+    "english": "I studied the difficult subjects in the morning because the mind is clear then."
+   },
+   {
+    "tamil": "வாரக் கடைசியில் முந்தைய வினாத்தாள்களைத் தீர்த்துப் பார்த்தேன்.",
+    "english": "At the end of each week I solved previous question papers."
+   },
+   {
+    "tamil": "தவறாகச் செய்தவற்றை ஒரு தனி நோட்டில் குறித்துக்கொண்டேன்.",
+    "english": "I noted down the things I got wrong in a separate notebook."
+   },
+   {
+    "tamil": "தேர்வுக்கு முந்தைய இரவு நான் நன்றாகத் தூங்கினேன்.",
+    "english": "On the night before the exam I slept well."
+   },
+   {
+    "tamil": "அதனால் தேர்வு எழுதும்போது எனக்குப் பதற்றம் இல்லை.",
+    "english": "So I was not nervous while writing the exam."
+   }
+  ]
+ },
+ {
+  "id": "para078",
+  "level": "Advanced",
+  "topic": "Wedding celebration",
+  "sentenceCount": 8,
+  "tamil": "கடந்த மாதம் என் உறவினர் ஒருவரின் திருமணத்தில் கலந்துகொண்டோம். திருமணம் ஒரு பெரிய மண்டபத்தில் காலை நடைபெற்றது. மணமகனும் மணமகளும் பாரம்பரிய உடையில் மிகவும் அழகாகத் தெரிந்தார்கள். நாதஸ்வர இசை மண்டபம் முழுவதும் ஒலித்தது. தாலி கட்டும் நேரத்தில் எல்லோரும் மலர்களைத் தூவி வாழ்த்தினார்கள். வாழை இலையில் பரிமாறப்பட்ட விருந்து மிகவும் சுவையாக இருந்தது. பல ஆண்டுகளாகப் பார்க்காத உறவினர்களையும் அங்கே சந்தித்தேன். மாலையில் நாங்கள் நிறைவான மனதுடன் வீடு திரும்பினோம்.",
+  "english": "Last month we attended the wedding of one of my relatives. The wedding was held in a large hall in the morning. The bride and groom looked very beautiful in traditional dress. The sound of the nadaswaram music filled the entire hall. At the time of tying the thali, everyone showered flowers and blessed them. The feast served on banana leaves was very tasty. I also met relatives there whom I had not seen for many years. In the evening we returned home with contented hearts.",
+  "sentences": [
+   {
+    "tamil": "கடந்த மாதம் என் உறவினர் ஒருவரின் திருமணத்தில் கலந்துகொண்டோம்.",
+    "english": "Last month we attended the wedding of one of my relatives."
+   },
+   {
+    "tamil": "திருமணம் ஒரு பெரிய மண்டபத்தில் காலை நடைபெற்றது.",
+    "english": "The wedding was held in a large hall in the morning."
+   },
+   {
+    "tamil": "மணமகனும் மணமகளும் பாரம்பரிய உடையில் மிகவும் அழகாகத் தெரிந்தார்கள்.",
+    "english": "The bride and groom looked very beautiful in traditional dress."
+   },
+   {
+    "tamil": "நாதஸ்வர இசை மண்டபம் முழுவதும் ஒலித்தது.",
+    "english": "The sound of the nadaswaram music filled the entire hall."
+   },
+   {
+    "tamil": "தாலி கட்டும் நேரத்தில் எல்லோரும் மலர்களைத் தூவி வாழ்த்தினார்கள்.",
+    "english": "At the time of tying the thali, everyone showered flowers and blessed them."
+   },
+   {
+    "tamil": "வாழை இலையில் பரிமாறப்பட்ட விருந்து மிகவும் சுவையாக இருந்தது.",
+    "english": "The feast served on banana leaves was very tasty."
+   },
+   {
+    "tamil": "பல ஆண்டுகளாகப் பார்க்காத உறவினர்களையும் அங்கே சந்தித்தேன்.",
+    "english": "I also met relatives there whom I had not seen for many years."
+   },
+   {
+    "tamil": "மாலையில் நாங்கள் நிறைவான மனதுடன் வீடு திரும்பினோம்.",
+    "english": "In the evening we returned home with contented hearts."
+   }
+  ]
+ },
+ {
+  "id": "para079",
+  "level": "Advanced",
+  "topic": "Rainy season in Chennai",
+  "sentenceCount": 8,
+  "tamil": "சென்னையில் மழைக்காலம் என்பது பலருக்குக் கவலையான காலம். சில நேரங்களில் ஒரே இரவில் பெய்யும் கனமழை தெருக்களை நீரில் மூழ்கடிக்கிறது. 2015 வெள்ளத்தின்போது எங்கள் வீட்டின் தரைத்தளம் முழுவதும் தண்ணீரில் மூழ்கியது. நாங்கள் மாடிக்குச் சென்று இரண்டு நாட்கள் தங்கினோம். அப்போது அண்டை வீட்டார் எங்களுக்கு உணவும் குடிநீரும் கொடுத்து உதவினார்கள். அந்த அனுபவம் எங்களுக்கு ஒற்றுமையின் மதிப்பைக் கற்றுக் கொடுத்தது. அதன் பிறகு நாங்கள் மழைக்காலத்துக்கு முன்பே தேவையான பொருட்களை சேமித்து வைக்கிறோம். அரசும் வடிகால் அமைப்புகளை மேம்படுத்தி வருகிறது.",
+  "english": "In Chennai the rainy season is a time of worry for many. Sometimes heavy rain falling in a single night floods the streets. During the 2015 floods, the whole ground floor of our house was submerged. We went upstairs and stayed there for two days. At that time our neighbours helped us with food and drinking water. That experience taught us the value of unity. Since then we store the necessary supplies well before the rainy season. The government is also improving the drainage systems.",
+  "sentences": [
+   {
+    "tamil": "சென்னையில் மழைக்காலம் என்பது பலருக்குக் கவலையான காலம்.",
+    "english": "In Chennai the rainy season is a time of worry for many."
+   },
+   {
+    "tamil": "சில நேரங்களில் ஒரே இரவில் பெய்யும் கனமழை தெருக்களை நீரில் மூழ்கடிக்கிறது.",
+    "english": "Sometimes heavy rain falling in a single night floods the streets."
+   },
+   {
+    "tamil": "2015 வெள்ளத்தின்போது எங்கள் வீட்டின் தரைத்தளம் முழுவதும் தண்ணீரில் மூழ்கியது.",
+    "english": "During the 2015 floods, the whole ground floor of our house was submerged."
+   },
+   {
+    "tamil": "நாங்கள் மாடிக்குச் சென்று இரண்டு நாட்கள் தங்கினோம்.",
+    "english": "We went upstairs and stayed there for two days."
+   },
+   {
+    "tamil": "அப்போது அண்டை வீட்டார் எங்களுக்கு உணவும் குடிநீரும் கொடுத்து உதவினார்கள்.",
+    "english": "At that time our neighbours helped us with food and drinking water."
+   },
+   {
+    "tamil": "அந்த அனுபவம் எங்களுக்கு ஒற்றுமையின் மதிப்பைக் கற்றுக் கொடுத்தது.",
+    "english": "That experience taught us the value of unity."
+   },
+   {
+    "tamil": "அதன் பிறகு நாங்கள் மழைக்காலத்துக்கு முன்பே தேவையான பொருட்களை சேமித்து வைக்கிறோம்.",
+    "english": "Since then we store the necessary supplies well before the rainy season."
+   },
+   {
+    "tamil": "அரசும் வடிகால் அமைப்புகளை மேம்படுத்தி வருகிறது.",
+    "english": "The government is also improving the drainage systems."
+   }
+  ]
+ },
+ {
+  "id": "para080",
+  "level": "Advanced",
+  "topic": "Saving for the future",
+  "sentenceCount": 8,
+  "tamil": "இளம் வயதிலேயே சேமிக்கத் தொடங்குவது மிகவும் நல்லது. நான் என் முதல் சம்பளத்திலிருந்தே ஒரு பகுதியைத் தனியாக எடுத்து வைத்தேன். அந்தப் பணத்தை ஒரு நிலையான வைப்புத் தொகையில் போட்டேன். அவசரத் தேவைகளுக்காகத் தனியாக ஒரு சிறிய தொகையையும் வைத்திருக்கிறேன். கடந்த ஆண்டு என் தந்தைக்கு அறுவை சிகிச்சை செய்ய வேண்டியிருந்தபோது அந்தச் சேமிப்பு எங்களுக்கு மிகவும் உதவியது. கடன் வாங்காமலே நாங்கள் அந்தச் செலவைச் சமாளித்தோம். அந்த நாளிலிருந்து சேமிப்பின் முக்கியத்துவத்தை நான் முழுமையாக உணர்ந்தேன். இப்போது என் தம்பிக்கும் இதையே கற்றுக்கொடுத்து வருகிறேன்.",
+  "english": "It is very good to start saving at a young age. From my very first salary I kept a part aside. I put that money in a fixed deposit. I also keep a small amount separately for emergencies. Last year, when my father needed surgery, that saving helped us a lot. We managed that expense without taking a loan. From that day I fully realised the importance of saving. Now I am teaching the same to my younger brother.",
+  "sentences": [
+   {
+    "tamil": "இளம் வயதிலேயே சேமிக்கத் தொடங்குவது மிகவும் நல்லது.",
+    "english": "It is very good to start saving at a young age."
+   },
+   {
+    "tamil": "நான் என் முதல் சம்பளத்திலிருந்தே ஒரு பகுதியைத் தனியாக எடுத்து வைத்தேன்.",
+    "english": "From my very first salary I kept a part aside."
+   },
+   {
+    "tamil": "அந்தப் பணத்தை ஒரு நிலையான வைப்புத் தொகையில் போட்டேன்.",
+    "english": "I put that money in a fixed deposit."
+   },
+   {
+    "tamil": "அவசரத் தேவைகளுக்காகத் தனியாக ஒரு சிறிய தொகையையும் வைத்திருக்கிறேன்.",
+    "english": "I also keep a small amount separately for emergencies."
+   },
+   {
+    "tamil": "கடந்த ஆண்டு என் தந்தைக்கு அறுவை சிகிச்சை செய்ய வேண்டியிருந்தபோது அந்தச் சேமிப்பு எங்களுக்கு மிகவும் உதவியது.",
+    "english": "Last year, when my father needed surgery, that saving helped us a lot."
+   },
+   {
+    "tamil": "கடன் வாங்காமலே நாங்கள் அந்தச் செலவைச் சமாளித்தோம்.",
+    "english": "We managed that expense without taking a loan."
+   },
+   {
+    "tamil": "அந்த நாளிலிருந்து சேமிப்பின் முக்கியத்துவத்தை நான் முழுமையாக உணர்ந்தேன்.",
+    "english": "From that day I fully realised the importance of saving."
+   },
+   {
+    "tamil": "இப்போது என் தம்பிக்கும் இதையே கற்றுக்கொடுத்து வருகிறேன்.",
+    "english": "Now I am teaching the same to my younger brother."
+   }
+  ]
+ },
+ {
+  "id": "para081",
+  "level": "Advanced",
+  "topic": "Volunteering",
+  "sentenceCount": 8,
+  "tamil": "கடந்த ஆண்டு நான் ஒரு தொண்டு நிறுவனத்தில் தன்னார்வலராகச் சேர்ந்தேன். வார இறுதிகளில் நாங்கள் ஏழைக் குழந்தைகளுக்குப் பாடம் சொல்லிக் கொடுக்கிறோம். அவர்களில் பலர் பள்ளிக்குச் செல்ல முடியாத சூழலில் இருந்தவர்கள். அவர்கள் ஆர்வமாகக் கற்றுக்கொள்வதைப் பார்க்கும்போது எனக்குப் பெருமையாக இருக்கிறது. ஒரு சிறுவன் முதல்முறையாகத் தன் பெயரை ஆங்கிலத்தில் எழுதியபோது அவன் முகத்தில் தெரிந்த மகிழ்ச்சியை என்னால் மறக்க முடியாது. பிறருக்கு உதவுவதால் நமக்கும் மன நிறைவு கிடைக்கிறது. நேரம் இல்லை என்று சொல்பவர்களிடம் சிறிது நேரமாவது ஒதுக்கச் சொல்வேன். ஏனெனில் சிறிய உதவியும் ஒருவரின் வாழ்க்கையை மாற்றக்கூடும்.",
+  "english": "Last year I joined a charity organisation as a volunteer. On weekends we teach lessons to poor children. Many of them were in situations where they could not go to school. I feel proud when I see them learning eagerly. I cannot forget the joy on a little boy's face when he wrote his name in English for the first time. By helping others, we too get inner satisfaction. To those who say they have no time, I say to spare at least a little. Because even a small help can change someone's life.",
+  "sentences": [
+   {
+    "tamil": "கடந்த ஆண்டு நான் ஒரு தொண்டு நிறுவனத்தில் தன்னார்வலராகச் சேர்ந்தேன்.",
+    "english": "Last year I joined a charity organisation as a volunteer."
+   },
+   {
+    "tamil": "வார இறுதிகளில் நாங்கள் ஏழைக் குழந்தைகளுக்குப் பாடம் சொல்லிக் கொடுக்கிறோம்.",
+    "english": "On weekends we teach lessons to poor children."
+   },
+   {
+    "tamil": "அவர்களில் பலர் பள்ளிக்குச் செல்ல முடியாத சூழலில் இருந்தவர்கள்.",
+    "english": "Many of them were in situations where they could not go to school."
+   },
+   {
+    "tamil": "அவர்கள் ஆர்வமாகக் கற்றுக்கொள்வதைப் பார்க்கும்போது எனக்குப் பெருமையாக இருக்கிறது.",
+    "english": "I feel proud when I see them learning eagerly."
+   },
+   {
+    "tamil": "ஒரு சிறுவன் முதல்முறையாகத் தன் பெயரை ஆங்கிலத்தில் எழுதியபோது அவன் முகத்தில் தெரிந்த மகிழ்ச்சியை என்னால் மறக்க முடியாது.",
+    "english": "I cannot forget the joy on a little boy's face when he wrote his name in English for the first time."
+   },
+   {
+    "tamil": "பிறருக்கு உதவுவதால் நமக்கும் மன நிறைவு கிடைக்கிறது.",
+    "english": "By helping others, we too get inner satisfaction."
+   },
+   {
+    "tamil": "நேரம் இல்லை என்று சொல்பவர்களிடம் சிறிது நேரமாவது ஒதுக்கச் சொல்வேன்.",
+    "english": "To those who say they have no time, I say to spare at least a little."
+   },
+   {
+    "tamil": "ஏனெனில் சிறிய உதவியும் ஒருவரின் வாழ்க்கையை மாற்றக்கூடும்.",
+    "english": "Because even a small help can change someone's life."
+   }
+  ]
+ },
+ {
+  "id": "para082",
+  "level": "Advanced",
+  "topic": "Festival of lights",
+  "sentenceCount": 8,
+  "tamil": "தீபாவளி வருவதற்கு ஒரு வாரம் முன்பே எங்கள் வீட்டில் ஏற்பாடுகள் தொடங்கிவிடும். என் அம்மா பலகாரங்கள் செய்யத் தொடங்குவார். நானும் என் தம்பியும் வீட்டைச் சுத்தம் செய்து அலங்கரிப்போம். தீபாவளி அன்று அதிகாலையில் எண்ணெய் தேய்த்துக் குளிப்போம். புதிய ஆடைகளை அணிந்து கோவிலுக்குச் செல்வோம். பிறகு உறவினர்களின் வீடுகளுக்குச் சென்று இனிப்புகளைப் பகிர்ந்துகொள்வோம். சமீப ஆண்டுகளாக நாங்கள் புகை குறைந்த பட்டாசுகளையே வாங்குகிறோம். சுற்றுச்சூழலைப் பாதுகாப்பதும் நம் பொறுப்பு என்று நினைக்கிறோம்.",
+  "english": "Preparations begin in our house a week before Diwali. My mother starts making sweets and snacks. My brother and I clean and decorate the house. On the day of Diwali we have an oil bath early in the morning. We wear new clothes and go to the temple. Then we visit relatives' houses and share sweets. In recent years we buy only low-smoke crackers. We feel that protecting the environment is also our responsibility.",
+  "sentences": [
+   {
+    "tamil": "தீபாவளி வருவதற்கு ஒரு வாரம் முன்பே எங்கள் வீட்டில் ஏற்பாடுகள் தொடங்கிவிடும்.",
+    "english": "Preparations begin in our house a week before Diwali."
+   },
+   {
+    "tamil": "என் அம்மா பலகாரங்கள் செய்யத் தொடங்குவார்.",
+    "english": "My mother starts making sweets and snacks."
+   },
+   {
+    "tamil": "நானும் என் தம்பியும் வீட்டைச் சுத்தம் செய்து அலங்கரிப்போம்.",
+    "english": "My brother and I clean and decorate the house."
+   },
+   {
+    "tamil": "தீபாவளி அன்று அதிகாலையில் எண்ணெய் தேய்த்துக் குளிப்போம்.",
+    "english": "On the day of Diwali we have an oil bath early in the morning."
+   },
+   {
+    "tamil": "புதிய ஆடைகளை அணிந்து கோவிலுக்குச் செல்வோம்.",
+    "english": "We wear new clothes and go to the temple."
+   },
+   {
+    "tamil": "பிறகு உறவினர்களின் வீடுகளுக்குச் சென்று இனிப்புகளைப் பகிர்ந்துகொள்வோம்.",
+    "english": "Then we visit relatives' houses and share sweets."
+   },
+   {
+    "tamil": "சமீப ஆண்டுகளாக நாங்கள் புகை குறைந்த பட்டாசுகளையே வாங்குகிறோம்.",
+    "english": "In recent years we buy only low-smoke crackers."
+   },
+   {
+    "tamil": "சுற்றுச்சூழலைப் பாதுகாப்பதும் நம் பொறுப்பு என்று நினைக்கிறோம்.",
+    "english": "We feel that protecting the environment is also our responsibility."
+   }
+  ]
+ },
+ {
+  "id": "para083",
+  "level": "Advanced",
+  "topic": "A power cut",
+  "sentenceCount": 9,
+  "tamil": "நேற்று இரவு திடீரென்று மின்சாரம் தடைபட்டது. அப்போது நான் என் அலுவலக வேலையை முடித்துக்கொண்டிருந்தேன். மடிக்கணினியின் மின்கலம் குறைவாக இருந்ததால் நான் உடனே என் கோப்புகளைச் சேமித்தேன். எங்கள் வீடு முழுவதும் இருட்டாகிவிட்டது. நாங்கள் மெழுகுவர்த்தியை ஏற்றிவிட்டு எல்லோரும் ஒன்றாக அமர்ந்தோம். என் பாட்டி எங்களுக்குப் பழைய கதைகள் சொல்லத் தொடங்கினார். மின்சாரம் வரும் வரை யாரும் கைபேசியைத் தொடவில்லை. அன்றைய இரவு எங்களுக்கு மறக்க முடியாத ஒன்றாக அமைந்தது. சில நேரங்களில் தொழில்நுட்பம் இல்லாத நேரமும் நமக்குத் தேவைதான்.",
+  "english": "Last night the electricity suddenly went off. At that time I was finishing my office work. Since the laptop battery was low, I saved my files immediately. The whole house became dark. We lit a candle and all sat together. My grandmother began telling us old stories. Nobody touched a mobile phone until the electricity returned. That night turned out to be unforgettable for us. Sometimes we need a time without technology too.",
+  "sentences": [
+   {
+    "tamil": "நேற்று இரவு திடீரென்று மின்சாரம் தடைபட்டது.",
+    "english": "Last night the electricity suddenly went off."
+   },
+   {
+    "tamil": "அப்போது நான் என் அலுவலக வேலையை முடித்துக்கொண்டிருந்தேன்.",
+    "english": "At that time I was finishing my office work."
+   },
+   {
+    "tamil": "மடிக்கணினியின் மின்கலம் குறைவாக இருந்ததால் நான் உடனே என் கோப்புகளைச் சேமித்தேன்.",
+    "english": "Since the laptop battery was low, I saved my files immediately."
+   },
+   {
+    "tamil": "எங்கள் வீடு முழுவதும் இருட்டாகிவிட்டது.",
+    "english": "The whole house became dark."
+   },
+   {
+    "tamil": "நாங்கள் மெழுகுவர்த்தியை ஏற்றிவிட்டு எல்லோரும் ஒன்றாக அமர்ந்தோம்.",
+    "english": "We lit a candle and all sat together."
+   },
+   {
+    "tamil": "என் பாட்டி எங்களுக்குப் பழைய கதைகள் சொல்லத் தொடங்கினார்.",
+    "english": "My grandmother began telling us old stories."
+   },
+   {
+    "tamil": "மின்சாரம் வரும் வரை யாரும் கைபேசியைத் தொடவில்லை.",
+    "english": "Nobody touched a mobile phone until the electricity returned."
+   },
+   {
+    "tamil": "அன்றைய இரவு எங்களுக்கு மறக்க முடியாத ஒன்றாக அமைந்தது.",
+    "english": "That night turned out to be unforgettable for us."
+   },
+   {
+    "tamil": "சில நேரங்களில் தொழில்நுட்பம் இல்லாத நேரமும் நமக்குத் தேவைதான்.",
+    "english": "Sometimes we need a time without technology too."
+   }
+  ]
+ },
+ {
+  "id": "para084",
+  "level": "Advanced",
+  "topic": "Learning a new skill",
+  "sentenceCount": 8,
+  "tamil": "வயது எவ்வளவு ஆனாலும் புதிய திறனைக் கற்றுக்கொள்ள முடியும் என்று நான் நம்புகிறேன். என் மாமா ஐம்பது வயதில் கணினி கற்றுக்கொண்டார். முதலில் சுட்டியைப் பிடிக்கவே அவருக்குத் தயக்கமாக இருந்தது. ஆனால் தினமும் ஒரு மணி நேரம் பயிற்சி செய்தார். மூன்று மாதங்களில் அவர் மின்னஞ்சல் அனுப்பவும் ஆவணங்கள் தட்டச்சு செய்யவும் கற்றுக்கொண்டார். இப்போது அவர் தம் நண்பர்களுக்கும் சொல்லிக் கொடுக்கிறார். அவரைப் பார்த்து நானும் கிட்டார் வாசிக்கக் கற்கத் தொடங்கினேன். தொடர்ந்த முயற்சியே எந்தத் திறனுக்கும் திறவுகோல்.",
+  "english": "I believe one can learn a new skill at any age. My uncle learnt to use a computer at the age of fifty. At first he was hesitant even to hold the mouse. But he practised for an hour every day. Within three months he learnt to send emails and type documents. Now he teaches his friends as well. Looking at him, I too started learning to play the guitar. Continuous effort is the key to any skill.",
+  "sentences": [
+   {
+    "tamil": "வயது எவ்வளவு ஆனாலும் புதிய திறனைக் கற்றுக்கொள்ள முடியும் என்று நான் நம்புகிறேன்.",
+    "english": "I believe one can learn a new skill at any age."
+   },
+   {
+    "tamil": "என் மாமா ஐம்பது வயதில் கணினி கற்றுக்கொண்டார்.",
+    "english": "My uncle learnt to use a computer at the age of fifty."
+   },
+   {
+    "tamil": "முதலில் சுட்டியைப் பிடிக்கவே அவருக்குத் தயக்கமாக இருந்தது.",
+    "english": "At first he was hesitant even to hold the mouse."
+   },
+   {
+    "tamil": "ஆனால் தினமும் ஒரு மணி நேரம் பயிற்சி செய்தார்.",
+    "english": "But he practised for an hour every day."
+   },
+   {
+    "tamil": "மூன்று மாதங்களில் அவர் மின்னஞ்சல் அனுப்பவும் ஆவணங்கள் தட்டச்சு செய்யவும் கற்றுக்கொண்டார்.",
+    "english": "Within three months he learnt to send emails and type documents."
+   },
+   {
+    "tamil": "இப்போது அவர் தம் நண்பர்களுக்கும் சொல்லிக் கொடுக்கிறார்.",
+    "english": "Now he teaches his friends as well."
+   },
+   {
+    "tamil": "அவரைப் பார்த்து நானும் கிட்டார் வாசிக்கக் கற்கத் தொடங்கினேன்.",
+    "english": "Looking at him, I too started learning to play the guitar."
+   },
+   {
+    "tamil": "தொடர்ந்த முயற்சியே எந்தத் திறனுக்கும் திறவுகோல்.",
+    "english": "Continuous effort is the key to any skill."
+   }
+  ]
+ },
+ {
+  "id": "para085",
+  "level": "Advanced",
+  "topic": "Mobile apps in daily life",
+  "sentenceCount": 8,
+  "tamil": "இன்றைய வாழ்க்கையில் கைபேசிச் செயலிகள் நம் வேலைகளை மிகவும் எளிதாக்கியுள்ளன. நாம் பேருந்து நேரங்களைப் பார்க்கலாம், உணவு ஆர்டர் செய்யலாம், பணம் அனுப்பலாம். என் அம்மா கூட இப்போது காய்கறிகளை ஒரு செயலி மூலம் வாங்குகிறார். ஆனால் இதனால் சில ஆபத்துகளும் இருக்கின்றன. தெரியாதவர்கள் அனுப்பும் இணைப்புகளைத் தொடுவது ஆபத்தாக முடியலாம். எனவே கடவுச்சொற்களை வலுவாக வைத்திருக்க வேண்டும். யாரிடமும் ஒருமுறை கடவுச்சொல்லைப் பகிரக்கூடாது. தொழில்நுட்பத்தைப் பயன்படுத்தும்போது எச்சரிக்கையும் தேவை என்பதை நாம் மறக்கக் கூடாது.",
+  "english": "In today's life, mobile apps have made our tasks much easier. We can check bus timings, order food and send money. Even my mother now buys vegetables through an app. But there are some risks too. Clicking on links sent by strangers can end up being dangerous. So we must keep our passwords strong. We should never share an OTP with anyone. We should not forget that caution is needed while using technology.",
+  "sentences": [
+   {
+    "tamil": "இன்றைய வாழ்க்கையில் கைபேசிச் செயலிகள் நம் வேலைகளை மிகவும் எளிதாக்கியுள்ளன.",
+    "english": "In today's life, mobile apps have made our tasks much easier."
+   },
+   {
+    "tamil": "நாம் பேருந்து நேரங்களைப் பார்க்கலாம், உணவு ஆர்டர் செய்யலாம், பணம் அனுப்பலாம்.",
+    "english": "We can check bus timings, order food and send money."
+   },
+   {
+    "tamil": "என் அம்மா கூட இப்போது காய்கறிகளை ஒரு செயலி மூலம் வாங்குகிறார்.",
+    "english": "Even my mother now buys vegetables through an app."
+   },
+   {
+    "tamil": "ஆனால் இதனால் சில ஆபத்துகளும் இருக்கின்றன.",
+    "english": "But there are some risks too."
+   },
+   {
+    "tamil": "தெரியாதவர்கள் அனுப்பும் இணைப்புகளைத் தொடுவது ஆபத்தாக முடியலாம்.",
+    "english": "Clicking on links sent by strangers can end up being dangerous."
+   },
+   {
+    "tamil": "எனவே கடவுச்சொற்களை வலுவாக வைத்திருக்க வேண்டும்.",
+    "english": "So we must keep our passwords strong."
+   },
+   {
+    "tamil": "யாரிடமும் ஒருமுறை கடவுச்சொல்லைப் பகிரக்கூடாது.",
+    "english": "We should never share an OTP with anyone."
+   },
+   {
+    "tamil": "தொழில்நுட்பத்தைப் பயன்படுத்தும்போது எச்சரிக்கையும் தேவை என்பதை நாம் மறக்கக் கூடாது.",
+    "english": "We should not forget that caution is needed while using technology."
+   }
+  ]
+ },
+ {
+  "id": "para086",
+  "level": "Interview",
+  "topic": "Job interview: introduction",
+  "sentenceCount": 6,
+  "tamil": "என் பெயர் அருண் குமார், நான் மதுரையைச் சேர்ந்தவன். நான் கணினி அறிவியலில் பொறியியல் பட்டம் பெற்றிருக்கிறேன். கடந்த இரண்டு ஆண்டுகளாக ஒரு சிறிய நிறுவனத்தில் மென்பொருள் உருவாக்குநராக வேலை செய்து வருகிறேன். அங்கே நான் இணையதளங்களையும் மொபைல் செயலிகளையும் உருவாக்கியுள்ளேன். புதிய தொழில்நுட்பங்களைக் கற்பதில் எனக்கு மிகுந்த ஆர்வம் உண்டு. இந்த வாய்ப்பு என் திறமையை மேலும் வளர்க்க உதவும் என்று நம்புகிறேன்.",
+  "english": "My name is Arun Kumar, and I am from Madurai. I have an engineering degree in computer science. For the last two years I have been working as a software developer in a small company. There I have built websites and mobile applications. I have a strong interest in learning new technologies. I believe this opportunity will help me develop my skills further.",
+  "sentences": [
+   {
+    "tamil": "என் பெயர் அருண் குமார், நான் மதுரையைச் சேர்ந்தவன்.",
+    "english": "My name is Arun Kumar, and I am from Madurai."
+   },
+   {
+    "tamil": "நான் கணினி அறிவியலில் பொறியியல் பட்டம் பெற்றிருக்கிறேன்.",
+    "english": "I have an engineering degree in computer science."
+   },
+   {
+    "tamil": "கடந்த இரண்டு ஆண்டுகளாக ஒரு சிறிய நிறுவனத்தில் மென்பொருள் உருவாக்குநராக வேலை செய்து வருகிறேன்.",
+    "english": "For the last two years I have been working as a software developer in a small company."
+   },
+   {
+    "tamil": "அங்கே நான் இணையதளங்களையும் மொபைல் செயலிகளையும் உருவாக்கியுள்ளேன்.",
+    "english": "There I have built websites and mobile applications."
+   },
+   {
+    "tamil": "புதிய தொழில்நுட்பங்களைக் கற்பதில் எனக்கு மிகுந்த ஆர்வம் உண்டு.",
+    "english": "I have a strong interest in learning new technologies."
+   },
+   {
+    "tamil": "இந்த வாய்ப்பு என் திறமையை மேலும் வளர்க்க உதவும் என்று நம்புகிறேன்.",
+    "english": "I believe this opportunity will help me develop my skills further."
+   }
+  ]
+ },
+ {
+  "id": "para087",
+  "level": "Interview",
+  "topic": "Job interview: strengths",
+  "sentenceCount": 5,
+  "tamil": "என்னுடைய மிகப்பெரிய பலம் பிரச்சினைகளைப் பொறுமையாக ஆராய்வதுதான். ஒரு சிக்கல் வந்தால் நான் பதற்றப்படாமல் அதன் காரணத்தைத் தேடுவேன். அதோடு நான் குழுவோடு சேர்ந்து வேலை செய்வதையும் விரும்புகிறேன். என் முந்தைய நிறுவனத்தில் நாங்கள் ஒரு திட்டத்தை காலக்கெடுவுக்கு முன்பே முடித்தோம். அதற்கு ஒவ்வொருவரும் தங்கள் பங்கைச் சரியாகச் செய்தது முக்கிய காரணம்.",
+  "english": "My greatest strength is analysing problems patiently. When a problem comes up, I look for its cause without panicking. I also like working together with a team. In my previous company, we finished a project before the deadline. The main reason was that everyone did their part properly.",
+  "sentences": [
+   {
+    "tamil": "என்னுடைய மிகப்பெரிய பலம் பிரச்சினைகளைப் பொறுமையாக ஆராய்வதுதான்.",
+    "english": "My greatest strength is analysing problems patiently."
+   },
+   {
+    "tamil": "ஒரு சிக்கல் வந்தால் நான் பதற்றப்படாமல் அதன் காரணத்தைத் தேடுவேன்.",
+    "english": "When a problem comes up, I look for its cause without panicking."
+   },
+   {
+    "tamil": "அதோடு நான் குழுவோடு சேர்ந்து வேலை செய்வதையும் விரும்புகிறேன்.",
+    "english": "I also like working together with a team."
+   },
+   {
+    "tamil": "என் முந்தைய நிறுவனத்தில் நாங்கள் ஒரு திட்டத்தை காலக்கெடுவுக்கு முன்பே முடித்தோம்.",
+    "english": "In my previous company, we finished a project before the deadline."
+   },
+   {
+    "tamil": "அதற்கு ஒவ்வொருவரும் தங்கள் பங்கைச் சரியாகச் செய்தது முக்கிய காரணம்.",
+    "english": "The main reason was that everyone did their part properly."
+   }
+  ]
+ },
+ {
+  "id": "para088",
+  "level": "Interview",
+  "topic": "Job interview: weakness",
+  "sentenceCount": 5,
+  "tamil": "என்னுடைய பலவீனம் என்னவென்றால் சில நேரங்களில் நான் எல்லா வேலைகளையும் நானே செய்ய முயல்வேன். இதனால் எனக்குச் சோர்வு ஏற்பட்டது. இப்போது நான் வேலைகளைக் குழுவில் பகிர்ந்து கொடுக்கக் கற்றுக்கொண்டிருக்கிறேன். இது வேலையை வேகமாக முடிக்கவும் உதவுகிறது. நான் என் குறைகளைத் திருத்திக்கொள்வதில் எப்போதும் முயற்சி செய்கிறேன்.",
+  "english": "My weakness is that sometimes I try to do all the work myself. Because of this, I used to get tired. Now I am learning to share the work within the team. This also helps finish the work faster. I always make an effort to correct my shortcomings.",
+  "sentences": [
+   {
+    "tamil": "என்னுடைய பலவீனம் என்னவென்றால் சில நேரங்களில் நான் எல்லா வேலைகளையும் நானே செய்ய முயல்வேன்.",
+    "english": "My weakness is that sometimes I try to do all the work myself."
+   },
+   {
+    "tamil": "இதனால் எனக்குச் சோர்வு ஏற்பட்டது.",
+    "english": "Because of this, I used to get tired."
+   },
+   {
+    "tamil": "இப்போது நான் வேலைகளைக் குழுவில் பகிர்ந்து கொடுக்கக் கற்றுக்கொண்டிருக்கிறேன்.",
+    "english": "Now I am learning to share the work within the team."
+   },
+   {
+    "tamil": "இது வேலையை வேகமாக முடிக்கவும் உதவுகிறது.",
+    "english": "This also helps finish the work faster."
+   },
+   {
+    "tamil": "நான் என் குறைகளைத் திருத்திக்கொள்வதில் எப்போதும் முயற்சி செய்கிறேன்.",
+    "english": "I always make an effort to correct my shortcomings."
+   }
+  ]
+ },
+ {
+  "id": "para089",
+  "level": "Interview",
+  "topic": "Job interview: why this company",
+  "sentenceCount": 6,
+  "tamil": "உங்கள் நிறுவனம் புதுமையான தயாரிப்புகளுக்குப் பெயர் பெற்றது. நான் உங்கள் இணையதளத்தில் சமீபத்திய திட்டங்களைப் படித்தேன். குறிப்பாக உங்கள் கல்விச் செயலி எனக்கு மிகவும் பிடித்தது. இத்தகைய ஒரு குழுவில் இணைந்து வேலை செய்ய நான் மிகவும் விரும்புகிறேன். என் திறமைகள் உங்கள் நிறுவனத்தின் வளர்ச்சிக்கு உதவும் என்று நம்புகிறேன். மேலும் இங்கே எனக்குக் கற்றுக்கொள்ள நிறைய வாய்ப்புகள் இருக்கும் என்று தோன்றுகிறது.",
+  "english": "Your company is well known for its innovative products. I read about your recent projects on your website. I particularly liked your education app. I would really like to join and work in such a team. I believe my skills will contribute to your company's growth. Also, I feel there will be plenty of opportunities for me to learn here.",
+  "sentences": [
+   {
+    "tamil": "உங்கள் நிறுவனம் புதுமையான தயாரிப்புகளுக்குப் பெயர் பெற்றது.",
+    "english": "Your company is well known for its innovative products."
+   },
+   {
+    "tamil": "நான் உங்கள் இணையதளத்தில் சமீபத்திய திட்டங்களைப் படித்தேன்.",
+    "english": "I read about your recent projects on your website."
+   },
+   {
+    "tamil": "குறிப்பாக உங்கள் கல்விச் செயலி எனக்கு மிகவும் பிடித்தது.",
+    "english": "I particularly liked your education app."
+   },
+   {
+    "tamil": "இத்தகைய ஒரு குழுவில் இணைந்து வேலை செய்ய நான் மிகவும் விரும்புகிறேன்.",
+    "english": "I would really like to join and work in such a team."
+   },
+   {
+    "tamil": "என் திறமைகள் உங்கள் நிறுவனத்தின் வளர்ச்சிக்கு உதவும் என்று நம்புகிறேன்.",
+    "english": "I believe my skills will contribute to your company's growth."
+   },
+   {
+    "tamil": "மேலும் இங்கே எனக்குக் கற்றுக்கொள்ள நிறைய வாய்ப்புகள் இருக்கும் என்று தோன்றுகிறது.",
+    "english": "Also, I feel there will be plenty of opportunities for me to learn here."
+   }
+  ]
+ },
+ {
+  "id": "para090",
+  "level": "Interview",
+  "topic": "Job interview: handling pressure",
+  "sentenceCount": 6,
+  "tamil": "வேலை அழுத்தம் அதிகமாக இருக்கும்போது நான் முதலில் என் பணிகளுக்கு முன்னுரிமை வகுப்பேன். மிக அவசரமானவற்றை முதலில் முடிப்பேன். தேவைப்பட்டால் என் மேலாளரிடம் உதவி கேட்பேன். கடந்த ஆண்டு ஒரே வாரத்தில் மூன்று வாடிக்கையாளர் கோரிக்கைகள் வந்தன. நாங்கள் ஒரு அட்டவணை தயாரித்து எல்லாவற்றையும் நேரத்தில் முடித்தோம். அந்த அனுபவம் எனக்கு அமைதியாக இருக்கக் கற்றுக்கொடுத்தது.",
+  "english": "When the work pressure is high, I first prioritise my tasks. I finish the most urgent ones first. If necessary, I ask my manager for help. Last year three client requests came in a single week. We prepared a schedule and completed everything on time. That experience taught me to stay calm.",
+  "sentences": [
+   {
+    "tamil": "வேலை அழுத்தம் அதிகமாக இருக்கும்போது நான் முதலில் என் பணிகளுக்கு முன்னுரிமை வகுப்பேன்.",
+    "english": "When the work pressure is high, I first prioritise my tasks."
+   },
+   {
+    "tamil": "மிக அவசரமானவற்றை முதலில் முடிப்பேன்.",
+    "english": "I finish the most urgent ones first."
+   },
+   {
+    "tamil": "தேவைப்பட்டால் என் மேலாளரிடம் உதவி கேட்பேன்.",
+    "english": "If necessary, I ask my manager for help."
+   },
+   {
+    "tamil": "கடந்த ஆண்டு ஒரே வாரத்தில் மூன்று வாடிக்கையாளர் கோரிக்கைகள் வந்தன.",
+    "english": "Last year three client requests came in a single week."
+   },
+   {
+    "tamil": "நாங்கள் ஒரு அட்டவணை தயாரித்து எல்லாவற்றையும் நேரத்தில் முடித்தோம்.",
+    "english": "We prepared a schedule and completed everything on time."
+   },
+   {
+    "tamil": "அந்த அனுபவம் எனக்கு அமைதியாக இருக்கக் கற்றுக்கொடுத்தது.",
+    "english": "That experience taught me to stay calm."
+   }
+  ]
+ },
+ {
+  "id": "para091",
+  "level": "Interview",
+  "topic": "Job interview: salary discussion",
+  "sentenceCount": 5,
+  "tamil": "என் அனுபவத்தையும் திறமையையும் கருத்தில் கொண்டு நியாயமான சம்பளத்தை எதிர்பார்க்கிறேன். சந்தையில் இந்தப் பதவிக்கான சராசரி சம்பளத்தை நான் ஆராய்ந்து பார்த்தேன். ஆனாலும் எனக்குக் கற்றுக்கொள்ளும் வாய்ப்புகள் அதைவிட முக்கியம். உங்கள் நிறுவனத்தின் சம்பள அமைப்பைப் பற்றிச் சொன்னால் நான் தெளிவாகப் பரிசீலிக்க முடியும். பேச்சுவார்த்தைக்குத் தயாராக இருக்கிறேன்.",
+  "english": "Considering my experience and skills, I expect a fair salary. I have researched the average salary for this position in the market. Even so, learning opportunities are more important to me. If you tell me about your company's salary structure, I can consider it clearly. I am open to discussion.",
+  "sentences": [
+   {
+    "tamil": "என் அனுபவத்தையும் திறமையையும் கருத்தில் கொண்டு நியாயமான சம்பளத்தை எதிர்பார்க்கிறேன்.",
+    "english": "Considering my experience and skills, I expect a fair salary."
+   },
+   {
+    "tamil": "சந்தையில் இந்தப் பதவிக்கான சராசரி சம்பளத்தை நான் ஆராய்ந்து பார்த்தேன்.",
+    "english": "I have researched the average salary for this position in the market."
+   },
+   {
+    "tamil": "ஆனாலும் எனக்குக் கற்றுக்கொள்ளும் வாய்ப்புகள் அதைவிட முக்கியம்.",
+    "english": "Even so, learning opportunities are more important to me."
+   },
+   {
+    "tamil": "உங்கள் நிறுவனத்தின் சம்பள அமைப்பைப் பற்றிச் சொன்னால் நான் தெளிவாகப் பரிசீலிக்க முடியும்.",
+    "english": "If you tell me about your company's salary structure, I can consider it clearly."
+   },
+   {
+    "tamil": "பேச்சுவார்த்தைக்குத் தயாராக இருக்கிறேன்.",
+    "english": "I am open to discussion."
+   }
+  ]
+ },
+ {
+  "id": "para092",
+  "level": "Interview",
+  "topic": "Job interview: leaving the previous job",
+  "sentenceCount": 6,
+  "tamil": "நான் என் தற்போதைய வேலையை விட்டுச் செல்ல விரும்புவதற்கு முக்கிய காரணம் வளர்ச்சி வாய்ப்புகள்தான். அங்கே நான் நிறைய கற்றுக்கொண்டேன், அதற்காக நன்றியுடன் இருக்கிறேன். ஆனால் இப்போது பெரிய திட்டங்களில் வேலை செய்ய வேண்டும் என்று ஆசைப்படுகிறேன். என் மேலாளருக்கும் என் முடிவு தெரியும். நான் அங்கிருந்து நல்ல உறவுடன்தான் விலகுவேன். அவர்களைப் பற்றி நான் எந்தக் குறையும் சொல்ல விரும்பவில்லை.",
+  "english": "The main reason I want to leave my current job is growth opportunities. I learnt a lot there, and I am grateful for it. But now I wish to work on bigger projects. My manager is also aware of my decision. I will leave on good terms. I do not want to say anything negative about them.",
+  "sentences": [
+   {
+    "tamil": "நான் என் தற்போதைய வேலையை விட்டுச் செல்ல விரும்புவதற்கு முக்கிய காரணம் வளர்ச்சி வாய்ப்புகள்தான்.",
+    "english": "The main reason I want to leave my current job is growth opportunities."
+   },
+   {
+    "tamil": "அங்கே நான் நிறைய கற்றுக்கொண்டேன், அதற்காக நன்றியுடன் இருக்கிறேன்.",
+    "english": "I learnt a lot there, and I am grateful for it."
+   },
+   {
+    "tamil": "ஆனால் இப்போது பெரிய திட்டங்களில் வேலை செய்ய வேண்டும் என்று ஆசைப்படுகிறேன்.",
+    "english": "But now I wish to work on bigger projects."
+   },
+   {
+    "tamil": "என் மேலாளருக்கும் என் முடிவு தெரியும்.",
+    "english": "My manager is also aware of my decision."
+   },
+   {
+    "tamil": "நான் அங்கிருந்து நல்ல உறவுடன்தான் விலகுவேன்.",
+    "english": "I will leave on good terms."
+   },
+   {
+    "tamil": "அவர்களைப் பற்றி நான் எந்தக் குறையும் சொல்ல விரும்பவில்லை.",
+    "english": "I do not want to say anything negative about them."
+   }
+  ]
+ },
+ {
+  "id": "para093",
+  "level": "Interview",
+  "topic": "Job interview: teamwork example",
+  "sentenceCount": 7,
+  "tamil": "கடந்த ஆண்டு எங்கள் குழு ஒரு புதிய பணம் செலுத்தும் வசதியை உருவாக்கியது. நான் முன்புற வடிவமைப்புப் பகுதியைப் பார்த்துக்கொண்டேன். இன்னொரு சக ஊழியர் பின்புறக் கணினி அமைப்பைக் கவனித்தார். நாங்கள் தினமும் இருபது நிமிடங்கள் முன்னேற்றத்தைப் பற்றிப் பேசினோம். ஒரு சிக்கலில் நாங்கள் இருவரும் சேர்ந்து இரவு வரை வேலை செய்தோம். இறுதியில் அந்த வசதி வாடிக்கையாளர்களிடையே மிகவும் பிரபலமானது. குழுவின் ஒற்றுமையே அந்த வெற்றிக்குக் காரணம் என்று நினைக்கிறேன்.",
+  "english": "Last year our team built a new payment feature. I took care of the front-end part. Another colleague looked after the back-end system. We discussed progress for twenty minutes every day. On one issue the two of us worked together till night. In the end that feature became very popular among customers. I think the unity of the team was the reason for that success.",
+  "sentences": [
+   {
+    "tamil": "கடந்த ஆண்டு எங்கள் குழு ஒரு புதிய பணம் செலுத்தும் வசதியை உருவாக்கியது.",
+    "english": "Last year our team built a new payment feature."
+   },
+   {
+    "tamil": "நான் முன்புற வடிவமைப்புப் பகுதியைப் பார்த்துக்கொண்டேன்.",
+    "english": "I took care of the front-end part."
+   },
+   {
+    "tamil": "இன்னொரு சக ஊழியர் பின்புறக் கணினி அமைப்பைக் கவனித்தார்.",
+    "english": "Another colleague looked after the back-end system."
+   },
+   {
+    "tamil": "நாங்கள் தினமும் இருபது நிமிடங்கள் முன்னேற்றத்தைப் பற்றிப் பேசினோம்.",
+    "english": "We discussed progress for twenty minutes every day."
+   },
+   {
+    "tamil": "ஒரு சிக்கலில் நாங்கள் இருவரும் சேர்ந்து இரவு வரை வேலை செய்தோம்.",
+    "english": "On one issue the two of us worked together till night."
+   },
+   {
+    "tamil": "இறுதியில் அந்த வசதி வாடிக்கையாளர்களிடையே மிகவும் பிரபலமானது.",
+    "english": "In the end that feature became very popular among customers."
+   },
+   {
+    "tamil": "குழுவின் ஒற்றுமையே அந்த வெற்றிக்குக் காரணம் என்று நினைக்கிறேன்.",
+    "english": "I think the unity of the team was the reason for that success."
+   }
+  ]
+ },
+ {
+  "id": "para094",
+  "level": "Interview",
+  "topic": "Job interview: five-year goals",
+  "sentenceCount": 6,
+  "tamil": "அடுத்த ஐந்து ஆண்டுகளில் நான் ஒரு திறமையான மூத்த உருவாக்குநராக வளர விரும்புகிறேன். அதற்காக நான் தொடர்ந்து புதிய தொழில்நுட்பங்களைக் கற்க வேண்டும். மேலும் இளையவர்களுக்கு வழிகாட்டும் பொறுப்பையும் ஏற்க விரும்புகிறேன். ஒரு குழுவை வழிநடத்தும் திறனையும் வளர்த்துக்கொள்ள ஆசை. உங்கள் நிறுவனத்தில் நீண்ட காலம் பணியாற்ற நான் தயாராக இருக்கிறேன். என் வளர்ச்சியும் நிறுவனத்தின் வளர்ச்சியும் ஒன்றாகச் செல்லும் என்று நம்புகிறேன்.",
+  "english": "In the next five years I want to grow into a skilled senior developer. For that, I must keep learning new technologies. I also want to take up the responsibility of guiding younger colleagues. I also wish to develop the ability to lead a team. I am ready to work in your company for a long time. I believe my growth and the company's growth will go together.",
+  "sentences": [
+   {
+    "tamil": "அடுத்த ஐந்து ஆண்டுகளில் நான் ஒரு திறமையான மூத்த உருவாக்குநராக வளர விரும்புகிறேன்.",
+    "english": "In the next five years I want to grow into a skilled senior developer."
+   },
+   {
+    "tamil": "அதற்காக நான் தொடர்ந்து புதிய தொழில்நுட்பங்களைக் கற்க வேண்டும்.",
+    "english": "For that, I must keep learning new technologies."
+   },
+   {
+    "tamil": "மேலும் இளையவர்களுக்கு வழிகாட்டும் பொறுப்பையும் ஏற்க விரும்புகிறேன்.",
+    "english": "I also want to take up the responsibility of guiding younger colleagues."
+   },
+   {
+    "tamil": "ஒரு குழுவை வழிநடத்தும் திறனையும் வளர்த்துக்கொள்ள ஆசை.",
+    "english": "I also wish to develop the ability to lead a team."
+   },
+   {
+    "tamil": "உங்கள் நிறுவனத்தில் நீண்ட காலம் பணியாற்ற நான் தயாராக இருக்கிறேன்.",
+    "english": "I am ready to work in your company for a long time."
+   },
+   {
+    "tamil": "என் வளர்ச்சியும் நிறுவனத்தின் வளர்ச்சியும் ஒன்றாகச் செல்லும் என்று நம்புகிறேன்.",
+    "english": "I believe my growth and the company's growth will go together."
+   }
+  ]
+ },
+ {
+  "id": "para095",
+  "level": "Interview",
+  "topic": "Job interview: dealing with a mistake",
+  "sentenceCount": 6,
+  "tamil": "ஒருமுறை நான் தவறுதலாக ஒரு முக்கியமான கோப்பை அழித்துவிட்டேன். நான் உடனே அதை என் மேலாளரிடம் தெரிவித்தேன். பிறகு காப்புப் பிரதியிலிருந்து அதை மீட்டெடுக்க முயன்றேன். ஒரு மணி நேரத்தில் எல்லாம் சரியானது. அந்த நாளிலிருந்து நான் எந்த மாற்றம் செய்வதற்கு முன்பும் காப்புப் பிரதி எடுக்கிறேன். தவறுகளை மறைப்பதை விட ஒப்புக்கொண்டு திருத்திக்கொள்வதே சிறந்தது என்று நான் நம்புகிறேன்.",
+  "english": "Once I accidentally deleted an important file. I immediately informed my manager. Then I tried to recover it from the backup. Within an hour everything was fine. Since that day, I take a backup before making any change. I believe it is better to admit and correct mistakes than to hide them.",
+  "sentences": [
+   {
+    "tamil": "ஒருமுறை நான் தவறுதலாக ஒரு முக்கியமான கோப்பை அழித்துவிட்டேன்.",
+    "english": "Once I accidentally deleted an important file."
+   },
+   {
+    "tamil": "நான் உடனே அதை என் மேலாளரிடம் தெரிவித்தேன்.",
+    "english": "I immediately informed my manager."
+   },
+   {
+    "tamil": "பிறகு காப்புப் பிரதியிலிருந்து அதை மீட்டெடுக்க முயன்றேன்.",
+    "english": "Then I tried to recover it from the backup."
+   },
+   {
+    "tamil": "ஒரு மணி நேரத்தில் எல்லாம் சரியானது.",
+    "english": "Within an hour everything was fine."
+   },
+   {
+    "tamil": "அந்த நாளிலிருந்து நான் எந்த மாற்றம் செய்வதற்கு முன்பும் காப்புப் பிரதி எடுக்கிறேன்.",
+    "english": "Since that day, I take a backup before making any change."
+   },
+   {
+    "tamil": "தவறுகளை மறைப்பதை விட ஒப்புக்கொண்டு திருத்திக்கொள்வதே சிறந்தது என்று நான் நம்புகிறேன்.",
+    "english": "I believe it is better to admit and correct mistakes than to hide them."
+   }
+  ]
+ },
+ {
+  "id": "para096",
+  "level": "Interview",
+  "topic": "Job interview: asking questions",
+  "sentenceCount": 6,
+  "tamil": "நேர்காணலின் முடிவில் எனக்கு சில கேள்விகள் கேட்க விருப்பம். இந்தப் பதவிக்கான முதல் மூன்று மாதப் பொறுப்புகள் என்னென்ன? நான் எந்தக் குழுவுடன் வேலை செய்வேன்? ஊழியர்களுக்கான பயிற்சித் திட்டங்கள் ஏதேனும் உள்ளனவா? தேர்வு முடிவு எப்போது தெரிவிக்கப்படும்? உங்கள் நேரத்துக்கு மிக்க நன்றி.",
+  "english": "At the end of the interview I would like to ask a few questions. What are the responsibilities for this position in the first three months? Which team will I work with? Are there any training programmes for employees? When will the result of the selection be communicated? Thank you very much for your time.",
+  "sentences": [
+   {
+    "tamil": "நேர்காணலின் முடிவில் எனக்கு சில கேள்விகள் கேட்க விருப்பம்.",
+    "english": "At the end of the interview I would like to ask a few questions."
+   },
+   {
+    "tamil": "இந்தப் பதவிக்கான முதல் மூன்று மாதப் பொறுப்புகள் என்னென்ன?",
+    "english": "What are the responsibilities for this position in the first three months?"
+   },
+   {
+    "tamil": "நான் எந்தக் குழுவுடன் வேலை செய்வேன்?",
+    "english": "Which team will I work with?"
+   },
+   {
+    "tamil": "ஊழியர்களுக்கான பயிற்சித் திட்டங்கள் ஏதேனும் உள்ளனவா?",
+    "english": "Are there any training programmes for employees?"
+   },
+   {
+    "tamil": "தேர்வு முடிவு எப்போது தெரிவிக்கப்படும்?",
+    "english": "When will the result of the selection be communicated?"
+   },
+   {
+    "tamil": "உங்கள் நேரத்துக்கு மிக்க நன்றி.",
+    "english": "Thank you very much for your time."
+   }
+  ]
+ },
+ {
+  "id": "para097",
+  "level": "Interview",
+  "topic": "Technical interview: explaining a project",
+  "sentenceCount": 8,
+  "tamil": "நான் உருவாக்கிய முக்கியமான திட்டம் ஒரு உணவகத்துக்கான ஆர்டர் செயலி. வாடிக்கையாளர்கள் அதில் மேசை எண்ணைத் தேர்வு செய்து உணவை ஆர்டர் செய்யலாம். ஆர்டர் உடனே சமையலறைக்குச் சென்றுவிடும். நான் இதில் முன்புறத்தையும் தரவுத்தளத்தையும் வடிவமைத்தேன். மிகவும் கடினமாக இருந்தது ஒரே நேரத்தில் பல ஆர்டர்களைச் சமாளிப்பதுதான். அதற்காக நான் ஒரு வரிசை முறையைப் பயன்படுத்தினேன். இந்தச் செயலி இப்போது தினமும் நூற்றுக்கும் மேற்பட்ட ஆர்டர்களைச் செயலாக்குகிறது. அதன் அனுபவம் எனக்கு உண்மையான பயனர்களுக்காக உருவாக்குவதன் மதிப்பைக் கற்றுக்கொடுத்தது.",
+  "english": "The main project I built was an ordering app for a restaurant. In it, customers can choose their table number and order food. The order goes straight to the kitchen. In this I designed the front end and the database. The most difficult part was handling many orders at the same time. For that I used a queue system. This app now processes more than a hundred orders every day. The experience taught me the value of building for real users.",
+  "sentences": [
+   {
+    "tamil": "நான் உருவாக்கிய முக்கியமான திட்டம் ஒரு உணவகத்துக்கான ஆர்டர் செயலி.",
+    "english": "The main project I built was an ordering app for a restaurant."
+   },
+   {
+    "tamil": "வாடிக்கையாளர்கள் அதில் மேசை எண்ணைத் தேர்வு செய்து உணவை ஆர்டர் செய்யலாம்.",
+    "english": "In it, customers can choose their table number and order food."
+   },
+   {
+    "tamil": "ஆர்டர் உடனே சமையலறைக்குச் சென்றுவிடும்.",
+    "english": "The order goes straight to the kitchen."
+   },
+   {
+    "tamil": "நான் இதில் முன்புறத்தையும் தரவுத்தளத்தையும் வடிவமைத்தேன்.",
+    "english": "In this I designed the front end and the database."
+   },
+   {
+    "tamil": "மிகவும் கடினமாக இருந்தது ஒரே நேரத்தில் பல ஆர்டர்களைச் சமாளிப்பதுதான்.",
+    "english": "The most difficult part was handling many orders at the same time."
+   },
+   {
+    "tamil": "அதற்காக நான் ஒரு வரிசை முறையைப் பயன்படுத்தினேன்.",
+    "english": "For that I used a queue system."
+   },
+   {
+    "tamil": "இந்தச் செயலி இப்போது தினமும் நூற்றுக்கும் மேற்பட்ட ஆர்டர்களைச் செயலாக்குகிறது.",
+    "english": "This app now processes more than a hundred orders every day."
+   },
+   {
+    "tamil": "அதன் அனுபவம் எனக்கு உண்மையான பயனர்களுக்காக உருவாக்குவதன் மதிப்பைக் கற்றுக்கொடுத்தது.",
+    "english": "The experience taught me the value of building for real users."
+   }
+  ]
+ },
+ {
+  "id": "para098",
+  "level": "Interview",
+  "topic": "Technical support interview",
+  "sentenceCount": 8,
+  "tamil": "ஒரு வாடிக்கையாளர் தம் கணினி இயங்கவில்லை என்று சொன்னால் நான் முதலில் என்ன நடந்தது என்று கேட்பேன். அது மின்சாரம் தொடர்பானதா அல்லது மென்பொருள் தொடர்பானதா என்று பார்ப்பேன். பெரும்பாலான நேரங்களில் மீண்டும் தொடங்குவதே சிக்கலைத் தீர்த்துவிடும். அது வேலை செய்யாவிட்டால் நான் படிப்படியாகச் சோதிப்பேன். வாடிக்கையாளருக்குப் புரியும் எளிய மொழியில் நான் விளக்குவேன். சிக்கலைத் தீர்க்க முடியாவிட்டால் அதைச் சரியான குழுவுக்கு அனுப்பிவிடுவேன். பிறகு வாடிக்கையாளருக்கு இதைத் தெளிவாகத் தெரிவிப்பேன். அவருடைய நம்பிக்கையைப் பெறுவதே என் முதல் நோக்கம்.",
+  "english": "If a customer says that their computer is not working, I first ask what happened. I check whether it is related to power or to software. Most of the time, restarting solves the problem. If that does not work, I test step by step. I explain in simple language that the customer can understand. If I cannot solve the problem, I pass it to the right team. Then I inform the customer about this clearly. Gaining their trust is my first aim.",
+  "sentences": [
+   {
+    "tamil": "ஒரு வாடிக்கையாளர் தம் கணினி இயங்கவில்லை என்று சொன்னால் நான் முதலில் என்ன நடந்தது என்று கேட்பேன்.",
+    "english": "If a customer says that their computer is not working, I first ask what happened."
+   },
+   {
+    "tamil": "அது மின்சாரம் தொடர்பானதா அல்லது மென்பொருள் தொடர்பானதா என்று பார்ப்பேன்.",
+    "english": "I check whether it is related to power or to software."
+   },
+   {
+    "tamil": "பெரும்பாலான நேரங்களில் மீண்டும் தொடங்குவதே சிக்கலைத் தீர்த்துவிடும்.",
+    "english": "Most of the time, restarting solves the problem."
+   },
+   {
+    "tamil": "அது வேலை செய்யாவிட்டால் நான் படிப்படியாகச் சோதிப்பேன்.",
+    "english": "If that does not work, I test step by step."
+   },
+   {
+    "tamil": "வாடிக்கையாளருக்குப் புரியும் எளிய மொழியில் நான் விளக்குவேன்.",
+    "english": "I explain in simple language that the customer can understand."
+   },
+   {
+    "tamil": "சிக்கலைத் தீர்க்க முடியாவிட்டால் அதைச் சரியான குழுவுக்கு அனுப்பிவிடுவேன்.",
+    "english": "If I cannot solve the problem, I pass it to the right team."
+   },
+   {
+    "tamil": "பிறகு வாடிக்கையாளருக்கு இதைத் தெளிவாகத் தெரிவிப்பேன்.",
+    "english": "Then I inform the customer about this clearly."
+   },
+   {
+    "tamil": "அவருடைய நம்பிக்கையைப் பெறுவதே என் முதல் நோக்கம்.",
+    "english": "Gaining their trust is my first aim."
+   }
+  ]
+ },
+ {
+  "id": "para099",
+  "level": "Interview",
+  "topic": "HR interview: working hours",
+  "sentenceCount": 6,
+  "tamil": "தேவை ஏற்பட்டால் நான் கூடுதல் நேரம் வேலை செய்யத் தயாராக இருக்கிறேன். ஆனால் அது எப்போதும் நடக்கக் கூடாது என்றும் நினைக்கிறேன். சமநிலையான வாழ்க்கை நல்ல வேலைக்கு மிகவும் அவசியம். நான் வார இறுதியில் குடும்பத்துடன் நேரம் செலவிட விரும்புகிறேன். அதே நேரத்தில் அவசர நிலை வந்தால் நான் உதவ மறுக்க மாட்டேன். இது குறித்த உங்கள் கொள்கையை நான் அறிந்துகொள்ள விரும்புகிறேன்.",
+  "english": "If necessary, I am ready to work extra hours. But I also think it should not happen all the time. A balanced life is very essential for good work. I like to spend time with my family on weekends. At the same time, if an emergency comes up, I will not refuse to help. I would like to know your policy on this.",
+  "sentences": [
+   {
+    "tamil": "தேவை ஏற்பட்டால் நான் கூடுதல் நேரம் வேலை செய்யத் தயாராக இருக்கிறேன்.",
+    "english": "If necessary, I am ready to work extra hours."
+   },
+   {
+    "tamil": "ஆனால் அது எப்போதும் நடக்கக் கூடாது என்றும் நினைக்கிறேன்.",
+    "english": "But I also think it should not happen all the time."
+   },
+   {
+    "tamil": "சமநிலையான வாழ்க்கை நல்ல வேலைக்கு மிகவும் அவசியம்.",
+    "english": "A balanced life is very essential for good work."
+   },
+   {
+    "tamil": "நான் வார இறுதியில் குடும்பத்துடன் நேரம் செலவிட விரும்புகிறேன்.",
+    "english": "I like to spend time with my family on weekends."
+   },
+   {
+    "tamil": "அதே நேரத்தில் அவசர நிலை வந்தால் நான் உதவ மறுக்க மாட்டேன்.",
+    "english": "At the same time, if an emergency comes up, I will not refuse to help."
+   },
+   {
+    "tamil": "இது குறித்த உங்கள் கொள்கையை நான் அறிந்துகொள்ள விரும்புகிறேன்.",
+    "english": "I would like to know your policy on this."
+   }
+  ]
+ },
+ {
+  "id": "para100",
+  "level": "Interview",
+  "topic": "Customer-facing role interview",
+  "sentenceCount": 7,
+  "tamil": "வாடிக்கையாளர்களோடு பேசும் வேலை எனக்கு மிகவும் பிடிக்கும். நான் தெளிவாகவும் மரியாதையாகவும் பேசுவேன். வாடிக்கையாளர் சொல்வதை முழுவதும் கேட்ட பிறகுதான் பதில் சொல்வேன். எனக்குப் பதில் தெரியாத கேள்வி வந்தால் அதை உண்மையாக ஒப்புக்கொண்டு விவரங்களைக் கண்டுபிடித்துச் சொல்வேன். கடினமான வாடிக்கையாளர்களிடம் நான் பொறுமையாக நடந்துகொள்வேன். அவர்களுடைய மகிழ்ச்சியே என் வெற்றி. இந்தப் பணிக்கு நான் பொருத்தமானவன் என்று நம்புகிறேன்.",
+  "english": "I like jobs where I talk with customers very much. I speak clearly and politely. I answer only after listening fully to what the customer says. If I get a question I do not know the answer to, I honestly admit it and find out the details. I behave patiently with difficult customers. Their happiness is my success. I believe I am suitable for this role.",
+  "sentences": [
+   {
+    "tamil": "வாடிக்கையாளர்களோடு பேசும் வேலை எனக்கு மிகவும் பிடிக்கும்.",
+    "english": "I like jobs where I talk with customers very much."
+   },
+   {
+    "tamil": "நான் தெளிவாகவும் மரியாதையாகவும் பேசுவேன்.",
+    "english": "I speak clearly and politely."
+   },
+   {
+    "tamil": "வாடிக்கையாளர் சொல்வதை முழுவதும் கேட்ட பிறகுதான் பதில் சொல்வேன்.",
+    "english": "I answer only after listening fully to what the customer says."
+   },
+   {
+    "tamil": "எனக்குப் பதில் தெரியாத கேள்வி வந்தால் அதை உண்மையாக ஒப்புக்கொண்டு விவரங்களைக் கண்டுபிடித்துச் சொல்வேன்.",
+    "english": "If I get a question I do not know the answer to, I honestly admit it and find out the details."
+   },
+   {
+    "tamil": "கடினமான வாடிக்கையாளர்களிடம் நான் பொறுமையாக நடந்துகொள்வேன்.",
+    "english": "I behave patiently with difficult customers."
+   },
+   {
+    "tamil": "அவர்களுடைய மகிழ்ச்சியே என் வெற்றி.",
+    "english": "Their happiness is my success."
+   },
+   {
+    "tamil": "இந்தப் பணிக்கு நான் பொருத்தமானவன் என்று நம்புகிறேன்.",
+    "english": "I believe I am suitable for this role."
+   }
+  ]
+ }
+]
